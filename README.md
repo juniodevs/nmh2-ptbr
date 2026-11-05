@@ -38,9 +38,7 @@ O script copia os arquivos salvos em `.backup` de volta para a pasta do jogo, re
 - Bicos de Santa Destroy (minigames 8-bit com nomes adaptados)
 - Banners de combate e rank up traduzidos (FALHA, TEMPO ESGOTADO, VAI!, TEMPO FINAL)
 - Legenda gráfica da batalha contra Skelter Helter
-- Textura da folha de fax da UAA traduzida
 - Menus, seleção de dificuldade, opções e telas de save no executável
-- Fonte reconstruída com acentos da língua portuguesa (á, é, í, ó, ú, ç, ã, õ, etc.)
 
 ## Estrutura do Repositório
 
