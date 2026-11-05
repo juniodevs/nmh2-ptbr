@@ -4,3 +4,4 @@ title Gerar Pacote ZIP de Release
 python "%~dp0gerar_zip_release.py"
 echo.
 pause
+

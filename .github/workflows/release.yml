@@ -73,3 +73,4 @@ jobs:
           draft: false
           prerelease: ${{ steps.vars.outputs.prerelease == 'true' }}
           files: ${{ steps.package.outputs.zip_path }}
+
