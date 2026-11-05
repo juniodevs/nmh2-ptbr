@@ -10,6 +10,9 @@ backups/
 *.tmp
 *.log
 *.zip
+_temp_repack/
+data/translated/_temp_repack/
+erros/
 
 # Operating System files
 Thumbs.db

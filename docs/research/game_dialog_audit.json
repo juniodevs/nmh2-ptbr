@@ -1,0 +1,7832 @@
+[
+  {
+    "path": "CHR\\OBJ1100.GM2",
+    "is_compressed": false,
+    "raw_size": 58160,
+    "decomp_size": 58160,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\OBJ1102.GM2",
+    "is_compressed": false,
+    "raw_size": 67344,
+    "decomp_size": 67344,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\OBJ1105.GM2",
+    "is_compressed": false,
+    "raw_size": 51312,
+    "decomp_size": 51312,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\OBJ1103.GM2",
+    "is_compressed": false,
+    "raw_size": 59472,
+    "decomp_size": 59472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "BJ\\BJ.RSL",
+    "is_compressed": false,
+    "raw_size": 15444416,
+    "decomp_size": 15444416,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\BIK000.RSL",
+    "is_compressed": false,
+    "raw_size": 1813656,
+    "decomp_size": 1813656,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\HEN001.RSL",
+    "is_compressed": false,
+    "raw_size": 1175943,
+    "decomp_size": 1175943,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\OBJ1101.GM2",
+    "is_compressed": false,
+    "raw_size": 60208,
+    "decomp_size": 60208,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\HEN0010.RSL",
+    "is_compressed": false,
+    "raw_size": 973403,
+    "decomp_size": 973403,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\obj1107.GM2",
+    "is_compressed": false,
+    "raw_size": 56752,
+    "decomp_size": 56752,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\obj1108.GM2",
+    "is_compressed": false,
+    "raw_size": 58288,
+    "decomp_size": 58288,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\OBJ1199.GM2",
+    "is_compressed": false,
+    "raw_size": 72560,
+    "decomp_size": 72560,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\obj1217.GM2",
+    "is_compressed": false,
+    "raw_size": 51792,
+    "decomp_size": 51792,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\OBJ1200.GM2",
+    "is_compressed": false,
+    "raw_size": 47184,
+    "decomp_size": 47184,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\SNB001.RSL",
+    "is_compressed": false,
+    "raw_size": 949873,
+    "decomp_size": 949873,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\SNB0010.RSL",
+    "is_compressed": false,
+    "raw_size": 1417963,
+    "decomp_size": 1417963,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRV0010.RSL",
+    "is_compressed": false,
+    "raw_size": 1461058,
+    "decomp_size": 1461058,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB00.GM2",
+    "is_compressed": false,
+    "raw_size": 21520,
+    "decomp_size": 21520,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRV0012.RSL",
+    "is_compressed": false,
+    "raw_size": 1403710,
+    "decomp_size": 1403710,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0000.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRV0011.RSL",
+    "is_compressed": false,
+    "raw_size": 1382942,
+    "decomp_size": 1382942,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRV001.RSL",
+    "is_compressed": false,
+    "raw_size": 2272828,
+    "decomp_size": 2272828,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRV0013.RSL",
+    "is_compressed": false,
+    "raw_size": 1513540,
+    "decomp_size": 1513540,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0001.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0002.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0003.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0004.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0005.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0007.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0006.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0008.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB0009.bin",
+    "is_compressed": false,
+    "raw_size": 11152,
+    "decomp_size": 11152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB01.GM2",
+    "is_compressed": false,
+    "raw_size": 23344,
+    "decomp_size": 23344,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB03.GM2",
+    "is_compressed": false,
+    "raw_size": 23344,
+    "decomp_size": 23344,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB04.GM2",
+    "is_compressed": false,
+    "raw_size": 22416,
+    "decomp_size": 22416,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB05.GM2",
+    "is_compressed": false,
+    "raw_size": 22224,
+    "decomp_size": 22224,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB06.GM2",
+    "is_compressed": false,
+    "raw_size": 21456,
+    "decomp_size": 21456,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB07.GM2",
+    "is_compressed": false,
+    "raw_size": 22640,
+    "decomp_size": 22640,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB08.GM2",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVB09.GM2",
+    "is_compressed": false,
+    "raw_size": 22208,
+    "decomp_size": 22208,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG00.GM2",
+    "is_compressed": false,
+    "raw_size": 24208,
+    "decomp_size": 24208,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0000.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0002.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0001.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0003.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0004.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0005.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0006.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0007.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0008.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG0009.bin",
+    "is_compressed": false,
+    "raw_size": 43892,
+    "decomp_size": 43892,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG04.GM2",
+    "is_compressed": false,
+    "raw_size": 26512,
+    "decomp_size": 26512,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG05.GM2",
+    "is_compressed": false,
+    "raw_size": 24848,
+    "decomp_size": 24848,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG06.GM2",
+    "is_compressed": false,
+    "raw_size": 23792,
+    "decomp_size": 23792,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG07.GM2",
+    "is_compressed": false,
+    "raw_size": 24272,
+    "decomp_size": 24272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG08.GM2",
+    "is_compressed": false,
+    "raw_size": 25264,
+    "decomp_size": 25264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVG09.GM2",
+    "is_compressed": false,
+    "raw_size": 23968,
+    "decomp_size": 23968,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0000.bin",
+    "is_compressed": false,
+    "raw_size": 349744,
+    "decomp_size": 349744,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0001.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0002.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0003.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0004.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0005.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0006.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0007.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0008.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVH0009.bin",
+    "is_compressed": false,
+    "raw_size": 22064,
+    "decomp_size": 22064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ00.GM2",
+    "is_compressed": false,
+    "raw_size": 68688,
+    "decomp_size": 68688,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0001.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0000.bin",
+    "is_compressed": false,
+    "raw_size": 699264,
+    "decomp_size": 699264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0002.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0003.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0004.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0005.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0006.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0007.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0008.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0009.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ01.GM2",
+    "is_compressed": false,
+    "raw_size": 60960,
+    "decomp_size": 60960,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ02.GM2",
+    "is_compressed": false,
+    "raw_size": 54576,
+    "decomp_size": 54576,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ03.GM2",
+    "is_compressed": false,
+    "raw_size": 54640,
+    "decomp_size": 54640,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ04.GM2",
+    "is_compressed": false,
+    "raw_size": 64816,
+    "decomp_size": 64816,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ05.GM2",
+    "is_compressed": false,
+    "raw_size": 65280,
+    "decomp_size": 65280,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ06.GM2",
+    "is_compressed": false,
+    "raw_size": 49712,
+    "decomp_size": 49712,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ07.GM2",
+    "is_compressed": false,
+    "raw_size": 48656,
+    "decomp_size": 48656,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ08.GM2",
+    "is_compressed": false,
+    "raw_size": 41360,
+    "decomp_size": 41360,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ09.GM2",
+    "is_compressed": false,
+    "raw_size": 48768,
+    "decomp_size": 48768,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0A.GM2",
+    "is_compressed": false,
+    "raw_size": 26976,
+    "decomp_size": 26976,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVJ0A00.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP00.GM2",
+    "is_compressed": false,
+    "raw_size": 44304,
+    "decomp_size": 44304,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0000.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0001.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0002.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0003.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0004.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0005.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0006.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0007.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0008.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP0009.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP04.GM2",
+    "is_compressed": false,
+    "raw_size": 44912,
+    "decomp_size": 44912,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP05.GM2",
+    "is_compressed": false,
+    "raw_size": 40336,
+    "decomp_size": 40336,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP06.GM2",
+    "is_compressed": false,
+    "raw_size": 39008,
+    "decomp_size": 39008,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP07.GM2",
+    "is_compressed": false,
+    "raw_size": 43440,
+    "decomp_size": 43440,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP08.GM2",
+    "is_compressed": false,
+    "raw_size": 44048,
+    "decomp_size": 44048,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVP09.GM2",
+    "is_compressed": false,
+    "raw_size": 36992,
+    "decomp_size": 36992,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS00.GM2",
+    "is_compressed": false,
+    "raw_size": 23472,
+    "decomp_size": 23472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0000.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0001.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0002.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0003.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0004.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0005.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0006.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0007.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0008.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS0009.bin",
+    "is_compressed": false,
+    "raw_size": 11136,
+    "decomp_size": 11136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS01.GM2",
+    "is_compressed": false,
+    "raw_size": 23024,
+    "decomp_size": 23024,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS02.GM2",
+    "is_compressed": false,
+    "raw_size": 23024,
+    "decomp_size": 23024,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS04.GM2",
+    "is_compressed": false,
+    "raw_size": 23952,
+    "decomp_size": 23952,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS05.GM2",
+    "is_compressed": false,
+    "raw_size": 23920,
+    "decomp_size": 23920,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS06.GM2",
+    "is_compressed": false,
+    "raw_size": 22992,
+    "decomp_size": 22992,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS07.GM2",
+    "is_compressed": false,
+    "raw_size": 23472,
+    "decomp_size": 23472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS08.GM2",
+    "is_compressed": false,
+    "raw_size": 23472,
+    "decomp_size": 23472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVS09.GM2",
+    "is_compressed": false,
+    "raw_size": 22832,
+    "decomp_size": 22832,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT00.GM2",
+    "is_compressed": false,
+    "raw_size": 24912,
+    "decomp_size": 24912,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0000.bin",
+    "is_compressed": false,
+    "raw_size": 174976,
+    "decomp_size": 174976,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0001.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0002.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0003.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0004.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0005.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0006.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0007.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0008.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0009.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0010.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0011.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0012.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0013.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0014.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0015.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0016.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0017.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0018.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0019.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0020.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0021.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0022.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0023.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0024.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0025.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0026.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0027.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0028.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0029.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0030.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0031.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0032.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0033.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0034.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0035.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0036.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0037.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0038.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0039.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0040.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0041.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0042.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0043.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0044.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0045.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0046.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0047.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0048.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0049.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0050.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0051.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0052.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0053.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0054.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0055.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0056.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0057.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0058.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0059.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0060.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0061.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0062.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0063.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0064.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0065.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0066.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0067.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0068.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0069.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0070.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0071.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0072.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0073.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0074.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0075.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0076.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0077.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0078.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0079.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0080.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0081.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0082.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0083.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0084.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0085.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0086.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0087.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0088.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0089.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0090.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0091.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0092.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0093.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0094.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0095.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0096.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0097.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0098.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0099.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT01.GM2",
+    "is_compressed": false,
+    "raw_size": 25488,
+    "decomp_size": 25488,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0100.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0101.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0102.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0103.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0104.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0105.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0106.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0107.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT0108.bin",
+    "is_compressed": false,
+    "raw_size": 43904,
+    "decomp_size": 43904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT02.GM2",
+    "is_compressed": false,
+    "raw_size": 24432,
+    "decomp_size": 24432,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT03.GM2",
+    "is_compressed": false,
+    "raw_size": 24432,
+    "decomp_size": 24432,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT04.GM2",
+    "is_compressed": false,
+    "raw_size": 29856,
+    "decomp_size": 29856,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "CHR\\TRVT05.GM2",
+    "is_compressed": false,
+    "raw_size": 29856,
+    "decomp_size": 29856,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_ECS.RSL",
+    "is_compressed": false,
+    "raw_size": 26693527,
+    "decomp_size": 26693527,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_EEN.RSL",
+    "is_compressed": false,
+    "raw_size": 26693528,
+    "decomp_size": 26693528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_EFR.RSL",
+    "is_compressed": false,
+    "raw_size": 27091746,
+    "decomp_size": 27091746,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_ECT.RSL",
+    "is_compressed": false,
+    "raw_size": 26693527,
+    "decomp_size": 26693527,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_EGR.RSL",
+    "is_compressed": false,
+    "raw_size": 27176607,
+    "decomp_size": 27176607,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle.RSL",
+    "is_compressed": false,
+    "raw_size": 26693524,
+    "decomp_size": 26693524,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_EIT.RSL",
+    "is_compressed": false,
+    "raw_size": 27176607,
+    "decomp_size": 27176607,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Battle_ESP.RSL",
+    "is_compressed": false,
+    "raw_size": 27071135,
+    "decomp_size": 27071135,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu.RSL",
+    "is_compressed": false,
+    "raw_size": 20366525,
+    "decomp_size": 20366525,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_ECS.RSL",
+    "is_compressed": false,
+    "raw_size": 20366525,
+    "decomp_size": 20366525,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_ECT.RSL",
+    "is_compressed": false,
+    "raw_size": 20366525,
+    "decomp_size": 20366525,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_EEN.RSL",
+    "is_compressed": false,
+    "raw_size": 20366525,
+    "decomp_size": 20366525,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_EFR.RSL",
+    "is_compressed": false,
+    "raw_size": 20366532,
+    "decomp_size": 20366532,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_EGR.RSL",
+    "is_compressed": false,
+    "raw_size": 20366528,
+    "decomp_size": 20366528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_EIT.RSL",
+    "is_compressed": false,
+    "raw_size": 20366528,
+    "decomp_size": 20366528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Menu_ESP.RSL",
+    "is_compressed": false,
+    "raw_size": 20366532,
+    "decomp_size": 20366532,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A00000.BIN",
+    "is_compressed": true,
+    "raw_size": 119468,
+    "decomp_size": 490480,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "DeathMatch\\DeathMatch_Save.RSL",
+    "is_compressed": false,
+    "raw_size": 38460088,
+    "decomp_size": 38460088,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01020.BIN",
+    "is_compressed": true,
+    "raw_size": 198248,
+    "decomp_size": 775200,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01031.BIN",
+    "is_compressed": true,
+    "raw_size": 1232259,
+    "decomp_size": 3592464,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01010.BIN",
+    "is_compressed": true,
+    "raw_size": 1302092,
+    "decomp_size": 4378144,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01030.BIN",
+    "is_compressed": true,
+    "raw_size": 1684701,
+    "decomp_size": 4041248,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01032.BIN",
+    "is_compressed": true,
+    "raw_size": 1444662,
+    "decomp_size": 4413184,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02010.BIN",
+    "is_compressed": true,
+    "raw_size": 248439,
+    "decomp_size": 679552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02040.BIN",
+    "is_compressed": true,
+    "raw_size": 225595,
+    "decomp_size": 627312,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02020.BIN",
+    "is_compressed": true,
+    "raw_size": 175204,
+    "decomp_size": 996400,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02060.BIN",
+    "is_compressed": true,
+    "raw_size": 129253,
+    "decomp_size": 523904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02000.BIN",
+    "is_compressed": true,
+    "raw_size": 544173,
+    "decomp_size": 2316400,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02960.BIN",
+    "is_compressed": true,
+    "raw_size": 102625,
+    "decomp_size": 369008,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02970.BIN",
+    "is_compressed": true,
+    "raw_size": 1214,
+    "decomp_size": 2784,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03000.BIN",
+    "is_compressed": true,
+    "raw_size": 382464,
+    "decomp_size": 1211536,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02070.BIN",
+    "is_compressed": true,
+    "raw_size": 713774,
+    "decomp_size": 2615392,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03020.BIN",
+    "is_compressed": true,
+    "raw_size": 202420,
+    "decomp_size": 601632,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01040.BIN",
+    "is_compressed": true,
+    "raw_size": 2623696,
+    "decomp_size": 6575648,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03040.BIN",
+    "is_compressed": true,
+    "raw_size": 74701,
+    "decomp_size": 465344,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03050.BIN",
+    "is_compressed": true,
+    "raw_size": 43972,
+    "decomp_size": 216048,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03060.BIN",
+    "is_compressed": true,
+    "raw_size": 189253,
+    "decomp_size": 756816,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03070.BIN",
+    "is_compressed": true,
+    "raw_size": 20156,
+    "decomp_size": 77792,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03080.BIN",
+    "is_compressed": true,
+    "raw_size": 20874,
+    "decomp_size": 76480,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03010.BIN",
+    "is_compressed": true,
+    "raw_size": 913454,
+    "decomp_size": 3846432,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02050.BIN",
+    "is_compressed": true,
+    "raw_size": 1447107,
+    "decomp_size": 5893152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03030.BIN",
+    "is_compressed": true,
+    "raw_size": 358190,
+    "decomp_size": 3693856,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03110.BIN",
+    "is_compressed": true,
+    "raw_size": 149181,
+    "decomp_size": 594672,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A04000.BIN",
+    "is_compressed": true,
+    "raw_size": 28429,
+    "decomp_size": 162176,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03120.BIN",
+    "is_compressed": true,
+    "raw_size": 47561,
+    "decomp_size": 596016,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A02030.BIN",
+    "is_compressed": true,
+    "raw_size": 1863803,
+    "decomp_size": 7508672,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03090.BIN",
+    "is_compressed": true,
+    "raw_size": 521100,
+    "decomp_size": 2962336,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A04020.BIN",
+    "is_compressed": true,
+    "raw_size": 563898,
+    "decomp_size": 1265104,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A05010.BIN",
+    "is_compressed": true,
+    "raw_size": 255102,
+    "decomp_size": 1087920,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A05000.BIN",
+    "is_compressed": true,
+    "raw_size": 361188,
+    "decomp_size": 1427168,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A01000.BIN",
+    "is_compressed": true,
+    "raw_size": 4006783,
+    "decomp_size": 13756704,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A05030.BIN",
+    "is_compressed": true,
+    "raw_size": 85001,
+    "decomp_size": 364000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A06000.BIN",
+    "is_compressed": true,
+    "raw_size": 255620,
+    "decomp_size": 646096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A06010.BIN",
+    "is_compressed": true,
+    "raw_size": 320661,
+    "decomp_size": 717072,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A03100.BIN",
+    "is_compressed": true,
+    "raw_size": 882535,
+    "decomp_size": 8313360,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A06030.BIN",
+    "is_compressed": true,
+    "raw_size": 126098,
+    "decomp_size": 302096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A04010.BIN",
+    "is_compressed": true,
+    "raw_size": 2185513,
+    "decomp_size": 5213872,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A04011.BIN",
+    "is_compressed": true,
+    "raw_size": 1829146,
+    "decomp_size": 6666576,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A05020.BIN",
+    "is_compressed": true,
+    "raw_size": 1196709,
+    "decomp_size": 4775376,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A07020.BIN",
+    "is_compressed": true,
+    "raw_size": 177813,
+    "decomp_size": 453696,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A07000.BIN",
+    "is_compressed": true,
+    "raw_size": 144292,
+    "decomp_size": 1048288,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A07040.BIN",
+    "is_compressed": true,
+    "raw_size": 75025,
+    "decomp_size": 646064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A06020.BIN",
+    "is_compressed": true,
+    "raw_size": 1300194,
+    "decomp_size": 5338704,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A05040.BIN",
+    "is_compressed": true,
+    "raw_size": 1601434,
+    "decomp_size": 7097920,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A08000.BIN",
+    "is_compressed": true,
+    "raw_size": 528294,
+    "decomp_size": 1150352,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A06040.BIN",
+    "is_compressed": true,
+    "raw_size": 626257,
+    "decomp_size": 5218576,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A08030.BIN",
+    "is_compressed": true,
+    "raw_size": 18581,
+    "decomp_size": 60992,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A08010.BIN",
+    "is_compressed": true,
+    "raw_size": 441403,
+    "decomp_size": 772688,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A07010.BIN",
+    "is_compressed": true,
+    "raw_size": 1132014,
+    "decomp_size": 4795168,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A08020.BIN",
+    "is_compressed": true,
+    "raw_size": 290773,
+    "decomp_size": 744752,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A09030.BIN",
+    "is_compressed": true,
+    "raw_size": 54856,
+    "decomp_size": 92080,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A09020.BIN",
+    "is_compressed": true,
+    "raw_size": 795205,
+    "decomp_size": 1664640,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10000.BIN",
+    "is_compressed": true,
+    "raw_size": 1003855,
+    "decomp_size": 3352880,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10010.BIN",
+    "is_compressed": true,
+    "raw_size": 318047,
+    "decomp_size": 1104384,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10020.BIN",
+    "is_compressed": true,
+    "raw_size": 306955,
+    "decomp_size": 1200480,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A07050.BIN",
+    "is_compressed": true,
+    "raw_size": 1698947,
+    "decomp_size": 7280080,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10040.BIN",
+    "is_compressed": true,
+    "raw_size": 290196,
+    "decomp_size": 529424,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A09010.BIN",
+    "is_compressed": true,
+    "raw_size": 1876064,
+    "decomp_size": 4476576,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10050.BIN",
+    "is_compressed": true,
+    "raw_size": 281075,
+    "decomp_size": 786512,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A11010.BIN",
+    "is_compressed": true,
+    "raw_size": 233846,
+    "decomp_size": 1122096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10021.BIN",
+    "is_compressed": true,
+    "raw_size": 873978,
+    "decomp_size": 3108592,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A09000.BIN",
+    "is_compressed": true,
+    "raw_size": 1308345,
+    "decomp_size": 7406720,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A10030.BIN",
+    "is_compressed": true,
+    "raw_size": 862385,
+    "decomp_size": 3069264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A11020.BIN",
+    "is_compressed": true,
+    "raw_size": 380751,
+    "decomp_size": 2766112,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A12020.BIN",
+    "is_compressed": true,
+    "raw_size": 389545,
+    "decomp_size": 4243424,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A12010.BIN",
+    "is_compressed": true,
+    "raw_size": 706869,
+    "decomp_size": 5605424,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A12000.BIN",
+    "is_compressed": true,
+    "raw_size": 647849,
+    "decomp_size": 5385552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A12050.BIN",
+    "is_compressed": true,
+    "raw_size": 244545,
+    "decomp_size": 378992,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A07030.BIN",
+    "is_compressed": true,
+    "raw_size": 1781941,
+    "decomp_size": 17613136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A13000.BIN",
+    "is_compressed": true,
+    "raw_size": 70053,
+    "decomp_size": 448256,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A12040.BIN",
+    "is_compressed": true,
+    "raw_size": 237247,
+    "decomp_size": 1616240,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A11000.BIN",
+    "is_compressed": true,
+    "raw_size": 867685,
+    "decomp_size": 8710848,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A13040.BIN",
+    "is_compressed": true,
+    "raw_size": 186588,
+    "decomp_size": 308704,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A13010.BIN",
+    "is_compressed": true,
+    "raw_size": 415230,
+    "decomp_size": 1521152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A13030.BIN",
+    "is_compressed": true,
+    "raw_size": 538839,
+    "decomp_size": 1381312,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A12030.BIN",
+    "is_compressed": true,
+    "raw_size": 830748,
+    "decomp_size": 3561728,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A14000.BIN",
+    "is_compressed": true,
+    "raw_size": 172214,
+    "decomp_size": 851776,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A14040.BIN",
+    "is_compressed": true,
+    "raw_size": 295327,
+    "decomp_size": 800368,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A14020.BIN",
+    "is_compressed": true,
+    "raw_size": 593104,
+    "decomp_size": 1572944,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A13020.BIN",
+    "is_compressed": true,
+    "raw_size": 1323413,
+    "decomp_size": 4726656,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A14030.BIN",
+    "is_compressed": true,
+    "raw_size": 1944381,
+    "decomp_size": 3772656,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15000.BIN",
+    "is_compressed": true,
+    "raw_size": 1674600,
+    "decomp_size": 6058464,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15020.BIN",
+    "is_compressed": true,
+    "raw_size": 659870,
+    "decomp_size": 5036112,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A14010.BIN",
+    "is_compressed": true,
+    "raw_size": 1973333,
+    "decomp_size": 7851264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15051.BIN",
+    "is_compressed": true,
+    "raw_size": 73132,
+    "decomp_size": 397984,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15050.BIN",
+    "is_compressed": true,
+    "raw_size": 237459,
+    "decomp_size": 1964768,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15040.BIN",
+    "is_compressed": true,
+    "raw_size": 1190403,
+    "decomp_size": 2314432,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15070.BIN",
+    "is_compressed": true,
+    "raw_size": 266560,
+    "decomp_size": 614032,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15030.BIN",
+    "is_compressed": true,
+    "raw_size": 715672,
+    "decomp_size": 5233984,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15081.BIN",
+    "is_compressed": true,
+    "raw_size": 67189,
+    "decomp_size": 799552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A16000.BIN",
+    "is_compressed": true,
+    "raw_size": 151973,
+    "decomp_size": 842000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15071.BIN",
+    "is_compressed": true,
+    "raw_size": 526839,
+    "decomp_size": 1958160,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A16010.BIN",
+    "is_compressed": true,
+    "raw_size": 151973,
+    "decomp_size": 842000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A17000.BIN",
+    "is_compressed": true,
+    "raw_size": 151973,
+    "decomp_size": 842000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15080.BIN",
+    "is_compressed": true,
+    "raw_size": 577332,
+    "decomp_size": 2114624,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A17010.BIN",
+    "is_compressed": true,
+    "raw_size": 151973,
+    "decomp_size": 842000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A99980.BIN",
+    "is_compressed": true,
+    "raw_size": 29453,
+    "decomp_size": 324864,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A99981.BIN",
+    "is_compressed": true,
+    "raw_size": 29517,
+    "decomp_size": 324832,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A99982.BIN",
+    "is_compressed": true,
+    "raw_size": 30736,
+    "decomp_size": 372944,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\OBJ1100.GM2",
+    "is_compressed": false,
+    "raw_size": 58160,
+    "decomp_size": 58160,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A99983.BIN",
+    "is_compressed": true,
+    "raw_size": 31227,
+    "decomp_size": 695744,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\OBJ1103.GM2",
+    "is_compressed": false,
+    "raw_size": 59472,
+    "decomp_size": 59472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15060.BIN",
+    "is_compressed": true,
+    "raw_size": 1174784,
+    "decomp_size": 4509184,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\OBJ1105.GM2",
+    "is_compressed": false,
+    "raw_size": 51312,
+    "decomp_size": 51312,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\obj1108.GM2",
+    "is_compressed": false,
+    "raw_size": 58288,
+    "decomp_size": 58288,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A99990.BIN",
+    "is_compressed": true,
+    "raw_size": 744320,
+    "decomp_size": 2139664,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A15010.BIN",
+    "is_compressed": true,
+    "raw_size": 3006554,
+    "decomp_size": 14742768,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\A99970.BIN",
+    "is_compressed": true,
+    "raw_size": 2117052,
+    "decomp_size": 6407904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0000.BIN",
+    "is_compressed": true,
+    "raw_size": 7024306,
+    "decomp_size": 12258790,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0101.BIN",
+    "is_compressed": true,
+    "raw_size": 6963303,
+    "decomp_size": 12542295,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0100.BIN",
+    "is_compressed": true,
+    "raw_size": 7846221,
+    "decomp_size": 14118364,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0104.BIN",
+    "is_compressed": true,
+    "raw_size": 9806446,
+    "decomp_size": 16073350,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0103.BIN",
+    "is_compressed": true,
+    "raw_size": 14393726,
+    "decomp_size": 22807027,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0201.BIN",
+    "is_compressed": true,
+    "raw_size": 6139096,
+    "decomp_size": 10957295,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0102.BIN",
+    "is_compressed": true,
+    "raw_size": 8739478,
+    "decomp_size": 27183373,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0200.BIN",
+    "is_compressed": true,
+    "raw_size": 13111231,
+    "decomp_size": 19507244,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0202.BIN",
+    "is_compressed": true,
+    "raw_size": 10209614,
+    "decomp_size": 15211077,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0203.BIN",
+    "is_compressed": true,
+    "raw_size": 9252656,
+    "decomp_size": 13668149,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0204.BIN",
+    "is_compressed": true,
+    "raw_size": 6035467,
+    "decomp_size": 10879142,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0205.BIN",
+    "is_compressed": true,
+    "raw_size": 9918584,
+    "decomp_size": 16861916,
+    "gdlg_count": 10,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0207.BIN",
+    "is_compressed": true,
+    "raw_size": 8883660,
+    "decomp_size": 15034007,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0300.BIN",
+    "is_compressed": true,
+    "raw_size": 10718890,
+    "decomp_size": 18902159,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0302.BIN",
+    "is_compressed": true,
+    "raw_size": 6140909,
+    "decomp_size": 17390222,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0304.BIN",
+    "is_compressed": true,
+    "raw_size": 3966177,
+    "decomp_size": 7364611,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0206.BIN",
+    "is_compressed": true,
+    "raw_size": 11105470,
+    "decomp_size": 28490552,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0301.BIN",
+    "is_compressed": true,
+    "raw_size": 12036573,
+    "decomp_size": 20047416,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0306.BIN",
+    "is_compressed": true,
+    "raw_size": 7123101,
+    "decomp_size": 10422942,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0303.BIN",
+    "is_compressed": true,
+    "raw_size": 13159648,
+    "decomp_size": 24652414,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0305.BIN",
+    "is_compressed": true,
+    "raw_size": 11665931,
+    "decomp_size": 16065024,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0307.BIN",
+    "is_compressed": true,
+    "raw_size": 10812754,
+    "decomp_size": 15324642,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0308.BIN",
+    "is_compressed": true,
+    "raw_size": 11102455,
+    "decomp_size": 15759860,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0312.BIN",
+    "is_compressed": true,
+    "raw_size": 5642930,
+    "decomp_size": 10799832,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0311.BIN",
+    "is_compressed": true,
+    "raw_size": 5773581,
+    "decomp_size": 14912560,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0401.BIN",
+    "is_compressed": true,
+    "raw_size": 8933530,
+    "decomp_size": 13815230,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0400.BIN",
+    "is_compressed": true,
+    "raw_size": 9331537,
+    "decomp_size": 14727857,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0310.BIN",
+    "is_compressed": true,
+    "raw_size": 13814847,
+    "decomp_size": 19984833,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0309.BIN",
+    "is_compressed": true,
+    "raw_size": 20759698,
+    "decomp_size": 40542632,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0402.BIN",
+    "is_compressed": true,
+    "raw_size": 10291127,
+    "decomp_size": 19477700,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0500.BIN",
+    "is_compressed": true,
+    "raw_size": 10919749,
+    "decomp_size": 17127379,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0501.BIN",
+    "is_compressed": true,
+    "raw_size": 6614048,
+    "decomp_size": 11844510,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0502.BIN",
+    "is_compressed": true,
+    "raw_size": 9372104,
+    "decomp_size": 14240380,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0601.BIN",
+    "is_compressed": true,
+    "raw_size": 6150066,
+    "decomp_size": 11117378,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0602.BIN",
+    "is_compressed": true,
+    "raw_size": 7090126,
+    "decomp_size": 13185725,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0504.BIN",
+    "is_compressed": true,
+    "raw_size": 11033252,
+    "decomp_size": 19670518,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0503.BIN",
+    "is_compressed": true,
+    "raw_size": 12444315,
+    "decomp_size": 29748180,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0600.BIN",
+    "is_compressed": true,
+    "raw_size": 11729328,
+    "decomp_size": 19109479,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0604.BIN",
+    "is_compressed": true,
+    "raw_size": 6371586,
+    "decomp_size": 12096641,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0603.BIN",
+    "is_compressed": true,
+    "raw_size": 7987639,
+    "decomp_size": 26452424,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0702.BIN",
+    "is_compressed": true,
+    "raw_size": 6173062,
+    "decomp_size": 10893258,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0700.BIN",
+    "is_compressed": true,
+    "raw_size": 13233020,
+    "decomp_size": 21638797,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0705.BIN",
+    "is_compressed": true,
+    "raw_size": 6087429,
+    "decomp_size": 10222982,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0701.BIN",
+    "is_compressed": true,
+    "raw_size": 12289571,
+    "decomp_size": 20565644,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0704.BIN",
+    "is_compressed": true,
+    "raw_size": 8714020,
+    "decomp_size": 23681039,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0801.BIN",
+    "is_compressed": true,
+    "raw_size": 6566273,
+    "decomp_size": 11582466,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0900.BIN",
+    "is_compressed": true,
+    "raw_size": 7636203,
+    "decomp_size": 10815979,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0800.BIN",
+    "is_compressed": true,
+    "raw_size": 12200932,
+    "decomp_size": 20287115,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0901.BIN",
+    "is_compressed": true,
+    "raw_size": 7652352,
+    "decomp_size": 14286364,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0903.BIN",
+    "is_compressed": true,
+    "raw_size": 5086953,
+    "decomp_size": 11129364,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0802.BIN",
+    "is_compressed": true,
+    "raw_size": 10444848,
+    "decomp_size": 27714398,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1000.BIN",
+    "is_compressed": true,
+    "raw_size": 11663526,
+    "decomp_size": 17617839,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1001.BIN",
+    "is_compressed": true,
+    "raw_size": 7525471,
+    "decomp_size": 13255694,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1004.BIN",
+    "is_compressed": true,
+    "raw_size": 6155028,
+    "decomp_size": 11067458,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0902.BIN",
+    "is_compressed": true,
+    "raw_size": 11481400,
+    "decomp_size": 29651633,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1005.BIN",
+    "is_compressed": true,
+    "raw_size": 7538078,
+    "decomp_size": 12523113,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P0703.BIN",
+    "is_compressed": true,
+    "raw_size": 36649547,
+    "decomp_size": 42806012,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1002.BIN",
+    "is_compressed": true,
+    "raw_size": 12468454,
+    "decomp_size": 29472782,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1102.BIN",
+    "is_compressed": true,
+    "raw_size": 10548346,
+    "decomp_size": 15784573,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1200.BIN",
+    "is_compressed": true,
+    "raw_size": 10619058,
+    "decomp_size": 16257867,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1202.BIN",
+    "is_compressed": true,
+    "raw_size": 5591660,
+    "decomp_size": 11278565,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1201.BIN",
+    "is_compressed": true,
+    "raw_size": 11710772,
+    "decomp_size": 19696098,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1101.BIN",
+    "is_compressed": true,
+    "raw_size": 7273845,
+    "decomp_size": 28270778,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1204.BIN",
+    "is_compressed": true,
+    "raw_size": 5819851,
+    "decomp_size": 11670381,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1205.BIN",
+    "is_compressed": true,
+    "raw_size": 6053501,
+    "decomp_size": 10912954,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1300.BIN",
+    "is_compressed": true,
+    "raw_size": 10162523,
+    "decomp_size": 15044951,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1203.BIN",
+    "is_compressed": true,
+    "raw_size": 9429003,
+    "decomp_size": 27620415,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1301.BIN",
+    "is_compressed": true,
+    "raw_size": 10975355,
+    "decomp_size": 20269297,
+    "gdlg_count": 9,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1304.BIN",
+    "is_compressed": true,
+    "raw_size": 6694308,
+    "decomp_size": 11479642,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1303.BIN",
+    "is_compressed": true,
+    "raw_size": 10793716,
+    "decomp_size": 17987434,
+    "gdlg_count": 9,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1400.BIN",
+    "is_compressed": true,
+    "raw_size": 10372144,
+    "decomp_size": 15510156,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1401.BIN",
+    "is_compressed": true,
+    "raw_size": 6269112,
+    "decomp_size": 11685688,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1302.BIN",
+    "is_compressed": true,
+    "raw_size": 14445299,
+    "decomp_size": 33748808,
+    "gdlg_count": 9,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1403.BIN",
+    "is_compressed": true,
+    "raw_size": 7250247,
+    "decomp_size": 13228279,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1404.BIN",
+    "is_compressed": true,
+    "raw_size": 6250891,
+    "decomp_size": 11264687,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1501.BIN",
+    "is_compressed": true,
+    "raw_size": 6076449,
+    "decomp_size": 10494767,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1402.BIN",
+    "is_compressed": true,
+    "raw_size": 10182170,
+    "decomp_size": 27309517,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1500.BIN",
+    "is_compressed": true,
+    "raw_size": 13153145,
+    "decomp_size": 20167985,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1502.BIN",
+    "is_compressed": true,
+    "raw_size": 7941732,
+    "decomp_size": 12869057,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1503.BIN",
+    "is_compressed": true,
+    "raw_size": 8104002,
+    "decomp_size": 13004469,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1506.BIN",
+    "is_compressed": true,
+    "raw_size": 6186770,
+    "decomp_size": 11149166,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1507.BIN",
+    "is_compressed": true,
+    "raw_size": 6778409,
+    "decomp_size": 11534018,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1504.BIN",
+    "is_compressed": true,
+    "raw_size": 9190914,
+    "decomp_size": 16582804,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1508.BIN",
+    "is_compressed": true,
+    "raw_size": 8679537,
+    "decomp_size": 13016962,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1600.BIN",
+    "is_compressed": true,
+    "raw_size": 6308980,
+    "decomp_size": 12137969,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1601.BIN",
+    "is_compressed": true,
+    "raw_size": 6308980,
+    "decomp_size": 12137969,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1505.BIN",
+    "is_compressed": true,
+    "raw_size": 11840417,
+    "decomp_size": 32464727,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1700.BIN",
+    "is_compressed": true,
+    "raw_size": 6308980,
+    "decomp_size": 12137969,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB10.GM2",
+    "is_compressed": false,
+    "raw_size": 30000,
+    "decomp_size": 30000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB11.GM2",
+    "is_compressed": false,
+    "raw_size": 29104,
+    "decomp_size": 29104,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB13.GM2",
+    "is_compressed": false,
+    "raw_size": 29104,
+    "decomp_size": 29104,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB14.GM2",
+    "is_compressed": false,
+    "raw_size": 28912,
+    "decomp_size": 28912,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB15.GM2",
+    "is_compressed": false,
+    "raw_size": 28784,
+    "decomp_size": 28784,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB16.GM2",
+    "is_compressed": false,
+    "raw_size": 28784,
+    "decomp_size": 28784,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P9997.BIN",
+    "is_compressed": true,
+    "raw_size": 2096553,
+    "decomp_size": 3533111,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB17.GM2",
+    "is_compressed": false,
+    "raw_size": 30704,
+    "decomp_size": 30704,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB18.GM2",
+    "is_compressed": false,
+    "raw_size": 27824,
+    "decomp_size": 27824,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVB19.GM2",
+    "is_compressed": false,
+    "raw_size": 32960,
+    "decomp_size": 32960,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG10.GM2",
+    "is_compressed": false,
+    "raw_size": 30192,
+    "decomp_size": 30192,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVF10.GM2",
+    "is_compressed": false,
+    "raw_size": 741760,
+    "decomp_size": 741760,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG14.GM2",
+    "is_compressed": false,
+    "raw_size": 32720,
+    "decomp_size": 32720,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG15.GM2",
+    "is_compressed": false,
+    "raw_size": 29680,
+    "decomp_size": 29680,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG16.GM2",
+    "is_compressed": false,
+    "raw_size": 30000,
+    "decomp_size": 30000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG17.GM2",
+    "is_compressed": false,
+    "raw_size": 30032,
+    "decomp_size": 30032,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG18.GM2",
+    "is_compressed": false,
+    "raw_size": 31024,
+    "decomp_size": 31024,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVG19.GM2",
+    "is_compressed": false,
+    "raw_size": 31328,
+    "decomp_size": 31328,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ10.GM2",
+    "is_compressed": false,
+    "raw_size": 93680,
+    "decomp_size": 93680,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ11.GM2",
+    "is_compressed": false,
+    "raw_size": 74400,
+    "decomp_size": 74400,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ12.GM2",
+    "is_compressed": false,
+    "raw_size": 57904,
+    "decomp_size": 57904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ13.GM2",
+    "is_compressed": false,
+    "raw_size": 67024,
+    "decomp_size": 67024,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ14.GM2",
+    "is_compressed": false,
+    "raw_size": 98064,
+    "decomp_size": 98064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ15.GM2",
+    "is_compressed": false,
+    "raw_size": 89216,
+    "decomp_size": 89216,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ17.GM2",
+    "is_compressed": false,
+    "raw_size": 54416,
+    "decomp_size": 54416,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ16.GM2",
+    "is_compressed": false,
+    "raw_size": 74416,
+    "decomp_size": 74416,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ19.GM2",
+    "is_compressed": false,
+    "raw_size": 54528,
+    "decomp_size": 54528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ18.GM2",
+    "is_compressed": false,
+    "raw_size": 47120,
+    "decomp_size": 47120,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVJ1A.GM2",
+    "is_compressed": false,
+    "raw_size": 32736,
+    "decomp_size": 32736,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP10.GM2",
+    "is_compressed": false,
+    "raw_size": 65680,
+    "decomp_size": 65680,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVM10.GM2",
+    "is_compressed": false,
+    "raw_size": 1003872,
+    "decomp_size": 1003872,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP14.GM2",
+    "is_compressed": false,
+    "raw_size": 64096,
+    "decomp_size": 64096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP15.GM2",
+    "is_compressed": false,
+    "raw_size": 54432,
+    "decomp_size": 54432,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP16.GM2",
+    "is_compressed": false,
+    "raw_size": 64096,
+    "decomp_size": 64096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP17.GM2",
+    "is_compressed": false,
+    "raw_size": 57360,
+    "decomp_size": 57360,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP18.GM2",
+    "is_compressed": false,
+    "raw_size": 61072,
+    "decomp_size": 61072,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVP19.GM2",
+    "is_compressed": false,
+    "raw_size": 42752,
+    "decomp_size": 42752,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS10.GM2",
+    "is_compressed": false,
+    "raw_size": 34640,
+    "decomp_size": 34640,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS11.GM2",
+    "is_compressed": false,
+    "raw_size": 31472,
+    "decomp_size": 31472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS12.GM2",
+    "is_compressed": false,
+    "raw_size": 31472,
+    "decomp_size": 31472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS14.GM2",
+    "is_compressed": false,
+    "raw_size": 34336,
+    "decomp_size": 34336,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS15.GM2",
+    "is_compressed": false,
+    "raw_size": 31600,
+    "decomp_size": 31600,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS16.GM2",
+    "is_compressed": false,
+    "raw_size": 31248,
+    "decomp_size": 31248,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS17.GM2",
+    "is_compressed": false,
+    "raw_size": 31984,
+    "decomp_size": 31984,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS18.GM2",
+    "is_compressed": false,
+    "raw_size": 29232,
+    "decomp_size": 29232,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVS19.GM2",
+    "is_compressed": false,
+    "raw_size": 29264,
+    "decomp_size": 29264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT10.GM2",
+    "is_compressed": false,
+    "raw_size": 36448,
+    "decomp_size": 36448,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT11.GM2",
+    "is_compressed": false,
+    "raw_size": 36448,
+    "decomp_size": 36448,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT12.GM2",
+    "is_compressed": false,
+    "raw_size": 31264,
+    "decomp_size": 31264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT13.GM2",
+    "is_compressed": false,
+    "raw_size": 31264,
+    "decomp_size": 31264,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT14.GM2",
+    "is_compressed": false,
+    "raw_size": 47472,
+    "decomp_size": 47472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT1A.GM2",
+    "is_compressed": false,
+    "raw_size": 44048,
+    "decomp_size": 44048,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\TRVT15.GM2",
+    "is_compressed": false,
+    "raw_size": 47472,
+    "decomp_size": 47472,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM26.RSL",
+    "is_compressed": false,
+    "raw_size": 5520,
+    "decomp_size": 5520,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM27.RSL",
+    "is_compressed": false,
+    "raw_size": 5552,
+    "decomp_size": 5552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM28.RSL",
+    "is_compressed": false,
+    "raw_size": 5520,
+    "decomp_size": 5520,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM29.RSL",
+    "is_compressed": false,
+    "raw_size": 5520,
+    "decomp_size": 5520,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM31.RSL",
+    "is_compressed": false,
+    "raw_size": 5552,
+    "decomp_size": 5552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM30.RSL",
+    "is_compressed": false,
+    "raw_size": 5520,
+    "decomp_size": 5520,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM32.RSL",
+    "is_compressed": false,
+    "raw_size": 5552,
+    "decomp_size": 5552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM33.RSL",
+    "is_compressed": false,
+    "raw_size": 5552,
+    "decomp_size": 5552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM34.RSL",
+    "is_compressed": false,
+    "raw_size": 5552,
+    "decomp_size": 5552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Event\\SM35.RSL",
+    "is_compressed": false,
+    "raw_size": 5552,
+    "decomp_size": 5552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\Font\\STG0602Font_GC.BIN",
+    "is_compressed": false,
+    "raw_size": 110752,
+    "decomp_size": 110752,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0000.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0100.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0200.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0300.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0500.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0400.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0700.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0600.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0800.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT0900.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1100.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1000.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1300.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1200.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1701.BIN",
+    "is_compressed": true,
+    "raw_size": 6308980,
+    "decomp_size": 12137969,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1400.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1500.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1600.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1800.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1700.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT1900.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2000.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2200.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2100.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2300.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2400.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2500.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2700.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2600.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2900.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT2800.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3000.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3100.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3200.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3300.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3400.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3600.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3500.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3900.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3700.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT3800.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4100.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4000.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4200.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4400.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4500.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4300.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4800.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4700.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4600.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\PIX0000.bin",
+    "is_compressed": false,
+    "raw_size": 216,
+    "decomp_size": 216,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT4900.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Fuka\\PhotoCat\\CatTex\\CAT5000.bin",
+    "is_compressed": false,
+    "raw_size": 131272,
+    "decomp_size": 131272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P9998.BIN",
+    "is_compressed": true,
+    "raw_size": 5884378,
+    "decomp_size": 11013604,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P9999.BIN",
+    "is_compressed": true,
+    "raw_size": 6496348,
+    "decomp_size": 12128114,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Haya\\save.RSL",
+    "is_compressed": false,
+    "raw_size": 38459898,
+    "decomp_size": 38459898,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Haya\\toilet.RSL",
+    "is_compressed": false,
+    "raw_size": 8532804,
+    "decomp_size": 8532804,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Haya\\texture.RSL",
+    "is_compressed": false,
+    "raw_size": 4194858,
+    "decomp_size": 4194858,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildEC.RSL",
+    "is_compressed": false,
+    "raw_size": 293820,
+    "decomp_size": 293820,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildEE.RSL",
+    "is_compressed": false,
+    "raw_size": 322490,
+    "decomp_size": 322490,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildEF.RSL",
+    "is_compressed": false,
+    "raw_size": 293820,
+    "decomp_size": 293820,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildEG.RSL",
+    "is_compressed": false,
+    "raw_size": 275389,
+    "decomp_size": 275389,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildEI.RSL",
+    "is_compressed": false,
+    "raw_size": 261050,
+    "decomp_size": 261050,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildES.RSL",
+    "is_compressed": false,
+    "raw_size": 312252,
+    "decomp_size": 312252,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\FaildET.RSL",
+    "is_compressed": false,
+    "raw_size": 322490,
+    "decomp_size": 322490,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultEF.RSL",
+    "is_compressed": false,
+    "raw_size": 194836,
+    "decomp_size": 194836,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultEC.RSL",
+    "is_compressed": false,
+    "raw_size": 429682,
+    "decomp_size": 429682,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultEG.RSL",
+    "is_compressed": false,
+    "raw_size": 158324,
+    "decomp_size": 158324,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultEI.RSL",
+    "is_compressed": false,
+    "raw_size": 144468,
+    "decomp_size": 144468,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultEE.RSL",
+    "is_compressed": false,
+    "raw_size": 429682,
+    "decomp_size": 429682,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultES.RSL",
+    "is_compressed": false,
+    "raw_size": 153015,
+    "decomp_size": 153015,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_end.RSL",
+    "is_compressed": false,
+    "raw_size": 1248476,
+    "decomp_size": 1248476,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startEC.RSL",
+    "is_compressed": false,
+    "raw_size": 1248476,
+    "decomp_size": 1248476,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\ResultET.RSL",
+    "is_compressed": false,
+    "raw_size": 429682,
+    "decomp_size": 429682,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startEE.RSL",
+    "is_compressed": false,
+    "raw_size": 1248476,
+    "decomp_size": 1248476,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startEF.RSL",
+    "is_compressed": false,
+    "raw_size": 1187550,
+    "decomp_size": 1187550,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startEG.RSL",
+    "is_compressed": false,
+    "raw_size": 1248478,
+    "decomp_size": 1248478,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startEI.RSL",
+    "is_compressed": false,
+    "raw_size": 1220446,
+    "decomp_size": 1220446,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startES.RSL",
+    "is_compressed": false,
+    "raw_size": 1240126,
+    "decomp_size": 1240126,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0000.RSL",
+    "is_compressed": false,
+    "raw_size": 1423950,
+    "decomp_size": 1423950,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0003.RSL",
+    "is_compressed": false,
+    "raw_size": 64,
+    "decomp_size": 64,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0002.RSL",
+    "is_compressed": false,
+    "raw_size": 64,
+    "decomp_size": 64,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0005.RSL",
+    "is_compressed": false,
+    "raw_size": 64,
+    "decomp_size": 64,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0006.RSL",
+    "is_compressed": false,
+    "raw_size": 64,
+    "decomp_size": 64,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0007.RSL",
+    "is_compressed": false,
+    "raw_size": 589390,
+    "decomp_size": 589390,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0001.RSL",
+    "is_compressed": false,
+    "raw_size": 1290574,
+    "decomp_size": 1290574,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Hide\\RankingUp\\sm_startET.RSL",
+    "is_compressed": false,
+    "raw_size": 1248476,
+    "decomp_size": 1248476,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Movie\\mv0004.RSL",
+    "is_compressed": false,
+    "raw_size": 396334,
+    "decomp_size": 396334,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_EE.RSL",
+    "is_compressed": false,
+    "raw_size": 2484009,
+    "decomp_size": 2484009,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_EC.RSL",
+    "is_compressed": false,
+    "raw_size": 2484011,
+    "decomp_size": 2484011,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_EF.RSL",
+    "is_compressed": false,
+    "raw_size": 2484011,
+    "decomp_size": 2484011,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_EG.RSL",
+    "is_compressed": false,
+    "raw_size": 2484011,
+    "decomp_size": 2484011,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_EI.RSL",
+    "is_compressed": false,
+    "raw_size": 2484011,
+    "decomp_size": 2484011,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_ES.RSL",
+    "is_compressed": false,
+    "raw_size": 2484011,
+    "decomp_size": 2484011,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJFaxMes\\PJFax_Mess_ET.RSL",
+    "is_compressed": false,
+    "raw_size": 2484011,
+    "decomp_size": 2484011,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_1.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_10.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_11.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_12.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_13.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_14.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_15.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_2.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_3.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_4.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_5.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_6.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_9.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_7.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJLoading\\LoadSticker_8.RSL",
+    "is_compressed": false,
+    "raw_size": 787372,
+    "decomp_size": 787372,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJSimplMes\\PJSimplMes.RSL",
+    "is_compressed": false,
+    "raw_size": 910906,
+    "decomp_size": 910906,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJTitle\\PJFst.RSL",
+    "is_compressed": false,
+    "raw_size": 19654089,
+    "decomp_size": 19654089,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJTutorial\\PJTuto_ETC.RSL",
+    "is_compressed": false,
+    "raw_size": 708822,
+    "decomp_size": 708822,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJTutorial\\PJTuto_GYN.RSL",
+    "is_compressed": false,
+    "raw_size": 557750,
+    "decomp_size": 557750,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJTitle\\PJTitle.RSL",
+    "is_compressed": false,
+    "raw_size": 41555807,
+    "decomp_size": 41555807,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "RankUp\\RankUp.RSL",
+    "is_compressed": false,
+    "raw_size": 1265090,
+    "decomp_size": 1265090,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "PJTutorial\\PJTuto_SKE.RSL",
+    "is_compressed": false,
+    "raw_size": 700022,
+    "decomp_size": 700022,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "StaffRoll\\StaffRoll_EU.RSL",
+    "is_compressed": false,
+    "raw_size": 2662922,
+    "decomp_size": 2662922,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0101\\STG0101.bin",
+    "is_compressed": true,
+    "raw_size": 7806470,
+    "decomp_size": 15767401,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0202\\STG0202.bin",
+    "is_compressed": true,
+    "raw_size": 9123309,
+    "decomp_size": 18345597,
+    "gdlg_count": 2,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Global\\Global.bin",
+    "is_compressed": true,
+    "raw_size": 7998026,
+    "decomp_size": 68563368,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0200\\STG0200.bin",
+    "is_compressed": true,
+    "raw_size": 15046745,
+    "decomp_size": 28696872,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0302\\STG0302.bin",
+    "is_compressed": true,
+    "raw_size": 2952108,
+    "decomp_size": 6368812,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0300\\STG0300.bin",
+    "is_compressed": true,
+    "raw_size": 14689892,
+    "decomp_size": 29621858,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0305\\STG0305.bin",
+    "is_compressed": true,
+    "raw_size": 4244018,
+    "decomp_size": 9152183,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0303\\STG0303.bin",
+    "is_compressed": true,
+    "raw_size": 8633829,
+    "decomp_size": 24159247,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0304\\STG0304.bin",
+    "is_compressed": true,
+    "raw_size": 10438662,
+    "decomp_size": 15561826,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0201\\STG0201.bin",
+    "is_compressed": true,
+    "raw_size": 26666043,
+    "decomp_size": 57806215,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0402\\STG0402.bin",
+    "is_compressed": true,
+    "raw_size": 8245886,
+    "decomp_size": 16606696,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0400\\STG0400.bin",
+    "is_compressed": true,
+    "raw_size": 9875413,
+    "decomp_size": 20631321,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0500\\STG0500.bin",
+    "is_compressed": true,
+    "raw_size": 12942582,
+    "decomp_size": 25191785,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0502\\STG0502.bin",
+    "is_compressed": true,
+    "raw_size": 10133724,
+    "decomp_size": 18784338,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0301\\STG0301.bin",
+    "is_compressed": true,
+    "raw_size": 31481774,
+    "decomp_size": 66086963,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0603\\STG0603.bin",
+    "is_compressed": true,
+    "raw_size": 6665264,
+    "decomp_size": 14702301,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0601\\STG0601.bin",
+    "is_compressed": true,
+    "raw_size": 10811583,
+    "decomp_size": 19784855,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "Demo\\P1100.BIN",
+    "is_compressed": true,
+    "raw_size": 84349121,
+    "decomp_size": 252340046,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0700\\STG0700.bin",
+    "is_compressed": true,
+    "raw_size": 4089189,
+    "decomp_size": 8474659,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0604\\STG0604.bin",
+    "is_compressed": true,
+    "raw_size": 4431702,
+    "decomp_size": 9635859,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0802\\STG0802.bin",
+    "is_compressed": true,
+    "raw_size": 252607,
+    "decomp_size": 577767,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0401\\STG0401.bin",
+    "is_compressed": true,
+    "raw_size": 30876680,
+    "decomp_size": 65237090,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0803\\STG0803.bin",
+    "is_compressed": true,
+    "raw_size": 6009622,
+    "decomp_size": 15241748,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0501\\STG0501.bin",
+    "is_compressed": true,
+    "raw_size": 28622746,
+    "decomp_size": 61843242,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0800\\STG0800.bin",
+    "is_compressed": true,
+    "raw_size": 17175452,
+    "decomp_size": 32499030,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0901\\STG0901.bin",
+    "is_compressed": true,
+    "raw_size": 9158435,
+    "decomp_size": 23090150,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1000\\STG1000.bin",
+    "is_compressed": true,
+    "raw_size": 8932247,
+    "decomp_size": 19766818,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0602\\STG0602.bin",
+    "is_compressed": true,
+    "raw_size": 30995716,
+    "decomp_size": 65831266,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1001\\STG1001.bin",
+    "is_compressed": true,
+    "raw_size": 8714889,
+    "decomp_size": 16568583,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1100\\STG1100.bin",
+    "is_compressed": true,
+    "raw_size": 5336256,
+    "decomp_size": 10548813,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1202\\STG1202.bin",
+    "is_compressed": true,
+    "raw_size": 6809964,
+    "decomp_size": 22344715,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1300\\STG1300.bin",
+    "is_compressed": true,
+    "raw_size": 8355683,
+    "decomp_size": 21676444,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1200\\STG1200.bin",
+    "is_compressed": true,
+    "raw_size": 15674248,
+    "decomp_size": 29869887,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0801\\STG0801.bin",
+    "is_compressed": true,
+    "raw_size": 30962917,
+    "decomp_size": 66247721,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG0900\\STG0900.bin",
+    "is_compressed": true,
+    "raw_size": 29922007,
+    "decomp_size": 67623915,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1301\\STG1301.bin",
+    "is_compressed": true,
+    "raw_size": 8795585,
+    "decomp_size": 20294142,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1404\\STG1404.bin",
+    "is_compressed": true,
+    "raw_size": 1802757,
+    "decomp_size": 5014819,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1403\\STG1403.bin",
+    "is_compressed": true,
+    "raw_size": 6572256,
+    "decomp_size": 18530064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1401\\STG1401.bin",
+    "is_compressed": true,
+    "raw_size": 16565322,
+    "decomp_size": 31886579,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1400\\STG1400.bin",
+    "is_compressed": true,
+    "raw_size": 20256430,
+    "decomp_size": 35605830,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1511\\STG1511.bin",
+    "is_compressed": true,
+    "raw_size": 5895402,
+    "decomp_size": 13649316,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1513\\STG1513.bin",
+    "is_compressed": true,
+    "raw_size": 4328324,
+    "decomp_size": 11310034,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1201\\STG1201.bin",
+    "is_compressed": true,
+    "raw_size": 34720142,
+    "decomp_size": 78452446,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1500\\STG1500.bin",
+    "is_compressed": true,
+    "raw_size": 20359627,
+    "decomp_size": 35877664,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1512\\STG1512.bin",
+    "is_compressed": true,
+    "raw_size": 9242683,
+    "decomp_size": 21353602,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3000\\STG3000.bin",
+    "is_compressed": true,
+    "raw_size": 5542050,
+    "decomp_size": 11311071,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1515\\STG1515.bin",
+    "is_compressed": true,
+    "raw_size": 7918150,
+    "decomp_size": 11441103,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1514\\STG1514.bin",
+    "is_compressed": true,
+    "raw_size": 6787119,
+    "decomp_size": 13719650,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3002\\STG3002.bin",
+    "is_compressed": true,
+    "raw_size": 1186168,
+    "decomp_size": 1725996,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1516\\STG1516.bin",
+    "is_compressed": true,
+    "raw_size": 9078787,
+    "decomp_size": 19426272,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3003\\STG3003.bin",
+    "is_compressed": true,
+    "raw_size": 6670123,
+    "decomp_size": 11914437,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3004\\STG3004.bin",
+    "is_compressed": true,
+    "raw_size": 4290590,
+    "decomp_size": 9782514,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1402\\STG1402.bin",
+    "is_compressed": true,
+    "raw_size": 33684811,
+    "decomp_size": 69770574,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3005\\STG3005.bin",
+    "is_compressed": true,
+    "raw_size": 4585814,
+    "decomp_size": 9112619,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3100\\STG3100.bin",
+    "is_compressed": true,
+    "raw_size": 6866634,
+    "decomp_size": 12974832,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3101\\STG3101.bin",
+    "is_compressed": true,
+    "raw_size": 11132215,
+    "decomp_size": 17678815,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3103\\STG3103.bin",
+    "is_compressed": true,
+    "raw_size": 10152382,
+    "decomp_size": 18976742,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG1510\\STG1510.bin",
+    "is_compressed": true,
+    "raw_size": 36538592,
+    "decomp_size": 74878191,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3107\\STG3107.bin",
+    "is_compressed": true,
+    "raw_size": 5327779,
+    "decomp_size": 7780047,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3105\\STG3105.bin",
+    "is_compressed": true,
+    "raw_size": 10129335,
+    "decomp_size": 16532902,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3104\\STG3104.bin",
+    "is_compressed": true,
+    "raw_size": 12519282,
+    "decomp_size": 21446086,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4000\\STG4000NPCSM26.RSL",
+    "is_compressed": false,
+    "raw_size": 14597090,
+    "decomp_size": 14597090,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4000\\STG4000NPCSM31.RSL",
+    "is_compressed": false,
+    "raw_size": 13697605,
+    "decomp_size": 13697605,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3108\\STG3108.bin",
+    "is_compressed": true,
+    "raw_size": 2824811,
+    "decomp_size": 3835347,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4001\\STG4001NPCSM27.RSL",
+    "is_compressed": false,
+    "raw_size": 6786314,
+    "decomp_size": 6786314,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4001\\STG4001NPCSM32.RSL",
+    "is_compressed": false,
+    "raw_size": 9200985,
+    "decomp_size": 9200985,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3106\\STG3106.bin",
+    "is_compressed": true,
+    "raw_size": 10768548,
+    "decomp_size": 18228614,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4002\\STG4002NPCSM28.RSL",
+    "is_compressed": false,
+    "raw_size": 10490144,
+    "decomp_size": 10490144,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4002\\STG4002NPCSM33.RSL",
+    "is_compressed": false,
+    "raw_size": 10632288,
+    "decomp_size": 10632288,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3010\\STG3010.bin",
+    "is_compressed": true,
+    "raw_size": 17940303,
+    "decomp_size": 42621859,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4002\\STG4002.bin",
+    "is_compressed": true,
+    "raw_size": 3803431,
+    "decomp_size": 12423316,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4003\\STG4003NPCSM29.RSL",
+    "is_compressed": false,
+    "raw_size": 11421333,
+    "decomp_size": 11421333,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4003\\STG4003NPCSM34.RSL",
+    "is_compressed": false,
+    "raw_size": 11421333,
+    "decomp_size": 11421333,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4004\\STG4004NPCSM30.RSL",
+    "is_compressed": false,
+    "raw_size": 18584435,
+    "decomp_size": 18584435,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4004\\STG4004NPCSM35.RSL",
+    "is_compressed": false,
+    "raw_size": 18372850,
+    "decomp_size": 18372850,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG5000\\STG5000.bin",
+    "is_compressed": true,
+    "raw_size": 350315,
+    "decomp_size": 721660,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG5001\\STG5001.bin",
+    "is_compressed": true,
+    "raw_size": 1124246,
+    "decomp_size": 2001227,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4000\\STG4000.bin",
+    "is_compressed": true,
+    "raw_size": 12492047,
+    "decomp_size": 23248270,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4001\\STG4001.bin",
+    "is_compressed": true,
+    "raw_size": 9894723,
+    "decomp_size": 18255652,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4003\\STG4003.bin",
+    "is_compressed": true,
+    "raw_size": 7871940,
+    "decomp_size": 16157938,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG3001\\STG3001.bin",
+    "is_compressed": true,
+    "raw_size": 35030158,
+    "decomp_size": 64325817,
+    "gdlg_count": 24,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG4004\\STG4004.bin",
+    "is_compressed": true,
+    "raw_size": 7038078,
+    "decomp_size": 14460725,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000\\STG7000.bin",
+    "is_compressed": true,
+    "raw_size": 25684858,
+    "decomp_size": 39146511,
+    "gdlg_count": 4,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000CS\\STG7000CS.bin",
+    "is_compressed": true,
+    "raw_size": 20975678,
+    "decomp_size": 38961757,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000CT\\STG7000CT.bin",
+    "is_compressed": true,
+    "raw_size": 21193315,
+    "decomp_size": 39004061,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000FR\\STG7000FR.bin",
+    "is_compressed": true,
+    "raw_size": 23017216,
+    "decomp_size": 38287953,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8000\\STG8000.bin",
+    "is_compressed": true,
+    "raw_size": 988012,
+    "decomp_size": 1365122,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000GE\\STG7000GE.bin",
+    "is_compressed": true,
+    "raw_size": 23217610,
+    "decomp_size": 38248087,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8001\\STG8001.bin",
+    "is_compressed": true,
+    "raw_size": 1082884,
+    "decomp_size": 1545858,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8002\\STG8002.bin",
+    "is_compressed": true,
+    "raw_size": 633019,
+    "decomp_size": 984117,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8004\\STG8004.bin",
+    "is_compressed": true,
+    "raw_size": 1126860,
+    "decomp_size": 1578741,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8003\\STG8003.bin",
+    "is_compressed": true,
+    "raw_size": 1467502,
+    "decomp_size": 1973621,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8006\\STG8006.bin",
+    "is_compressed": true,
+    "raw_size": 542571,
+    "decomp_size": 754261,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8005\\STG8005.bin",
+    "is_compressed": true,
+    "raw_size": 673853,
+    "decomp_size": 959381,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000IT\\STG7000IT.bin",
+    "is_compressed": true,
+    "raw_size": 23273048,
+    "decomp_size": 38250231,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8009\\STG8009.bin",
+    "is_compressed": true,
+    "raw_size": 342659,
+    "decomp_size": 587221,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8007\\STG8007.bin",
+    "is_compressed": true,
+    "raw_size": 1329936,
+    "decomp_size": 2053397,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8008\\STG8008.bin",
+    "is_compressed": true,
+    "raw_size": 1379363,
+    "decomp_size": 1984309,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8010\\STG8010.bin",
+    "is_compressed": true,
+    "raw_size": 576203,
+    "decomp_size": 893410,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8012\\STG8012.bin",
+    "is_compressed": true,
+    "raw_size": 1070937,
+    "decomp_size": 1522133,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8011\\STG8011.bin",
+    "is_compressed": true,
+    "raw_size": 1287545,
+    "decomp_size": 2055861,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8013\\STG8013.bin",
+    "is_compressed": true,
+    "raw_size": 1285557,
+    "decomp_size": 1987605,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8014\\STG8014.bin",
+    "is_compressed": true,
+    "raw_size": 739676,
+    "decomp_size": 1235477,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8015\\STG8015.bin",
+    "is_compressed": true,
+    "raw_size": 1320827,
+    "decomp_size": 1849813,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8017\\STG8017.bin",
+    "is_compressed": true,
+    "raw_size": 1084882,
+    "decomp_size": 1534901,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8016\\STG8016.bin",
+    "is_compressed": true,
+    "raw_size": 1282522,
+    "decomp_size": 1816021,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8018\\STG8018.bin",
+    "is_compressed": true,
+    "raw_size": 795461,
+    "decomp_size": 1105602,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8019\\STG8019.bin",
+    "is_compressed": true,
+    "raw_size": 1230291,
+    "decomp_size": 1661781,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7500\\STG7500.bin",
+    "is_compressed": true,
+    "raw_size": 10841177,
+    "decomp_size": 20988237,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8020\\STG8020.bin",
+    "is_compressed": true,
+    "raw_size": 1242462,
+    "decomp_size": 1979637,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7001\\STG7001.bin",
+    "is_compressed": true,
+    "raw_size": 10981137,
+    "decomp_size": 20605625,
+    "gdlg_count": 8,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8021\\STG8021.bin",
+    "is_compressed": true,
+    "raw_size": 1301985,
+    "decomp_size": 1783170,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8023\\STG8023.bin",
+    "is_compressed": true,
+    "raw_size": 1006011,
+    "decomp_size": 1413378,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8022\\STG8022.bin",
+    "is_compressed": true,
+    "raw_size": 1475316,
+    "decomp_size": 1887490,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8024\\STG8024.bin",
+    "is_compressed": true,
+    "raw_size": 1156316,
+    "decomp_size": 1559714,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8029\\STG8029.bin",
+    "is_compressed": true,
+    "raw_size": 374172,
+    "decomp_size": 479522,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8025\\STG8025.bin",
+    "is_compressed": true,
+    "raw_size": 1284574,
+    "decomp_size": 1813282,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8028\\STG8028.bin",
+    "is_compressed": true,
+    "raw_size": 711664,
+    "decomp_size": 952322,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8026\\STG8026.bin",
+    "is_compressed": true,
+    "raw_size": 1461769,
+    "decomp_size": 1878306,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8027\\STG8027.bin",
+    "is_compressed": true,
+    "raw_size": 880087,
+    "decomp_size": 1137986,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8030\\STG8030.bin",
+    "is_compressed": true,
+    "raw_size": 1184217,
+    "decomp_size": 1555426,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8032\\STG8032.bin",
+    "is_compressed": true,
+    "raw_size": 1287055,
+    "decomp_size": 1737666,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8033\\STG8033.bin",
+    "is_compressed": true,
+    "raw_size": 1275350,
+    "decomp_size": 1712706,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8034\\STG8034.bin",
+    "is_compressed": true,
+    "raw_size": 1256724,
+    "decomp_size": 1633858,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8035\\STG8035.bin",
+    "is_compressed": true,
+    "raw_size": 1137068,
+    "decomp_size": 1725794,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8039\\STG8039.bin",
+    "is_compressed": true,
+    "raw_size": 309248,
+    "decomp_size": 527618,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8036\\STG8036.bin",
+    "is_compressed": true,
+    "raw_size": 1156084,
+    "decomp_size": 1598274,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8038\\STG8038.bin",
+    "is_compressed": true,
+    "raw_size": 798875,
+    "decomp_size": 1084994,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8037\\STG8037.bin",
+    "is_compressed": true,
+    "raw_size": 1113320,
+    "decomp_size": 1541090,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA000.GM2",
+    "is_compressed": false,
+    "raw_size": 1362672,
+    "decomp_size": 1362672,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA000COL.GCL",
+    "is_compressed": false,
+    "raw_size": 20144,
+    "decomp_size": 20144,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA001.GM2",
+    "is_compressed": false,
+    "raw_size": 1543408,
+    "decomp_size": 1543408,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8040\\STG8040.bin",
+    "is_compressed": true,
+    "raw_size": 1006264,
+    "decomp_size": 1390818,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA001COL.GCL",
+    "is_compressed": false,
+    "raw_size": 255504,
+    "decomp_size": 255504,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8043\\STG8043.bin",
+    "is_compressed": true,
+    "raw_size": 717488,
+    "decomp_size": 1002466,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8041\\STG8041.bin",
+    "is_compressed": true,
+    "raw_size": 1025422,
+    "decomp_size": 1437058,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA002.GM2",
+    "is_compressed": false,
+    "raw_size": 699808,
+    "decomp_size": 699808,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG8042\\STG8042.bin",
+    "is_compressed": true,
+    "raw_size": 1040449,
+    "decomp_size": 1544930,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA002COL.GCL",
+    "is_compressed": false,
+    "raw_size": 281744,
+    "decomp_size": 281744,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA003COL.GCL",
+    "is_compressed": false,
+    "raw_size": 96800,
+    "decomp_size": 96800,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA004COL.GCL",
+    "is_compressed": false,
+    "raw_size": 218688,
+    "decomp_size": 218688,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA003.GM2",
+    "is_compressed": false,
+    "raw_size": 1874256,
+    "decomp_size": 1874256,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA005COL.GCL",
+    "is_compressed": false,
+    "raw_size": 93696,
+    "decomp_size": 93696,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA004.GM2",
+    "is_compressed": false,
+    "raw_size": 1357488,
+    "decomp_size": 1357488,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA006COL.GCL",
+    "is_compressed": false,
+    "raw_size": 50816,
+    "decomp_size": 50816,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA005.GM2",
+    "is_compressed": false,
+    "raw_size": 863136,
+    "decomp_size": 863136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA007COL.GCL",
+    "is_compressed": false,
+    "raw_size": 172816,
+    "decomp_size": 172816,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA008COL.GCL",
+    "is_compressed": false,
+    "raw_size": 195648,
+    "decomp_size": 195648,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA006.GM2",
+    "is_compressed": false,
+    "raw_size": 700880,
+    "decomp_size": 700880,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA007.GM2",
+    "is_compressed": false,
+    "raw_size": 1878000,
+    "decomp_size": 1878000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA008.GM2",
+    "is_compressed": false,
+    "raw_size": 1786096,
+    "decomp_size": 1786096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA009.GM2",
+    "is_compressed": false,
+    "raw_size": 350560,
+    "decomp_size": 350560,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA009COL.GCL",
+    "is_compressed": false,
+    "raw_size": 234096,
+    "decomp_size": 234096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA011COL.GCL",
+    "is_compressed": false,
+    "raw_size": 197200,
+    "decomp_size": 197200,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA010COL.GCL",
+    "is_compressed": false,
+    "raw_size": 404464,
+    "decomp_size": 404464,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA010.GM2",
+    "is_compressed": false,
+    "raw_size": 890976,
+    "decomp_size": 890976,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA011.GM2",
+    "is_compressed": false,
+    "raw_size": 1856096,
+    "decomp_size": 1856096,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA012COL.GCL",
+    "is_compressed": false,
+    "raw_size": 49728,
+    "decomp_size": 49728,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA013COL.GCL",
+    "is_compressed": false,
+    "raw_size": 331488,
+    "decomp_size": 331488,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA014COL.GCL",
+    "is_compressed": false,
+    "raw_size": 261776,
+    "decomp_size": 261776,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA012.GM2",
+    "is_compressed": false,
+    "raw_size": 1469856,
+    "decomp_size": 1469856,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA013.GM2",
+    "is_compressed": false,
+    "raw_size": 1653552,
+    "decomp_size": 1653552,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA014.GM2",
+    "is_compressed": false,
+    "raw_size": 971120,
+    "decomp_size": 971120,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA015COL.GCL",
+    "is_compressed": false,
+    "raw_size": 88192,
+    "decomp_size": 88192,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA016COL.GCL",
+    "is_compressed": false,
+    "raw_size": 57904,
+    "decomp_size": 57904,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA015.GM2",
+    "is_compressed": false,
+    "raw_size": 1759072,
+    "decomp_size": 1759072,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA017COL.GCL",
+    "is_compressed": false,
+    "raw_size": 117184,
+    "decomp_size": 117184,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA016.GM2",
+    "is_compressed": false,
+    "raw_size": 1755536,
+    "decomp_size": 1755536,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA019COL.GCL",
+    "is_compressed": false,
+    "raw_size": 46304,
+    "decomp_size": 46304,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA018COL.GCL",
+    "is_compressed": false,
+    "raw_size": 79760,
+    "decomp_size": 79760,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA017.GM2",
+    "is_compressed": false,
+    "raw_size": 1415152,
+    "decomp_size": 1415152,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA018.GM2",
+    "is_compressed": false,
+    "raw_size": 1103168,
+    "decomp_size": 1103168,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA020COL.GCL",
+    "is_compressed": false,
+    "raw_size": 248528,
+    "decomp_size": 248528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA019.GM2",
+    "is_compressed": false,
+    "raw_size": 1612912,
+    "decomp_size": 1612912,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA021COL.GCL",
+    "is_compressed": false,
+    "raw_size": 219040,
+    "decomp_size": 219040,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG\\STG7000SP\\STG7000SP.bin",
+    "is_compressed": true,
+    "raw_size": 21644911,
+    "decomp_size": 38287633,
+    "gdlg_count": 1,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA020.GM2",
+    "is_compressed": false,
+    "raw_size": 1728528,
+    "decomp_size": 1728528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA022COL.GCL",
+    "is_compressed": false,
+    "raw_size": 80080,
+    "decomp_size": 80080,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA021.GM2",
+    "is_compressed": false,
+    "raw_size": 1780736,
+    "decomp_size": 1780736,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA023COL.GCL",
+    "is_compressed": false,
+    "raw_size": 52240,
+    "decomp_size": 52240,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA025COL.GCL",
+    "is_compressed": false,
+    "raw_size": 19136,
+    "decomp_size": 19136,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA022.GM2",
+    "is_compressed": false,
+    "raw_size": 1885056,
+    "decomp_size": 1885056,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA024COL.GCL",
+    "is_compressed": false,
+    "raw_size": 450304,
+    "decomp_size": 450304,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA023.GM2",
+    "is_compressed": false,
+    "raw_size": 1410944,
+    "decomp_size": 1410944,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA026COL.GCL",
+    "is_compressed": false,
+    "raw_size": 131488,
+    "decomp_size": 131488,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA027COL.GCL",
+    "is_compressed": false,
+    "raw_size": 42480,
+    "decomp_size": 42480,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA024.GM2",
+    "is_compressed": false,
+    "raw_size": 1557280,
+    "decomp_size": 1557280,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA025.GM2",
+    "is_compressed": false,
+    "raw_size": 1810848,
+    "decomp_size": 1810848,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA026.GM2",
+    "is_compressed": false,
+    "raw_size": 1875872,
+    "decomp_size": 1875872,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA028COL.GCL",
+    "is_compressed": false,
+    "raw_size": 23936,
+    "decomp_size": 23936,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA030COL.GCL",
+    "is_compressed": false,
+    "raw_size": 57920,
+    "decomp_size": 57920,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA029COL.GCL",
+    "is_compressed": false,
+    "raw_size": 158064,
+    "decomp_size": 158064,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA027.GM2",
+    "is_compressed": false,
+    "raw_size": 1135536,
+    "decomp_size": 1135536,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA031COL.GCL",
+    "is_compressed": false,
+    "raw_size": 151632,
+    "decomp_size": 151632,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA028.GM2",
+    "is_compressed": false,
+    "raw_size": 949888,
+    "decomp_size": 949888,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA029.GM2",
+    "is_compressed": false,
+    "raw_size": 477072,
+    "decomp_size": 477072,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA030.GM2",
+    "is_compressed": false,
+    "raw_size": 1552992,
+    "decomp_size": 1552992,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA032COL.GCL",
+    "is_compressed": false,
+    "raw_size": 137856,
+    "decomp_size": 137856,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA031.GM2",
+    "is_compressed": false,
+    "raw_size": 1872288,
+    "decomp_size": 1872288,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA033COL.GCL",
+    "is_compressed": false,
+    "raw_size": 371120,
+    "decomp_size": 371120,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA034COL.GCL",
+    "is_compressed": false,
+    "raw_size": 96608,
+    "decomp_size": 96608,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA032.GM2",
+    "is_compressed": false,
+    "raw_size": 1735216,
+    "decomp_size": 1735216,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA033.GM2",
+    "is_compressed": false,
+    "raw_size": 1710256,
+    "decomp_size": 1710256,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA036COL.GCL",
+    "is_compressed": false,
+    "raw_size": 46608,
+    "decomp_size": 46608,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA035COL.GCL",
+    "is_compressed": false,
+    "raw_size": 198000,
+    "decomp_size": 198000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA034.GM2",
+    "is_compressed": false,
+    "raw_size": 1631424,
+    "decomp_size": 1631424,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA037COL.GCL",
+    "is_compressed": false,
+    "raw_size": 154384,
+    "decomp_size": 154384,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA035.GM2",
+    "is_compressed": false,
+    "raw_size": 1723360,
+    "decomp_size": 1723360,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA036.GM2",
+    "is_compressed": false,
+    "raw_size": 1595840,
+    "decomp_size": 1595840,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA039COL.GCL",
+    "is_compressed": false,
+    "raw_size": 52000,
+    "decomp_size": 52000,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA038COL.GCL",
+    "is_compressed": false,
+    "raw_size": 88176,
+    "decomp_size": 88176,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA040COL.GCL",
+    "is_compressed": false,
+    "raw_size": 59248,
+    "decomp_size": 59248,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA037.GM2",
+    "is_compressed": false,
+    "raw_size": 1538640,
+    "decomp_size": 1538640,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA041COL.GCL",
+    "is_compressed": false,
+    "raw_size": 38528,
+    "decomp_size": 38528,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA038.GM2",
+    "is_compressed": false,
+    "raw_size": 1082560,
+    "decomp_size": 1082560,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA042COL.GCL",
+    "is_compressed": false,
+    "raw_size": 78976,
+    "decomp_size": 78976,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA039.GM2",
+    "is_compressed": false,
+    "raw_size": 525184,
+    "decomp_size": 525184,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA040.GM2",
+    "is_compressed": false,
+    "raw_size": 1388384,
+    "decomp_size": 1388384,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA043COL.GCL",
+    "is_compressed": false,
+    "raw_size": 26704,
+    "decomp_size": 26704,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA041.GM2",
+    "is_compressed": false,
+    "raw_size": 1434624,
+    "decomp_size": 1434624,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA042.GM2",
+    "is_compressed": false,
+    "raw_size": 1542480,
+    "decomp_size": 1542480,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "STG_HI\\AREA043.GM2",
+    "is_compressed": false,
+    "raw_size": 1000032,
+    "decomp_size": 1000032,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM01\\SM01.RSL",
+    "is_compressed": false,
+    "raw_size": 1417316,
+    "decomp_size": 1417316,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM02\\SM02.RSL",
+    "is_compressed": false,
+    "raw_size": 422942,
+    "decomp_size": 422942,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM04\\SM04.RSL",
+    "is_compressed": false,
+    "raw_size": 1184239,
+    "decomp_size": 1184239,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM03\\SM03.RSL",
+    "is_compressed": false,
+    "raw_size": 651669,
+    "decomp_size": 651669,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM05\\SM05.RSL",
+    "is_compressed": false,
+    "raw_size": 2482428,
+    "decomp_size": 2482428,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM06\\SM06.RSL",
+    "is_compressed": false,
+    "raw_size": 1798638,
+    "decomp_size": 1798638,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SMResult\\SMResult.RSL",
+    "is_compressed": false,
+    "raw_size": 249575,
+    "decomp_size": 249575,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SMT01\\SMT01.RSL",
+    "is_compressed": false,
+    "raw_size": 621856,
+    "decomp_size": 621856,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SM07\\SM07.RSL",
+    "is_compressed": false,
+    "raw_size": 4264783,
+    "decomp_size": 4264783,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  },
+  {
+    "path": "SubMission\\SMT02\\SMT02.RSL",
+    "is_compressed": false,
+    "raw_size": 708898,
+    "decomp_size": 708898,
+    "gdlg_count": 0,
+    "gdl_names": [],
+    "sub_textures": []
+  }
+]

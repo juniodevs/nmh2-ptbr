@@ -1,0 +1,352 @@
+[
+  {
+    "id": 0,
+    "original": "It says  \"Twisted Belly to ",
+    "translation": "Diz: \"Edição Especial de "
+  },
+  {
+    "id": 1,
+    "original": "Back Suplex Special Issue\".",
+    "translation": "Twisted Belly to Back Suplex\"."
+  },
+  {
+    "id": 2,
+    "original": "Learned Twisted Belly to ",
+    "translation": "Aprendeu o Twisted Belly to "
+  },
+  {
+    "id": 3,
+    "original": "Back Suplex.",
+    "translation": "Back Suplex."
+  },
+  {
+    "id": 4,
+    "original": "It says \"Belly to Back Waist ",
+    "translation": "Diz: \"Edição Especial de "
+  },
+  {
+    "id": 5,
+    "original": "Lock Suplex Special Issue\".",
+    "translation": "Belly to Back Waist Lock Suplex\"."
+  },
+  {
+    "id": 6,
+    "original": "Learned Belly to ",
+    "translation": "Aprendeu o Belly to "
+  },
+  {
+    "id": 7,
+    "original": "Back Waist Lock Suplex.",
+    "translation": "Back Waist Lock Suplex."
+  },
+  {
+    "id": 8,
+    "original": "It says \"Spinning Backdrop Edition\".",
+    "translation": "Diz: \"Edição do Spinning Backdrop\"."
+  },
+  {
+    "id": 9,
+    "original": "You can now use",
+    "translation": "Agora você pode usar "
+  },
+  {
+    "id": 10,
+    "original": "the Spinning Backdrop as a finisher.",
+    "translation": "o Spinning Backdrop como finalizador."
+  },
+  {
+    "id": 11,
+    "original": "It says  \"Leg Hook Belly to ",
+    "translation": "Diz: \"Edição Especial de Leg Hook "
+  },
+  {
+    "id": 12,
+    "original": "Learned Leg Hook Belly to ",
+    "translation": "Aprendeu o Leg Hook Belly to Back Suplex."
+  },
+  {
+    "id": 13,
+    "original": "It says \"Backdrop Finisher Edition\".",
+    "translation": "Diz: \"Edição do Finalizador Backdrop\"."
+  },
+  {
+    "id": 14,
+    "original": "the Backdrop as a finisher.",
+    "translation": "o Backdrop como golpe finalizador."
+  },
+  {
+    "id": 15,
+    "original": "It says  ",
+    "translation": "Diz:  "
+  },
+  {
+    "id": 16,
+    "original": "\"Tiger Driver Limited Edition\"",
+    "translation": "\"Edição Limitada Tiger Driver\""
+  },
+  {
+    "id": 17,
+    "original": "Learned Tiger Driver.",
+    "translation": "Aprendeu o Tiger Driver."
+  },
+  {
+    "id": 18,
+    "original": "It says  \"Shin Breaker to ",
+    "translation": "Diz: \"Edição Especial de "
+  },
+  {
+    "id": 19,
+    "original": "Suplex Special Issue\".",
+    "translation": "Shin Breaker to Suplex\"."
+  },
+  {
+    "id": 20,
+    "original": "Learned Shin Breaker to Suplex.",
+    "translation": "Aprendeu o Shin Breaker to Suplex."
+  },
+  {
+    "id": 21,
+    "original": "It says  \"High Angle Belly to ",
+    "translation": "Diz: \"Edição Especial de High Angle "
+  },
+  {
+    "id": 22,
+    "original": "Learned High Angle Belly to",
+    "translation": "Aprendeu o High Angle Belly to Back Suplex."
+  },
+  {
+    "id": 23,
+    "original": "It says ",
+    "translation": "Diz: "
+  },
+  {
+    "id": 24,
+    "original": "\"Modified Tomb Stone Piledriver\".",
+    "translation": "\"Tombstone Piledriver Modificado\"."
+  },
+  {
+    "id": 25,
+    "original": "Learned ",
+    "translation": "Aprendeu o "
+  },
+  {
+    "id": 26,
+    "original": "Modified Tomb Stone Piledriver.",
+    "translation": "Tombstone Piledriver Modificado."
+  },
+  {
+    "id": 27,
+    "original": "\"Giant Swing Kickass Edition\".",
+    "translation": "\"Edição Porrada Giant Swing\"."
+  },
+  {
+    "id": 28,
+    "original": "Learned Giant Swing.",
+    "translation": "Aprendeu o Giant Swing."
+  },
+  {
+    "id": 29,
+    "original": "Lost  ",
+    "translation": "Perdeu  "
+  },
+  {
+    "id": 30,
+    "original": " lbs.",
+    "translation": " lbs."
+  },
+  {
+    "id": 31,
+    "original": "Jeane is looking good.",
+    "translation": "A Jeane está em boa forma."
+  },
+  {
+    "id": 32,
+    "original": "Jeane is happy now.",
+    "translation": "A Jeane está feliz agora."
+  },
+  {
+    "id": 33,
+    "original": "1234567890",
+    "translation": "1234567890"
+  },
+  {
+    "id": 34,
+    "original": "Jeane's getting way too fat.",
+    "translation": "A Jeane está ficando gorda demais."
+  },
+  {
+    "id": 35,
+    "original": "Try to get her to lose some weight.",
+    "translation": "Faça ela perder um pouco de peso."
+  },
+  {
+    "id": 36,
+    "original": "Making Jeane go on a diet will",
+    "translation": "Colocar a Jeane na dieta vai "
+  },
+  {
+    "id": 37,
+    "original": "put her in a foul mood.",
+    "translation": "deixar ela de mau humor."
+  },
+  {
+    "id": 38,
+    "original": "Dieting in a bad mood will lower ",
+    "translation": "Fazer dieta de mau humor diminui "
+  },
+  {
+    "id": 39,
+    "original": "the effectiveness of the diet, ",
+    "translation": "o efeito dos exercícios, "
+  },
+  {
+    "id": 40,
+    "original": "so give her a snack from time to time.",
+    "translation": "então dê um agrado de vez em quando."
+  },
+  {
+    "id": 41,
+    "original": "Jeane doesn't like doing the ",
+    "translation": "A Jeane não gosta de ficar fazendo "
+  },
+  {
+    "id": 42,
+    "original": "same things over and over. ",
+    "translation": "a mesma coisa toda hora. "
+  },
+  {
+    "id": 43,
+    "original": "So once a menu has been selected, ",
+    "translation": "Depois de escolher uma atividade, "
+  },
+  {
+    "id": 44,
+    "original": "it won't be available for a while.",
+    "translation": "ela vai ficar indisponível por um tempo."
+  },
+  {
+    "id": 45,
+    "original": "Weekly Backdrop Vol.1",
+    "translation": "Backdrop Semanal Vol.1"
+  },
+  {
+    "id": 46,
+    "original": "Monthly Top Rope Vol.1",
+    "translation": "Top Rope Mensal Vol.1"
+  },
+  {
+    "id": 47,
+    "original": "Play with Cat",
+    "translation": "Brincar com a Jeane"
+  },
+  {
+    "id": 48,
+    "original": "Diet",
+    "translation": "Dieta"
+  },
+  {
+    "id": 49,
+    "original": "Jump",
+    "translation": "Pular"
+  },
+  {
+    "id": 50,
+    "original": "Stroke",
+    "translation": "Carinho"
+  },
+  {
+    "id": 51,
+    "original": "Feed",
+    "translation": "Comida"
+  },
+  {
+    "id": 52,
+    "original": "Weight",
+    "translation": "Peso"
+  },
+  {
+    "id": 53,
+    "original": "Calories Burned",
+    "translation": "Calorias Queimadas"
+  },
+  {
+    "id": 54,
+    "original": "Mood",
+    "translation": "Humor"
+  },
+  {
+    "id": 55,
+    "original": "Watching Jeane's slick moves has ",
+    "translation": "Ver os movimentos ágeis da Jeane "
+  },
+  {
+    "id": 56,
+    "original": "inspired a new technique.",
+    "translation": "inspirou uma nova técnica."
+  },
+  {
+    "id": 57,
+    "original": "You learned the \"Step-In Slice\" attack.",
+    "translation": "Você aprendeu o ataque \"Bote Rápido\"."
+  },
+  {
+    "id": 58,
+    "original": "Shake the Joy-Con (L) to perform",
+    "translation": "Balance o Joy-Con (L) para usar "
+  },
+  {
+    "id": 59,
+    "original": "the Step-In Slice attack.",
+    "translation": "o ataque Bote Rápido."
+  },
+  {
+    "id": 60,
+    "original": "*|-X1 + *|-A1  : Step-In Slice attack.",
+    "translation": "*|-X1 + *|-A1  : Ataque Bote Rápido."
+  },
+  {
+    "id": 61,
+    "original": "Each time you make Jeane exercise her mood will worsen.",
+    "translation": "Toda vez que a Jeane se exercita, o humor dela piora."
+  },
+  {
+    "id": 62,
+    "original": "She won't lose weight if she's pissed.",
+    "translation": "Ela não vai perder peso se estiver irritada."
+  },
+  {
+    "id": 63,
+    "original": "Give her some food and she'll be in a better mood.",
+    "translation": "Dê um pouco de comida pra deixar ela de bom humor."
+  },
+  {
+    "id": 64,
+    "original": "TIME",
+    "translation": "TEMPO"
+  },
+  {
+    "id": 65,
+    "original": "NICE!",
+    "translation": "BOA!"
+  },
+  {
+    "id": 66,
+    "original": "GREAT!",
+    "translation": "ÓTIMO!"
+  },
+  {
+    "id": 67,
+    "original": "BAD",
+    "translation": "RUIM"
+  },
+  {
+    "id": 68,
+    "original": "Got Beam Katana ROSE NASTY!!",
+    "translation": "Obteve a Katana Laser ROSE NASTY!!"
+  },
+  {
+    "id": 69,
+    "original": "Got Pure White Lover Bizarre Jelly 5 video",
+    "translation": "Obteve o vídeo Pure White Lover Bizarre Jelly 5"
+  }
+]

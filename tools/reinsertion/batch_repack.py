@@ -69,6 +69,38 @@ def repack_archive(archive_rel_path: str, game_dir: Path, install: bool = False)
     gdl_files = list(unpack_dir.rglob("*.GDL"))
     modified_count = 0
 
+    # Patch ItemDataEEng.ItemData.bin if present
+    for item_data_path in unpack_dir.rglob("ItemDataEEng.ItemData.bin"):
+        try:
+            with open(item_data_path, 'rb') as f:
+                item_bytes = bytearray(f.read())
+            patches = [
+                (b'NO JACKET', b'SEM JAQUETA'),
+            ]
+            for i in range(1, 10):
+                patches.append((f'BAND T-SHIRT {i:02d}'.encode(), f'CAMISA BANDA {i:02d}'.encode()))
+            for i in range(1, 11):
+                patches.append((f'WEEKLY BACKDROPS {i:02d}'.encode(), f'BACKDROP SEMANAL {i:02d}'.encode()))
+            for i in range(1, 6):
+                patches.append((f'UH T-SHIRT {i:02d}'.encode(), f'CAMISA UH {i:02d}'.encode()))
+            for orig, rep in patches:
+                pos = 0
+                while True:
+                    pos = item_bytes.find(orig, pos)
+                    if pos == -1: break
+                    block = (pos // 32) * 32
+                    assert len(rep) <= 19, f"Texto muito longo para ItemData: {rep}"
+                    item_bytes[block : block + 20] = rep.ljust(20, b'\x00')
+                    pos += 32
+            with open(item_data_path, 'wb') as f:
+                f.write(item_bytes)
+            print(f"    [->] ItemData traduzido (metadados preservados): {item_data_path.name}")
+            modified_count += 1
+        except Exception as e:
+            print(f"    [!] Erro ao aplicar patch em ItemData: {e}")
+
+    # Preservar BALLOON_TEXTURE original dos EUA (48x16) para estabilidade gráfica perfeita
+
     for gdl in gdl_files:
         matches = list((PROJECT_ROOT / "translation" / "pt-BR").rglob(f"{gdl.stem}.json"))
         if not matches:

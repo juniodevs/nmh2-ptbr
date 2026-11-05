@@ -49,17 +49,26 @@ def copy_payload():
 
 def create_readme():
     readme_path = DIST_DIR / "LEIA-ME.txt"
-    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA)
+    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.0)
 
 Versao Beta de testes da traducao em Portugues do Brasil para a versao de PC (Steam).
 
-AVISO IMPORTANTE:
-Esta versao esta em fase de testes abertos. E possivel encontrar falhas de formatacao, travamentos ou pequenas inconsistencias em algumas cutscenes ou missoes. Caso encontre qualquer erro ou crash, abra uma Issue no repositorio do GitHub informando o nome da missao ou a cena onde ocorreu.
+AVISO:
+Esta versao esta em fase de testes abertos. E possivel encontrar falhas pontuais, travamentos ou pequenas inconsistencias em algumas cenas. Caso encontre qualquer erro ou crash, abra uma Issue no repositorio do GitHub informando o nome da missao ou o momento exato em que ocorreu.
 
 CREDITOS:
-- juniodevs (DoubleXXP): Traducao e engenharia reversa
-- Vickz_Joga: Testes e validacao
-- Timo654: Ferramenta No-More-RSL
+- juniodevs: traducao e engenharia reversa (https://junio.is-a.dev/)
+- Vickz_Joga: testes e validacao em gameplay (https://www.youtube.com/@Vickz_Joga)
+- Timo654: ferramenta No-More-RSL
+
+DESTAQUES DA VERSAO BETA:
+- Nova fonte retro VCR OSD Mono calibrada pixel a pixel, combinando com a estetica do jogo.
+- Alinhamento vertical fixo na linha de base, evitando que acentos empurrem a legenda para baixo.
+- Correcao dos caracteres corrompidos em letras maiusculas (como C e L).
+- Traducao completa do motel do Travis (armario, revistas de wrestling, minigame da Jeane, baloes e TV).
+- Traducao das lojas e instalacoes de Santa Destroy (Airport 51, Laboratorio da Naomi e Academia do Ryan).
+- Menus e prompts de interacao traduzidos diretamente no executavel nmh2.exe (Trocar, Comprar, Estante, Revistas, Brincar, Escolher, Girar).
+- Remocao completa de mencoes extras e creditos consolidados exclusivamente para juniodevs e Vickz_Joga.
 
 COMO INSTALAR:
 1. Feche o jogo caso ele esteja aberto.
@@ -72,16 +81,6 @@ COMO DESINSTALAR OU RESTAURAR O JOGO ORIGINAL:
 1. Abra o arquivo Instalar_Traducao.bat novamente.
 2. Escolha a opcao 2 (Restaurar jogo original).
    Ele copia de volta todos os arquivos salvos na pasta .backup, voltando o jogo ao estado original sem precisar baixar nada novamente na Steam.
-
-CONTEUDO DESTA VERSAO:
-- 75 cutscenes legendadas em Portugues Brasileiro.
-- Dialogos de combate e tutoriais adaptados.
-- Bicos CLT de Santa Destroy (minigames 8-bit).
-- Texturas de combate traduzidas (FALHA, TEMPO ESGOTADO, VAI!, TEMPO FINAL).
-- Legenda grafica da batalha contra Skelter Helter.
-- Textura da folha de fax da UAA traduzida.
-- Menus, opcoes e telas de salvamento no executavel.
-- Fonte do jogo com acentos completos da lingua portuguesa.
 """
     readme_path.write_text(content, encoding="utf-8")
     print(f"[+] Criado {readme_path.name}")

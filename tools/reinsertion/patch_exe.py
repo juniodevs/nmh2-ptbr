@@ -89,7 +89,7 @@ STRING_PATCHES = [
     (b'SHOES\x00\x00\x00', b'TENIS\x00\x00\x00'),
     (b'TELEVISION\x00\x00', b'TELEVISAO\x00\x00\x00'),
     (b'BJ 5 VIDEO\x00\x00', b'VICKZ_JOGA\x00\x00'),
-    (b'E3 TRAILER 2009\x00', b'JUNIODEVS / XXP\x00'),
+    (b'E3 TRAILER 2009\x00', b'JUNIODEVS TRAD.\x00'),
     (b'CLOSET\x00\x00', b'ARMARIO\x00'),
     (b'TRAINING\x00\x00\x00\x00', b'TREINO\x00\x00\x00\x00\x00\x00'),
     (b'ARE YOU READY?\x00\x00', b'TUDO PRONTO?\x00\x00\x00\x00'),
@@ -116,6 +116,21 @@ STRING_PATCHES = [
     (b'UNSAVED PROGRESS WILL BE LOST\x00\x00\x00', b'PROGRESSO NAO SALVO SE PERDERA\x00\x00'),
     (b'YES\x00', b'SIM\x00'),
     (b'NO \x00', b'NAO\x00'),
+    (b'\x00NO\x00\x00', b'\x00NAO\x00'),
+
+    (b'CHANGE?\x00', b'TROCAR?\x00'),
+    (b'BUY?\x00\x00\x00\x00', b'COMPRA?\x00'),
+    (b'SHELF\x00\x00\x00', b'ESTANTE\x00'),
+    (b'MAGAZINE\x00\x00\x00\x00', b'REVISTAS\x00\x00\x00\x00'),
+    (b'BJ 5 GAME\x00\x00\x00', b'JOGO BJ 5\x00\x00\x00'),
+    (b'PLAY\x00\x00\x00\x00', b'BRINCAR\x00'),
+    (b'JUMP\x00\x00\x00\x00', b'PULAR\x00\x00\x00'),
+    (b'STRETCH\x00', b'ALONGAR\x00'),
+    (b'MASSAGE\x00', b'MASSAGE\x00'),
+    (b'FEED\x00\x00\x00\x00', b'COMIDA\x00\x00'),
+    (b'REGULAR    \x00', b'PADRAO     \x00'),
+    (b'MOOD\x00\x00\x00\x00', b'HUMOR\x00\x00\x00'),
+    (b'EXIT\x00\x00\x00\x00', b'SAIR\x00\x00\x00\x00'),
 ]
 
 
@@ -135,25 +150,46 @@ def apply_patch():
         data = bytearray(f.read())
 
     applied_count = 0
+    verbose = "--verbose" in sys.argv
     for orig, rep in STRING_PATCHES:
         assert len(orig) == len(rep), f"Tamanhos diferentes: {orig} ({len(orig)}) vs {rep} ({len(rep)})"
         pos = data.find(orig, 0x632500)
         if pos != -1 and pos < 0x634000:
             data[pos : pos + len(orig)] = rep
-            print(f"  [+] 0x{pos:X}: {orig[:16].decode('latin-1', 'replace')} -> {rep[:16].decode('latin-1', 'replace')}")
+            if verbose:
+                print(f"  [+] 0x{pos:X}: {orig[:16].decode('latin-1', 'replace')} -> {rep[:16].decode('latin-1', 'replace')}")
             applied_count += 1
-        else:
+        elif verbose:
             print(f"  [!] String não localizada na tabela de texto: {orig[:16].decode('latin-1', 'replace')}")
 
+    cancel_count = 0
     pos = 0x632500
     while True:
         pos = data.find(b':CANCEL', pos)
         if pos == -1 or pos >= 0x634000:
             break
         data[pos : pos + 7] = b':VOLTAR'
-        print(f"  [+] 0x{pos:X}: :CANCEL -> :VOLTAR")
+        cancel_count += 1
+        if verbose:
+            print(f"  [+] 0x{pos:X}: :CANCEL -> :VOLTAR")
         pos += 7
-        applied_count += 1
+
+    prompt_patches = [
+        (b':SELECT    ', b':ESCOLHER  '),
+        (b':SELECT   ', b':ESCOLHER '),
+        (b'   ~219:TURN   ~205:TURN RESET\x00\x00', b'   ~219:GIRAR  ~205:RESET GIRO\x00\x00'),
+    ]
+    for s_orig, s_rep in prompt_patches:
+        assert len(s_orig) == len(s_rep), f"Tamanhos diferentes: {s_orig} ({len(s_orig)}) vs {s_rep} ({len(s_rep)})"
+        pos = 0x632500
+        while True:
+            pos = data.find(s_orig, pos)
+            if pos == -1 or pos >= 0x634000:
+                break
+            data[pos : pos + len(s_orig)] = s_rep
+            if verbose:
+                print(f"  [+] 0x{pos:X}: {s_orig} -> {s_rep}")
+            pos += len(s_orig)
 
     import struct
     map_pointers = [0x60D6A8, 0x60E348, 0x14CD79]
@@ -161,12 +197,16 @@ def apply_patch():
         old_val = struct.unpack('<I', data[p_off : p_off + 4])[0]
         if old_val == 0xA33CA8:
             struct.pack_into('<I', data, p_off, 0xA36684)
-            print(f"  [+] Redirecionado ponteiro MAP -> MAPA em 0x{p_off:X}")
+            if verbose:
+                print(f"  [+] Redirecionado ponteiro MAP -> MAPA em 0x{p_off:X}")
+
+    orig_len = BACKUP_EXE.stat().st_size
+    assert len(data) == orig_len, f"ERRO CRITICO: Tamanho do executavel foi alterado! {len(data)} != {orig_len}"
 
     with open(GAME_EXE, 'wb') as f:
         f.write(data)
 
-    print(f"\n[OK] Executável nmh2.exe atualizado com sucesso! ({applied_count}/{len(STRING_PATCHES)} strings aplicadas)")
+    print(f"[OK] Executável nmh2.exe atualizado ({applied_count}/{len(STRING_PATCHES)} textos de menu e opções traduzidos).")
     return True
 
 
