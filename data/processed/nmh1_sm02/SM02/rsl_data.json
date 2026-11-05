@@ -1,0 +1,737 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "SCRIPT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "SM02.SCB"
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 2,
+            "Resource Name": "MESSAGE",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 3,
+                  "Resource Name": "EVESM02.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 4,
+                  "Resource Name": "EVESM02_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 5,
+            "Resource Name": "MESSAGE_CS",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "EVESM02C.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 7,
+                  "Resource Name": "EVESM02C_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 8,
+            "Resource Name": "MESSAGE_US",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "EVESM02E.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 10,
+                  "Resource Name": "EVESM02E_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 11,
+            "Resource Name": "MESSAGE_GR",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "EVESM02G.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 13,
+                  "Resource Name": "EVESM02G_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 14,
+            "Resource Name": "MESSAGE_FR",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 15,
+                  "Resource Name": "EVESM02F.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 16,
+                  "Resource Name": "EVESM02F_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 17,
+            "Resource Name": "MESSAGE_SP",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 18,
+                  "Resource Name": "EVESM02S.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 19,
+                  "Resource Name": "EVESM02S_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 20,
+            "Resource Name": "MESSAGE_IT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 21,
+                  "Resource Name": "EVESM02I.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 22,
+                  "Resource Name": "EVESM02I_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 23,
+            "Resource Name": "MESSAGE_CT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 24,
+                  "Resource Name": "EVESM02T.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 25,
+                  "Resource Name": "EVESM02T_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 26,
+            "Resource Name": "MESSAGE_DT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "EVESM02E.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 10,
+                  "Resource Name": "EVESM02E_GC.BIN"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 27,
+      "Resource Name": "SUBMISSIONNPCRSL",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 28,
+            "Resource Name": "IRA001.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "MODEL",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "IRA001.GM2"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 2,
+                  "Resource Name": "MOTION",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 3,
+                        "Resource Name": "NPSA05100.GA2"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 4,
+                        "Resource Name": "NPMA06010.GA2"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 5,
+                        "Resource Name": "NPMA06020.GA2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 29,
+            "Resource Name": "OBJ008.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "MODEL",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "OBJ008.GM2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 30,
+            "Resource Name": "OBJ009.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "MODEL",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "OBJ009.GM2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 31,
+            "Resource Name": "OBJ010.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "MODEL",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "OBJ010.GM2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 32,
+            "Resource Name": "OBJ011.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "MODEL",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "OBJ011.GM2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 33,
+            "Resource Name": "OBJ012.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "MODEL",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "OBJ012.GM2"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 34,
+      "Resource Name": "MOTION",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 35,
+            "Resource Name": "TRVA80500.GA2"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 36,
+            "Resource Name": "TRVA80600.GA2"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 37,
+      "Resource Name": "MODEL",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 38,
+            "Resource Name": "OBJ106.GM2"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 39,
+            "Resource Name": "OBJ107.GM2"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 40,
+      "Resource Name": "TITLE",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 41,
+            "Resource Name": "2x_SM_07.BIN"
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 42,
+            "Resource Name": "POSITION",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 43,
+                  "Resource Name": "78",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 44,
+                  "Resource Name": "0",
+                  "No file": true
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 45,
+      "Resource Name": "TITLE_S",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 46,
+            "Resource Name": "2x_S_SM_07.BIN"
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 42,
+            "Resource Name": "POSITION",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 43,
+                  "Resource Name": "78",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 44,
+                  "Resource Name": "0",
+                  "No file": true
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 47,
+      "Resource Name": "TITLE_F",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 48,
+            "Resource Name": "2x_F_SM_07.BIN"
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 42,
+            "Resource Name": "POSITION",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 43,
+                  "Resource Name": "78",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 44,
+                  "Resource Name": "0",
+                  "No file": true
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 49,
+      "Resource Name": "TITLE_G",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 50,
+            "Resource Name": "2x_G_SM_07.BIN"
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 42,
+            "Resource Name": "POSITION",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 43,
+                  "Resource Name": "78",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 44,
+                  "Resource Name": "0",
+                  "No file": true
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 51,
+      "Resource Name": "TITLE_I",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 52,
+            "Resource Name": "2x_I_SM_07.BIN"
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 42,
+            "Resource Name": "POSITION",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 43,
+                  "Resource Name": "78",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 44,
+                  "Resource Name": "0",
+                  "No file": true
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

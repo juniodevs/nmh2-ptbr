@@ -1,0 +1,31 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "MESSAGE",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "EVEGENRE_0000.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 2,
+            "Resource Name": "EVEGENRE_0000_GC.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}

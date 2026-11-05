@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "original": "*u  Joy-Con (R) + *a  :High Slash Attack",
+    "translation": "*u  Joy-Con (D) + *a  :Golpe Alto com Katana"
+  },
+  {
+    "id": 1,
+    "original": "*d  Joy-Con (R) + *a  :Low Slash Attack ",
+    "translation": "*d  Joy-Con (D) + *a  :Golpe Baixo com Katana "
+  },
+  {
+    "id": 2,
+    "original": "*u  Joy-Con (R) + *b  :High Strike Attack",
+    "translation": "*u  Joy-Con (D) + *b  :Golpe Físico Alto"
+  },
+  {
+    "id": 3,
+    "original": "*d  Joy-Con (R) + *b  :Low Strike Attack ",
+    "translation": "*d  Joy-Con (D) + *b  :Golpe Físico Baixo "
+  },
+  {
+    "id": 4,
+    "original": "*|-GL :Lock On & Guard",
+    "translation": "*|-GL :Travar Mira e Defesa"
+  },
+  {
+    "id": 5,
+    "original": "*|-LR  :Emergency Evade",
+    "translation": "*|-LR  :Esquiva de Emergência"
+  },
+  {
+    "id": 6,
+    "original": "(enemy must be locked on)",
+    "translation": "(mira deve estar travada)"
+  },
+  {
+    "id": 7,
+    "original": "Hold down  *|-A1  and then",
+    "translation": "Segure  *|-A1  e depois"
+  },
+  {
+    "id": 8,
+    "original": "release it :Charged slash",
+    "translation": "solte :Corte Carregado"
+  },
+  {
+    "id": 9,
+    "original": "Swing the Joy-Con (R)",
+    "translation": "Balance o Joy-Con (D)"
+  },
+  {
+    "id": 10,
+    "original": "while running:",
+    "translation": "enquanto corre:"
+  },
+  {
+    "id": 11,
+    "original": "Running Slash",
+    "translation": "Corte em Corrida"
+  },
+  {
+    "id": 12,
+    "original": "Button mashing:",
+    "translation": "Metralhar botões:"
+  },
+  {
+    "id": 13,
+    "original": "Recover from knockdown",
+    "translation": "Recuperar-se da queda"
+  },
+  {
+    "id": 14,
+    "original": "Recover from dizziness",
+    "translation": "Recuperar-se da tontura"
+  },
+  {
+    "id": 15,
+    "original": "Press  *|-B1  when near ",
+    "translation": "Aperte  *|-B1  perto de "
+  },
+  {
+    "id": 16,
+    "original": "a downed enemy to perform ",
+    "translation": "um inimigo caído para dar "
+  },
+  {
+    "id": 17,
+    "original": "a wrestling move.",
+    "translation": "um golpe de luta-livre."
+  },
+  {
+    "id": 18,
+    "original": "*|-L1  :Beam Katana Recharge",
+    "translation": "*|-L1  :Recarregar Beam Katana"
+  },
+  {
+    "id": 19,
+    "original": "*|-X1  :High Slash Attack",
+    "translation": "*|-X1  :Golpe Alto com Katana"
+  },
+  {
+    "id": 20,
+    "original": "*|-Y1  :Low Slash Attack",
+    "translation": "*|-Y1  :Golpe Baixo com Katana"
+  },
+  {
+    "id": 21,
+    "original": "*|-A1  :High Strike Attack",
+    "translation": "*|-A1  :Golpe Físico Alto"
+  },
+  {
+    "id": 22,
+    "original": "*|-B1  :Low Strike Attack",
+    "translation": "*|-B1  :Golpe Físico Baixo"
+  },
+  {
+    "id": 23,
+    "original": "Hold down  *|-Y1 or  *|-X1 ",
+    "translation": "Segure  *|-Y1 ou  *|-X1 "
+  },
+  {
+    "id": 24,
+    "original": "and then release it:",
+    "translation": "e depois solte:"
+  },
+  {
+    "id": 25,
+    "original": "Charged slash",
+    "translation": "Corte Carregado"
+  },
+  {
+    "id": 26,
+    "original": "*|-X1  + *|-A1   while running:",
+    "translation": "*|-X1  + *|-A1   ao correr:"
+  },
+  {
+    "id": 27,
+    "original": "Press  *|-A1 or *|-B1 ",
+    "translation": "Aperte  *|-A1 ou *|-B1 "
+  },
+  {
+    "id": 28,
+    "original": "when near a stunned enemy to ",
+    "translation": "perto de inimigo tonto para "
+  },
+  {
+    "id": 29,
+    "original": "perform a wrestling move.",
+    "translation": "dar um golpe de luta-livre."
+  }
+]

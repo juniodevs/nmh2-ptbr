@@ -1,0 +1,260 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "MOTION",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 2,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "1",
+            "No file": true
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 2,
+      "Resource Name": "MODEL",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 3,
+            "Resource Name": "STG0101",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 4,
+                  "Resource Name": "STG0101.GM2"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 5,
+                  "Resource Name": "PARAMSTG0101.txt"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 6,
+            "Resource Name": "SKE10",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 7,
+                  "Resource Name": "SKE10.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 9,
+            "Resource Name": "SKE11",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 10,
+                  "Resource Name": "SKE11.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 11,
+            "Resource Name": "TRV",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 2,
+            "Version": 1069,
+            "Resource ID": 12,
+            "Resource Name": "SHADOWTYPE2",
+            "No file": true
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 13,
+      "Resource Name": "EFFECT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 14,
+            "Resource Name": "SNW00000.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": -1,
+                  "Resource Name": "",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 0,
+                        "Resource Name": "snow01.BIN"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 15,
+            "Resource Name": "SKD01020.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": -1,
+                  "Resource Name": "",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 0,
+                        "Resource Name": "2x_Dead_EN.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 1,
+                        "Resource Name": "2x_Dead_FR.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 2,
+                        "Resource Name": "2x_Dead_SP.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 3,
+                        "Resource Name": "2x_Dead_IT.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 4,
+                        "Resource Name": "2x_Dead_GE.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 5,
+                        "Resource Name": "2x_Dead_CS.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 6,
+                        "Resource Name": "2x_Dead_CT.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 7,
+                        "Resource Name": "2x_SkelterHelter.BIN"
+                      },
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 8,
+                        "Resource Name": "2x_shibou.BIN"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

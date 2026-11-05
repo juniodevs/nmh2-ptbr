@@ -1,0 +1,602 @@
+[
+  {
+    "category": "Demo",
+    "archive": "P0000",
+    "gdl_name": "D0000EE.GDL",
+    "string_count": 35,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0000\\D0000EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0000\\D0000EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0100",
+    "gdl_name": "D0100EE.GDL",
+    "string_count": 41,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0100\\D0100EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0100\\D0100EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0101",
+    "gdl_name": "D0101EE.GDL",
+    "string_count": 28,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0101\\D0101EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0101\\D0101EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0103",
+    "gdl_name": "D0103EE.GDL",
+    "string_count": 106,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0103\\D0103EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0103\\D0103EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0104",
+    "gdl_name": "D0104EE.GDL",
+    "string_count": 7,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0104\\D0104EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0104\\D0104EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0200",
+    "gdl_name": "D0200EE.GDL",
+    "string_count": 2,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0200\\D0200EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0200\\D0200EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0201",
+    "gdl_name": "D0201EE.GDL",
+    "string_count": 14,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0201\\D0201EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0201\\D0201EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0202",
+    "gdl_name": "D0202EE.GDL",
+    "string_count": 12,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0202\\D0202EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0202\\D0202EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0203",
+    "gdl_name": "D0203EE.GDL",
+    "string_count": 46,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0203\\D0203EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0203\\D0203EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0204",
+    "gdl_name": "D0204EE.GDL",
+    "string_count": 15,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0204\\D0204EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0204\\D0204EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0205",
+    "gdl_name": "D0205EE.GDL",
+    "string_count": 40,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0205\\D0205EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0205\\D0205EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0206",
+    "gdl_name": "D0206EE.GDL",
+    "string_count": 2,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0206\\D0206EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0206\\D0206EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0207",
+    "gdl_name": "D0207EE.GDL",
+    "string_count": 19,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0207\\D0207EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0207\\D0207EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0300",
+    "gdl_name": "D0300EE.GDL",
+    "string_count": 9,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0300\\D0300EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0300\\D0300EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0301",
+    "gdl_name": "D0301EE.GDL",
+    "string_count": 27,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0301\\D0301EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0301\\D0301EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0302",
+    "gdl_name": "D0302EE.GDL",
+    "string_count": 14,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0302\\D0302EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0302\\D0302EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0303",
+    "gdl_name": "D0303EE.GDL",
+    "string_count": 33,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0303\\D0303EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0303\\D0303EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0304",
+    "gdl_name": "D0304EE.GDL",
+    "string_count": 6,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0304\\D0304EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0304\\D0304EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0305",
+    "gdl_name": "D0305EE.GDL",
+    "string_count": 1,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0305\\D0305EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0305\\D0305EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0306",
+    "gdl_name": "D0306EE.GDL",
+    "string_count": 5,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0306\\D0306EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0306\\D0306EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0307",
+    "gdl_name": "D0307EE.GDL",
+    "string_count": 1,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0307\\D0307EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0307\\D0307EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0308",
+    "gdl_name": "D0308EE.GDL",
+    "string_count": 1,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0308\\D0308EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0308\\D0308EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0309",
+    "gdl_name": "D0309EE.GDL",
+    "string_count": 5,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0309\\D0309EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0309\\D0309EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0310",
+    "gdl_name": "D0310EE.GDL",
+    "string_count": 32,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0310\\D0310EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0310\\D0310EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0401",
+    "gdl_name": "D0401EE.GDL",
+    "string_count": 104,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0401\\D0401EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0401\\D0401EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0402",
+    "gdl_name": "D0402EE.GDL",
+    "string_count": 8,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0402\\D0402EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0402\\D0402EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0500",
+    "gdl_name": "D0500EE.GDL",
+    "string_count": 11,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0500\\D0500EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0500\\D0500EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0501",
+    "gdl_name": "D0501EE.GDL",
+    "string_count": 17,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0501\\D0501EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0501\\D0501EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0502",
+    "gdl_name": "D0502EE.GDL",
+    "string_count": 3,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0502\\D0502EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0502\\D0502EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0503",
+    "gdl_name": "D0503EE.GDL",
+    "string_count": 2,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0503\\D0503EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0503\\D0503EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0504",
+    "gdl_name": "D0504EE.GDL",
+    "string_count": 33,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0504\\D0504EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0504\\D0504EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0600",
+    "gdl_name": "D0600EE.GDL",
+    "string_count": 16,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0600\\D0600EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0600\\D0600EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0601",
+    "gdl_name": "D0601EE.GDL",
+    "string_count": 22,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0601\\D0601EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0601\\D0601EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0602",
+    "gdl_name": "D0602EE.GDL",
+    "string_count": 21,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0602\\D0602EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0602\\D0602EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0604",
+    "gdl_name": "D0604EE.GDL",
+    "string_count": 12,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0604\\D0604EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0604\\D0604EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0700",
+    "gdl_name": "D0700EE.GDL",
+    "string_count": 10,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0700\\D0700EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0700\\D0700EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0701",
+    "gdl_name": "D0701EE.GDL",
+    "string_count": 41,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0701\\D0701EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0701\\D0701EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0702",
+    "gdl_name": "D0702EE.GDL",
+    "string_count": 11,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0702\\D0702EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0702\\D0702EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0703",
+    "gdl_name": "D0703EE.GDL",
+    "string_count": 79,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0703\\D0703EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0703\\D0703EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0704",
+    "gdl_name": "D0704EI.GDL",
+    "string_count": 1,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0704\\D0704EI.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0704\\D0704EI.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0705",
+    "gdl_name": "D0705EE.GDL",
+    "string_count": 45,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0705\\D0705EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0705\\D0705EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0800",
+    "gdl_name": "D0800EE.GDL",
+    "string_count": 22,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0800\\D0800EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0800\\D0800EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0801",
+    "gdl_name": "D0801EE.GDL",
+    "string_count": 11,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0801\\D0801EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0801\\D0801EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0802",
+    "gdl_name": "D0802EE.GDL",
+    "string_count": 8,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0802\\D0802EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0802\\D0802EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0900",
+    "gdl_name": "D0900EE.GDL",
+    "string_count": 38,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0900\\D0900EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0900\\D0900EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0901",
+    "gdl_name": "D0901EE.GDL",
+    "string_count": 63,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0901\\D0901EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0901\\D0901EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P0902",
+    "gdl_name": "D0902EE.GDL",
+    "string_count": 3,
+    "orig_json": "data\\extracted\\texts\\Demo\\P0902\\D0902EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P0902\\D0902EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1000",
+    "gdl_name": "D1000EE.GDL",
+    "string_count": 34,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1000\\D1000EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1000\\D1000EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1002",
+    "gdl_name": "D1002EE.GDL",
+    "string_count": 25,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1002\\D1002EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1002\\D1002EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1004",
+    "gdl_name": "D1004EE.GDL",
+    "string_count": 17,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1004\\D1004EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1004\\D1004EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1100",
+    "gdl_name": "D1100EE.GDL",
+    "string_count": 31,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1100\\D1100EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1100\\D1100EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1102",
+    "gdl_name": "D1102EE.GDL",
+    "string_count": 16,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1102\\D1102EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1102\\D1102EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1200",
+    "gdl_name": "D1200EE.GDL",
+    "string_count": 47,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1200\\D1200EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1200\\D1200EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1201",
+    "gdl_name": "D1201EE.GDL",
+    "string_count": 41,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1201\\D1201EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1201\\D1201EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1202",
+    "gdl_name": "D1202EE.GDL",
+    "string_count": 4,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1202\\D1202EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1202\\D1202EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1203",
+    "gdl_name": "D1203EE.GDL",
+    "string_count": 6,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1203\\D1203EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1203\\D1203EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1204",
+    "gdl_name": "D1204EE.GDL",
+    "string_count": 2,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1204\\D1204EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1204\\D1204EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1205",
+    "gdl_name": "D1205EE.GDL",
+    "string_count": 17,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1205\\D1205EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1205\\D1205EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1300",
+    "gdl_name": "D1300EE.GDL",
+    "string_count": 7,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1300\\D1300EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1300\\D1300EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1301",
+    "gdl_name": "D1301EE.GDL",
+    "string_count": 20,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1301\\D1301EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1301\\D1301EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1302",
+    "gdl_name": "D1302EE.GDL",
+    "string_count": 13,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1302\\D1302EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1302\\D1302EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1303",
+    "gdl_name": "D1303EE.GDL",
+    "string_count": 10,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1303\\D1303EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1303\\D1303EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1304",
+    "gdl_name": "D1304EE.GDL",
+    "string_count": 9,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1304\\D1304EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1304\\D1304EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1400",
+    "gdl_name": "D1400EE.GDL",
+    "string_count": 16,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1400\\D1400EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1400\\D1400EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1401",
+    "gdl_name": "D1401EE.GDL",
+    "string_count": 55,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1401\\D1401EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1401\\D1401EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1402",
+    "gdl_name": "D1402EE.GDL",
+    "string_count": 8,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1402\\D1402EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1402\\D1402EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1403",
+    "gdl_name": "D1403EE.GDL",
+    "string_count": 35,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1403\\D1403EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1403\\D1403EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1404",
+    "gdl_name": "D1404EE.GDL",
+    "string_count": 20,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1404\\D1404EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1404\\D1404EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1500",
+    "gdl_name": "D1500EE.GDL",
+    "string_count": 27,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1500\\D1500EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1500\\D1500EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1501",
+    "gdl_name": "D1501EE.GDL",
+    "string_count": 53,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1501\\D1501EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1501\\D1501EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1502",
+    "gdl_name": "D1502EE.GDL",
+    "string_count": 10,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1502\\D1502EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1502\\D1502EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1503",
+    "gdl_name": "D1503EE.GDL",
+    "string_count": 4,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1503\\D1503EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1503\\D1503EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1504",
+    "gdl_name": "D1504EE.GDL",
+    "string_count": 23,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1504\\D1504EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1504\\D1504EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1506",
+    "gdl_name": "D1506EE.GDL",
+    "string_count": 31,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1506\\D1506EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1506\\D1506EE.json"
+  },
+  {
+    "category": "Demo",
+    "archive": "P1507",
+    "gdl_name": "D1507EE.GDL",
+    "string_count": 10,
+    "orig_json": "data\\extracted\\texts\\Demo\\P1507\\D1507EE.json",
+    "trans_json": "translation\\pt-BR\\Demo\\P1507\\D1507EE.json"
+  }
+]

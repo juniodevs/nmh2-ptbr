@@ -1,0 +1,211 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "SIMP_BATTLE",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "MESSAGE_JP",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 2,
+                  "Resource Name": "BATTLE_GlobalJ.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 3,
+                  "Resource Name": "BATTLE_GlobalJ_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 4,
+            "Resource Name": "MESSAGE_US",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 5,
+                  "Resource Name": "BATTLE_GlobalEE.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "BATTLE_GlobalEE_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 7,
+            "Resource Name": "MESSAGE_FR",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "BATTLE_GlobalEF.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "BATTLE_GlobalEF_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 10,
+            "Resource Name": "MESSAGE_SP",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 11,
+                  "Resource Name": "BATTLE_GlobalES.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "BATTLE_GlobalES_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 13,
+            "Resource Name": "MESSAGE_GR",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 14,
+                  "Resource Name": "BATTLE_GlobalEG.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 15,
+                  "Resource Name": "BATTLE_GlobalEG_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 16,
+            "Resource Name": "MESSAGE_IT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "BATTLE_GlobalEI.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 18,
+                  "Resource Name": "BATTLE_GlobalEI_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 19,
+            "Resource Name": "MESSAGE_CS",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 20,
+                  "Resource Name": "BATTLE_GlobalEC.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 21,
+                  "Resource Name": "BATTLE_GlobalEC_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 22,
+            "Resource Name": "MESSAGE_CT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 23,
+                  "Resource Name": "BATTLE_GlobalET.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 24,
+                  "Resource Name": "BATTLE_GlobalET_GC.BIN"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

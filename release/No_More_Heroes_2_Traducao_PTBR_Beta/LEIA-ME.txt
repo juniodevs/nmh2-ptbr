@@ -1,0 +1,33 @@
+NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA)
+
+Versao Beta de testes da traducao em Portugues do Brasil para a versao de PC (Steam).
+
+AVISO IMPORTANTE:
+Esta versao esta em fase de testes abertos. E possivel encontrar falhas de formatacao, travamentos ou pequenas inconsistencias em algumas cutscenes ou missoes. Caso encontre qualquer erro ou crash, abra uma Issue no repositorio do GitHub informando o nome da missao ou a cena onde ocorreu.
+
+CREDITOS:
+- juniodevs (DoubleXXP): Traducao e engenharia reversa
+- Vickz_Joga: Testes e validacao
+- Timo654: Ferramenta No-More-RSL
+
+COMO INSTALAR:
+1. Feche o jogo caso ele esteja aberto.
+2. De um duplo-clique no arquivo Instalar_Traducao.bat.
+3. O instalador tentara localizar a pasta do jogo na Steam automaticamente. Caso seu jogo esteja instalado em outro lugar, digite ou arraste o caminho da pasta onde fica o nmh2.exe.
+4. Escolha a opcao 1 para instalar.
+   O instalador copia os arquivos necessarios e cria automaticamente uma pasta chamada .backup dentro da pasta do jogo com os arquivos originais em ingles.
+
+COMO DESINSTALAR OU RESTAURAR O JOGO ORIGINAL:
+1. Abra o arquivo Instalar_Traducao.bat novamente.
+2. Escolha a opcao 2 (Restaurar jogo original).
+   Ele copia de volta todos os arquivos salvos na pasta .backup, voltando o jogo ao estado original sem precisar baixar nada novamente na Steam.
+
+CONTEUDO DESTA VERSAO:
+- 75 cutscenes legendadas em Portugues Brasileiro.
+- Dialogos de combate e tutoriais adaptados.
+- Bicos CLT de Santa Destroy (minigames 8-bit).
+- Texturas de combate traduzidas (FALHA, TEMPO ESGOTADO, VAI!, TEMPO FINAL).
+- Legenda grafica da batalha contra Skelter Helter.
+- Textura da folha de fax da UAA traduzida.
+- Menus, opcoes e telas de salvamento no executavel.
+- Fonte do jogo com acentos completos da lingua portuguesa.

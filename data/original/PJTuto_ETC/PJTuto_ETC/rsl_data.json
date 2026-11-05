@@ -1,0 +1,241 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "TUTO_MESS",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "MESSAGE_JP",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 2,
+                  "Resource Name": "BATTLE_TUTORIALJ.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 3,
+                  "Resource Name": "BATTLE_TUTORIALJ_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 4,
+            "Resource Name": "MESSAGE_US",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 5,
+                  "Resource Name": "BATTLE_TUTORIALEE.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "BATTLE_TUTORIALEE_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 7,
+            "Resource Name": "MESSAGE_FR",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "BATTLE_TUTORIALEF.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "BATTLE_TUTORIALEF_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 10,
+            "Resource Name": "MESSAGE_SP",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 11,
+                  "Resource Name": "BATTLE_TUTORIALES.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "BATTLE_TUTORIALES_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 13,
+            "Resource Name": "MESSAGE_GR",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 14,
+                  "Resource Name": "BATTLE_TUTORIALEG.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 15,
+                  "Resource Name": "BATTLE_TUTORIALEG_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 16,
+            "Resource Name": "MESSAGE_IT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "BATTLE_TUTORIALEI.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 18,
+                  "Resource Name": "BATTLE_TUTORIALEI_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 19,
+            "Resource Name": "MESSAGE_CS",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 20,
+                  "Resource Name": "BATTLE_TUTORIALEC.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 21,
+                  "Resource Name": "BATTLE_TUTORIALEC_GC.BIN"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 22,
+            "Resource Name": "MESSAGE_CT",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 23,
+                  "Resource Name": "BATTLE_TUTORIALET.GDL"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 24,
+                  "Resource Name": "BATTLE_TUTORIALET_GC.BIN"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 25,
+      "Resource Name": "TUTO_WINDOW",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 26,
+            "Resource Name": "tut_frame01.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 27,
+            "Resource Name": "1.5x_con_ud01.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 28,
+            "Resource Name": "2x_con_ud01.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}

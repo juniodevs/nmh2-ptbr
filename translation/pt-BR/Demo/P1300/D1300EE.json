@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "original": "Hello, it's me...",
+    "translation": "Alô, sou eu..."
+  },
+  {
+    "id": 1,
+    "original": "I have set up the next ranked battle.",
+    "translation": "Eu marquei a próxima luta do ranking."
+  },
+  {
+    "id": 2,
+    "original": "Check the map.",
+    "translation": "Olha no mapa."
+  },
+  {
+    "id": 3,
+    "original": "The top three are pretty tough.",
+    "translation": "Os três primeiros são dureza."
+  },
+  {
+    "id": 4,
+    "original": "Just...",
+    "translation": "Só..."
+  },
+  {
+    "id": 5,
+    "original": "try not to die, okay?",
+    "translation": "tenta não morrer, tá?"
+  },
+  {
+    "id": 6,
+    "original": "Yeah.",
+    "translation": "É."
+  }
+]

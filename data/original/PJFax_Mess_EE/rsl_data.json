@@ -1,0 +1,31 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "OBJECT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "2x_faxpaper01.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 2,
+            "Resource Name": "2x_faxsig01.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}

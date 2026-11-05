@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "text": "*|-A1 :Attack"
+  },
+  {
+    "id": 1,
+    "text": "*|-B1 :Jump"
+  },
+  {
+    "id": 2,
+    "text": "Hold  *|-A1  Then Release:"
+  },
+  {
+    "id": 3,
+    "text": "Long Range Attack"
+  },
+  {
+    "id": 4,
+    "text": "Press  *|-A1  While Jumping:"
+  },
+  {
+    "id": 5,
+    "text": "Jump Attack"
+  },
+  {
+    "id": 6,
+    "text": "Press  *|-B1  While Jumping:"
+  },
+  {
+    "id": 7,
+    "text": "Flying Attack"
+  },
+  {
+    "id": 8,
+    "text": "*|-B2 :Dash"
+  },
+  {
+    "id": 9,
+    "text": "*a :Accelerate"
+  },
+  {
+    "id": 10,
+    "text": "*b :Brake"
+  },
+  {
+    "id": 11,
+    "text": "*|-LM :Nitro"
+  },
+  {
+    "id": 12,
+    "text": "*Q :Steer"
+  },
+  {
+    "id": 13,
+    "text": "*|-A1 :Slash"
+  },
+  {
+    "id": 14,
+    "text": "*|-GL :Guard"
+  },
+  {
+    "id": 15,
+    "text": "Press  *|-A1 or *|-B1  "
+  },
+  {
+    "id": 16,
+    "text": "while jumping: Jump Attack"
+  },
+  {
+    "id": 17,
+    "text": "Press  *|-L1 when the "
+  },
+  {
+    "id": 18,
+    "text": "Ecstasy Gauge is full:"
+  },
+  {
+    "id": 19,
+    "text": "Special Attack"
+  },
+  {
+    "id": 20,
+    "text": "*W :Control Camera"
+  },
+  {
+    "id": 21,
+    "text": "*|-GL :First Person Camera"
+  },
+  {
+    "id": 22,
+    "text": "Press  *|-S2  while locking on :"
+  },
+  {
+    "id": 23,
+    "text": "Change targets"
+  },
+  {
+    "id": 24,
+    "text": "*W :Emergency Evade"
+  },
+  {
+    "id": 25,
+    "text": "(during lock-on)"
+  },
+  {
+    "id": 26,
+    "text": "*|-X1  *|-Y1   :Attack"
+  },
+  {
+    "id": 27,
+    "text": "*|-A1  *|-B1  :Jump"
+  },
+  {
+    "id": 28,
+    "text": "Hold  *|-X1  *|-Y1   Then Release:"
+  },
+  {
+    "id": 29,
+    "text": "Press  *|-X1  *|-Y1   While Jumping:"
+  },
+  {
+    "id": 30,
+    "text": "Press  *|-A1  *|-B1   While Jumping:"
+  },
+  {
+    "id": 31,
+    "text": "*|-X1  *|-Y1  :Attack"
+  },
+  {
+    "id": 32,
+    "text": "*|-A1  *|-B1  :Dash"
+  },
+  {
+    "id": 33,
+    "text": "Press  *|-A1 or *|-B1 "
+  },
+  {
+    "id": 34,
+    "text": "while jumping :Jump Attack"
+  },
+  {
+    "id": 35,
+    "text": "Press  *|-S2  while locking on:"
+  }
+]

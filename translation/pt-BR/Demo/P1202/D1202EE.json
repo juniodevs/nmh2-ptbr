@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "original": "You know this song?",
+    "translation": "Você conhece essa música?"
+  },
+  {
+    "id": 1,
+    "original": "Nope.",
+    "translation": "Não."
+  },
+  {
+    "id": 2,
+    "original": "How tragic.",
+    "translation": "Que trágico."
+  },
+  {
+    "id": 3,
+    "original": "Then let me teach you.",
+    "translation": "Então deixa eu te ensinar."
+  }
+]

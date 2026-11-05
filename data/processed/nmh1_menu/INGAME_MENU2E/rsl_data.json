@@ -1,0 +1,403 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "MESSAGE",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "EVEINFOMATIONE.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 2,
+            "Resource Name": "EVEINFOMATIONE_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 3,
+      "Resource Name": "JIMAKU",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": []
+      }
+    },
+    {
+      "Flags": 0,
+      "Version": 1069,
+      "Resource ID": 4,
+      "Resource Name": "Save.RSL",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "String flag": 1,
+        "Data": [
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 0,
+            "Resource Name": "SAVE",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 1,
+                  "Resource Name": "TOILETPAPER.GM2"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 2,
+                  "Resource Name": "2x_HF_MARKA.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 3,
+                  "Resource Name": "2x_HF_PAPER2.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 4,
+                  "Resource Name": "2x_HF_WGURA.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 5,
+                  "Resource Name": "SAVEFONT_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 6,
+                  "Resource Name": "dummy.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 7,
+                  "Resource Name": "2x_hf_sweet.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "2x_hf_plane.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "2x_hf_bitter.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 10,
+                  "Resource Name": "2x_hf_none.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 11,
+                  "Resource Name": "2x_hf_clear.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "SAVEMESSAGE_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 13,
+                  "Resource Name": "4x_hf_A_w.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 14,
+                  "Resource Name": "4x_hf_B_w.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 15,
+                  "Resource Name": "4x_hy_CI_A.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 16,
+                  "Resource Name": "SAVEFONT_F_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "SAVEFONT_S_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 18,
+                  "Resource Name": "SAVEMESSAGE_E_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 19,
+                  "Resource Name": "SAVEMESSAGE_F_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 20,
+                  "Resource Name": "SAVEMESSAGE_S_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 21,
+                  "Resource Name": "COPY_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 22,
+                  "Resource Name": "2x_F_hf_sweet.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 23,
+                  "Resource Name": "2x_F_hf_plane.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 24,
+                  "Resource Name": "2x_F_hf_bitter.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 11,
+                  "Resource Name": "2x_hf_clear.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 25,
+                  "Resource Name": "2x_S_hf_sweet.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 26,
+                  "Resource Name": "2x_S_hf_plane.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 27,
+                  "Resource Name": "2x_S_hf_bitter.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 28,
+                  "Resource Name": "2x_S_hf_clear.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 29,
+                  "Resource Name": "SAVEFONT_G_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 30,
+                  "Resource Name": "SAVEFONT_I_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 31,
+                  "Resource Name": "SAVEMESSAGE_G_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 32,
+                  "Resource Name": "SAVEMESSAGE_I_GC.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 33,
+                  "Resource Name": "2x_G_hf_sweet.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 34,
+                  "Resource Name": "2x_G_hf_plane.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 35,
+                  "Resource Name": "2x_G_hf_bitter.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 36,
+                  "Resource Name": "2x_G_hf_clear.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 37,
+                  "Resource Name": "2x_I_hf_sweet.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 38,
+                  "Resource Name": "2x_I_hf_plane.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 39,
+                  "Resource Name": "2x_I_hf_bitter.BIN"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 11,
+                  "Resource Name": "2x_hf_clear.BIN"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 5,
+      "Resource Name": "LOADICON",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 6,
+            "Resource Name": "2x_hf_sweet.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 7,
+            "Resource Name": "2x_hf_plane.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 8,
+            "Resource Name": "2x_hf_bitter.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 9,
+            "Resource Name": "2x_hf_none.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 10,
+            "Resource Name": "2x_hf_clear.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}

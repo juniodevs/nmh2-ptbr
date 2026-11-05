@@ -1,0 +1,55 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "STAFFROLL_FONT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "Staff_Mess_EU.GDL"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 2,
+      "Resource Name": "STAFFROLL_TEX",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 3,
+            "Resource Name": "2x_sr_GHMLogo01.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 4,
+            "Resource Name": "2x_sr_MMVLogo01.BIN"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 5,
+            "Resource Name": "2x_sr_ESLogo01.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}

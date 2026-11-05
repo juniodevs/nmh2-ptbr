@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "original": "Hello Travis...",
+    "translation": "Olá, Travis..."
+  },
+  {
+    "id": 1,
+    "original": "I've arranged the next match.",
+    "translation": "Já organizei a próxima luta."
+  },
+  {
+    "id": 2,
+    "original": "Only two left.",
+    "translation": "Só restam dois."
+  },
+  {
+    "id": 3,
+    "original": "Win this, ",
+    "translation": "Vença essa, "
+  },
+  {
+    "id": 4,
+    "original": "and Batt Jr. is yours.",
+    "translation": "e o Batt Jr. é seu."
+  },
+  {
+    "id": 5,
+    "original": "The duel will take place at a ",
+    "translation": "O duelo vai rolar num "
+  },
+  {
+    "id": 6,
+    "original": "secret location.",
+    "translation": "local secreto."
+  },
+  {
+    "id": 7,
+    "original": "Secret?",
+    "translation": "Secreto?"
+  },
+  {
+    "id": 8,
+    "original": "I don't have time for guessing games.",
+    "translation": "Não tô com tempo pra joguinho de adivinhação."
+  },
+  {
+    "id": 9,
+    "original": "It's the final Akashic Point.",
+    "translation": "É o Ponto Akáshico final."
+  },
+  {
+    "id": 10,
+    "original": "Look for... ",
+    "translation": "Procure por... "
+  },
+  {
+    "id": 11,
+    "original": "The Hero's Face...",
+    "translation": "O Rosto do Herói..."
+  },
+  {
+    "id": 12,
+    "original": "Sorry,",
+    "translation": "Desculpe,"
+  },
+  {
+    "id": 13,
+    "original": "that's all the information I have.",
+    "translation": "essa é toda a informação que eu tenho."
+  },
+  {
+    "id": 14,
+    "original": "Figure it out, and get there.",
+    "translation": "Descubra o mistério e chegue lá."
+  },
+  {
+    "id": 15,
+    "original": "Damn you...",
+    "translation": "Maldita seja..."
+  }
+]

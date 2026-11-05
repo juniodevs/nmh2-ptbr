@@ -1,0 +1,522 @@
+[
+  {
+    "id": 0,
+    "original": "Umm... errr... Hi.",
+    "translation": "Ééé... hum... Oi."
+  },
+  {
+    "id": 1,
+    "original": "Can I call you ",
+    "translation": "Posso te chamar de "
+  },
+  {
+    "id": 2,
+    "original": "Travis the Great? ",
+    "translation": "Travis, o Grande? "
+  },
+  {
+    "id": 3,
+    "original": "Travis Ravenous?",
+    "translation": "Travis Voraz?"
+  },
+  {
+    "id": 4,
+    "original": "Cool Hand Teezy Greasy?",
+    "translation": "Mão Firme Teezy Malandro?"
+  },
+  {
+    "id": 5,
+    "original": " ",
+    "translation": " "
+  },
+  {
+    "id": 6,
+    "original": "Umm, sorry, I... ",
+    "translation": "Ai, desculpa, eu... "
+  },
+  {
+    "id": 7,
+    "original": "I've always been a fan.",
+    "translation": "sempre fui sua fã número um."
+  },
+  {
+    "id": 8,
+    "original": "What?  A fan? Of me?",
+    "translation": "O quê? Fã? Minha?"
+  },
+  {
+    "id": 9,
+    "original": "Yes! I watched your fight",
+    "translation": "Sim! Eu assisti a sua luta"
+  },
+  {
+    "id": 10,
+    "original": "with Charlie, too! ",
+    "translation": "contra o Charlie também! "
+  },
+  {
+    "id": 11,
+    "original": "You were hardcore!",
+    "translation": "Você foi muito foda!"
+  },
+  {
+    "id": 12,
+    "original": "Sooooo cooooool!",
+    "translation": "Muuuuito maneiro!"
+  },
+  {
+    "id": 13,
+    "original": "Oh no... I feel really nervous-- ",
+    "translation": "Ai não... tô com um frio na barriga-- "
+  },
+  {
+    "id": 14,
+    "original": "I think I'm gonna puke. OMG, ",
+    "translation": "acho que vou vomitar. Ai meu Deus, "
+  },
+  {
+    "id": 15,
+    "original": "I bet you hate girls who puke!",
+    "translation": "aposto que você odeia garotas que vomitam!"
+  },
+  {
+    "id": 16,
+    "original": "Uhhhh... Never really",
+    "translation": "Ééé... nunca parei pra"
+  },
+  {
+    "id": 17,
+    "original": "thought about it...",
+    "translation": "pensar nisso..."
+  },
+  {
+    "id": 18,
+    "original": "Eeek! Don't stare at me! ",
+    "translation": "Ai! Não fica me encarando! "
+  },
+  {
+    "id": 19,
+    "original": "You're staring at me!",
+    "translation": "Você tá me secando!"
+  },
+  {
+    "id": 20,
+    "original": "If you get me preggers, ",
+    "translation": "Se você me engravidar, "
+  },
+  {
+    "id": 21,
+    "original": "promise you won't ditch me, ok?",
+    "translation": "promete que não vai sumir, tá bom?"
+  },
+  {
+    "id": 22,
+    "original": "Anyway, I wrote down all my feelings ",
+    "translation": "Enfim, eu escrevi todos os meus sentimentos "
+  },
+  {
+    "id": 23,
+    "original": "in a letter! Here, ",
+    "translation": "numa cartinha! Toma, "
+  },
+  {
+    "id": 24,
+    "original": "take it!",
+    "translation": "pega!"
+  },
+  {
+    "id": 25,
+    "original": "Your, uh, feelings?",
+    "translation": "Seus... é... sentimentos?"
+  },
+  {
+    "id": 26,
+    "original": "So this is a love letter?",
+    "translation": "Isso é uma carta de amor?"
+  },
+  {
+    "id": 27,
+    "original": "Take it!",
+    "translation": "Pega logo!"
+  },
+  {
+    "id": 28,
+    "original": "Take it or I'll totally die!",
+    "translation": "Pega ou eu vou morrer de vergonha!"
+  },
+  {
+    "id": 29,
+    "original": "Okay, thanks. ",
+    "translation": "Tá legal, valeu. "
+  },
+  {
+    "id": 30,
+    "original": "I could use a dose of innocence.",
+    "translation": "Eu tava mesmo precisando de um pouco de inocência."
+  },
+  {
+    "id": 31,
+    "original": "That last fight got a little sick,",
+    "translation": "Aquela última luta passou um pouco do ponto,"
+  },
+  {
+    "id": 32,
+    "original": "even for me.",
+    "translation": "até pra mim."
+  },
+  {
+    "id": 33,
+    "original": "Umm...",
+    "translation": "Ééé..."
+  },
+  {
+    "id": 34,
+    "original": "Aren't you gonna read it?",
+    "translation": "Você não vai ler?"
+  },
+  {
+    "id": 35,
+    "original": "Huh? Read it?",
+    "translation": "Hã? Ler?"
+  },
+  {
+    "id": 36,
+    "original": "Now? Here?",
+    "translation": "Agora? Aqui?"
+  },
+  {
+    "id": 37,
+    "original": "Yes! You have to read it out loud, ",
+    "translation": "Sim! Tem que ler em voz alta, "
+  },
+  {
+    "id": 38,
+    "original": "just for lulz!",
+    "translation": "só pela zoeira!"
+  },
+  {
+    "id": 39,
+    "original": "I wrote a song dedicated to ",
+    "translation": "Eu compus uma música dedicada ao "
+  },
+  {
+    "id": 40,
+    "original": "Travis the Great.",
+    "translation": "Travis, o Grande."
+  },
+  {
+    "id": 41,
+    "original": "So you read, and I'll play ",
+    "translation": "Aí você lê, e eu toco "
+  },
+  {
+    "id": 42,
+    "original": "it on my flute, Ok?",
+    "translation": "na minha flauta, tá bom?"
+  },
+  {
+    "id": 43,
+    "original": "You're joking right?",
+    "translation": "Você tá de sacanagem, né?"
+  },
+  {
+    "id": 44,
+    "original": "Read this, here?",
+    "translation": "Ler isso aqui, agora?"
+  },
+  {
+    "id": 45,
+    "original": "Here we go-- get into it!",
+    "translation": "Lá vai-- entra no clima!"
+  },
+  {
+    "id": 46,
+    "original": "To my dearest ",
+    "translation": "Para o meu queridíssimo "
+  },
+  {
+    "id": 47,
+    "original": "Travis the Great,",
+    "translation": "Travis, o Grande,"
+  },
+  {
+    "id": 48,
+    "original": "Hi there Travis the Great.",
+    "translation": "Olá, Travis, o Grande."
+  },
+  {
+    "id": 49,
+    "original": "I am the girl who loves you",
+    "translation": "Eu sou a garota que mais te ama"
+  },
+  {
+    "id": 50,
+    "original": "the most in the entire world.",
+    "translation": "no mundo inteirinho."
+  },
+  {
+    "id": 51,
+    "original": "But in order to prove that ",
+    "translation": "Mas para poder provar que "
+  },
+  {
+    "id": 52,
+    "original": "I'm your #1 fan, ",
+    "translation": "eu sou a sua fã número um, "
+  },
+  {
+    "id": 53,
+    "original": "I need some kind of evidence.",
+    "translation": "eu preciso de algum tipo de prova."
+  },
+  {
+    "id": 54,
+    "original": "Because no matter how much ",
+    "translation": "Porque não importa o quanto "
+  },
+  {
+    "id": 55,
+    "original": "I insist that I'm your #1, ",
+    "translation": "eu insista que sou a sua número um, "
+  },
+  {
+    "id": 56,
+    "original": "any other chick or bitch can approach",
+    "translation": "qualquer outra vadia sem sal pode chegar"
+  },
+  {
+    "id": 57,
+    "original": "you and say the exact same thing.",
+    "translation": "em você e falar exatamente a mesma coisa."
+  },
+  {
+    "id": 58,
+    "original": "That is why I've decided.",
+    "translation": "É por isso que eu tomei uma decisão."
+  },
+  {
+    "id": 59,
+    "original": "That I should become strong!",
+    "translation": "Eu tinha que me tornar forte!"
+  },
+  {
+    "id": 60,
+    "original": "By doing so, I knew that someday",
+    "translation": "Fazendo isso, eu sabia que um dia"
+  },
+  {
+    "id": 61,
+    "original": "I'd be able to get closer to you.",
+    "translation": "conseguiria ficar mais pertinho de você."
+  },
+  {
+    "id": 62,
+    "original": "Putting my title as Travis the Great's",
+    "translation": "Colocando o título de fã número um"
+  },
+  {
+    "id": 63,
+    "original": "#1 fan on the line, ",
+    "translation": "do Travis, o Grande, em jogo, "
+  },
+  {
+    "id": 64,
+    "original": "I embarked on this path... ",
+    "translation": "eu entrei de cabeça nesse caminho... "
+  },
+  {
+    "id": 65,
+    "original": "And ended up winning the National",
+    "translation": "E acabei vencendo o Campeonato Nacional"
+  },
+  {
+    "id": 66,
+    "original": "Student Assassin championship.",
+    "translation": "de Estudantes Assassinos."
+  },
+  {
+    "id": 67,
+    "original": "I really did my best! But you know,",
+    "translation": "Eu me esforcei de verdade! Mas sabe,"
+  },
+  {
+    "id": 68,
+    "original": "in hindsight it was a cinch.",
+    "translation": "olhando pra trás, foi molezinha."
+  },
+  {
+    "id": 69,
+    "original": "I guess I'm just blessed...",
+    "translation": "Acho que tenho o dom natural..."
+  },
+  {
+    "id": 70,
+    "original": "I could master in one day techniques ",
+    "translation": "Eu dominava em um dia técnicas "
+  },
+  {
+    "id": 71,
+    "original": "that would take others years to do!",
+    "translation": "que os outros levavam anos pra aprender!"
+  },
+  {
+    "id": 72,
+    "original": "Pretty awesome, right?",
+    "translation": "Muito incrível, né?"
+  },
+  {
+    "id": 73,
+    "original": "And then, I got greedy, ",
+    "translation": "Aí veio uma ganância, "
+  },
+  {
+    "id": 74,
+    "original": "a new urge, a vision.",
+    "translation": "um novo desejo, uma visão."
+  },
+  {
+    "id": 75,
+    "original": "That just maybe I could win ",
+    "translation": "De que talvez eu pudesse vencer "
+  },
+  {
+    "id": 76,
+    "original": "a fight against Travis the Great.",
+    "translation": "uma luta contra o Travis, o Grande."
+  },
+  {
+    "id": 77,
+    "original": "Now my goal is to behead Travis the Great",
+    "translation": "Agora meu objetivo é decapitar o Travis, o Grande,"
+  },
+  {
+    "id": 78,
+    "original": "therefore surpassing my hero.",
+    "translation": "superando assim o meu próprio herói."
+  },
+  {
+    "id": 79,
+    "original": "Oops, did I actually write that...",
+    "translation": "Opa, eu realmente escrevi isso..."
+  },
+  {
+    "id": 80,
+    "original": "It's kind of embarrassing, you know.",
+    "translation": "É meio embaraçoso, sabe."
+  },
+  {
+    "id": 81,
+    "original": "Well anyways, I've made up my mind.",
+    "translation": "Mas enfim, tá decidido."
+  },
+  {
+    "id": 82,
+    "original": "I made an oath.",
+    "translation": "Eu fiz um juramento."
+  },
+  {
+    "id": 83,
+    "original": "I won't be killed by anyone!",
+    "translation": "Eu não vou morrer pra ninguém!"
+  },
+  {
+    "id": 84,
+    "original": "I shall defeat Travis the Great ",
+    "translation": "Eu vou derrotar o Travis, o Grande, "
+  },
+  {
+    "id": 85,
+    "original": "in battle!",
+    "translation": "num combate mortal!"
+  },
+  {
+    "id": 86,
+    "original": "Only then will Travis the Great ",
+    "translation": "Só aí o Travis, o Grande, "
+  },
+  {
+    "id": 87,
+    "original": "become mine and mine only.",
+    "translation": "vai ser meu e de mais ninguém."
+  },
+  {
+    "id": 88,
+    "original": "Love, ",
+    "translation": "Com amor, "
+  },
+  {
+    "id": 89,
+    "original": "Travis the Great's #1 Fan,",
+    "translation": "A Fã Nº 1 do Travis, o Grande,"
+  },
+  {
+    "id": 90,
+    "original": "Kimmy Howell",
+    "translation": "Kimmy Howell"
+  },
+  {
+    "id": 91,
+    "original": "Okay,",
+    "translation": "Beleza,"
+  },
+  {
+    "id": 92,
+    "original": "so much for the dose of innocence.",
+    "translation": "acabou-se o que era doce de inocência."
+  },
+  {
+    "id": 93,
+    "original": "But you've got the bloodlust. ",
+    "translation": "Mas você tem sede de sangue. "
+  },
+  {
+    "id": 94,
+    "original": "I'm sure about that.",
+    "translation": "Disso aí eu não tenho dúvida."
+  },
+  {
+    "id": 95,
+    "original": "Yeah I'm legit! ",
+    "translation": "Pode apostar que tenho! "
+  },
+  {
+    "id": 96,
+    "original": "And way tougher than I look.",
+    "translation": "E sou bem mais casca-grossa do que pareço."
+  },
+  {
+    "id": 97,
+    "original": "So, ummm...",
+    "translation": "Então, ééé..."
+  },
+  {
+    "id": 98,
+    "original": "Don't hold back, okay?",
+    "translation": "Não pega leve comigo, tá bom?"
+  },
+  {
+    "id": 99,
+    "original": "Because one mistake and you're over.",
+    "translation": "Porque um vacilo e você já era."
+  },
+  {
+    "id": 100,
+    "original": "This is for real. Tee, hee, hee.",
+    "translation": "É pra valer mesmo. Hi, hi, hi."
+  },
+  {
+    "id": 101,
+    "original": "If you're trying to give me a",
+    "translation": "Se você tá tentando me dar dor de"
+  },
+  {
+    "id": 102,
+    "original": "headache, it's working.",
+    "translation": "cabeça, tá conseguindo."
+  },
+  {
+    "id": 103,
+    "original": "Now it's lesson time!",
+    "translation": "Agora é hora da lição!"
+  }
+]

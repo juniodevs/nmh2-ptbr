@@ -1,0 +1,182 @@
+[
+  {
+    "id": 0,
+    "original": "*|-A1 :Attack",
+    "translation": "*|-A1 :Ataque"
+  },
+  {
+    "id": 1,
+    "original": "*|-B1 :Jump",
+    "translation": "*|-B1 :Pulo"
+  },
+  {
+    "id": 2,
+    "original": "Hold  *|-A1  Then Release:",
+    "translation": "Segure  *|-A1  e solte:"
+  },
+  {
+    "id": 3,
+    "original": "Long Range Attack",
+    "translation": "Ataque de Longo Alcance"
+  },
+  {
+    "id": 4,
+    "original": "Press  *|-A1  While Jumping:",
+    "translation": "Pressione  *|-A1  no ar:"
+  },
+  {
+    "id": 5,
+    "original": "Jump Attack",
+    "translation": "Ataque Aéreo"
+  },
+  {
+    "id": 6,
+    "original": "Press  *|-B1  While Jumping:",
+    "translation": "Pressione  *|-B1  no ar:"
+  },
+  {
+    "id": 7,
+    "original": "Flying Attack",
+    "translation": "Voadora"
+  },
+  {
+    "id": 8,
+    "original": "*|-B2 :Dash",
+    "translation": "*|-B2 :Investida"
+  },
+  {
+    "id": 9,
+    "original": "*a :Accelerate",
+    "translation": "*a :Acelerar"
+  },
+  {
+    "id": 10,
+    "original": "*b :Brake",
+    "translation": "*b :Frear"
+  },
+  {
+    "id": 11,
+    "original": "*|-LM :Nitro",
+    "translation": "*|-LM :Nitro"
+  },
+  {
+    "id": 12,
+    "original": "*Q :Steer",
+    "translation": "*Q :Curvar"
+  },
+  {
+    "id": 13,
+    "original": "*|-A1 :Slash",
+    "translation": "*|-A1 :Golpe de Sabre"
+  },
+  {
+    "id": 14,
+    "original": "*|-GL :Guard",
+    "translation": "*|-GL :Defesa"
+  },
+  {
+    "id": 15,
+    "original": "Press  *|-A1 or *|-B1  ",
+    "translation": "Pressione  *|-A1 ou *|-B1  "
+  },
+  {
+    "id": 16,
+    "original": "while jumping: Jump Attack",
+    "translation": "no ar: Ataque Aéreo"
+  },
+  {
+    "id": 17,
+    "original": "Press  *|-L1 when the ",
+    "translation": "Pressione  *|-L1 quando o "
+  },
+  {
+    "id": 18,
+    "original": "Ecstasy Gauge is full:",
+    "translation": "Medidor de Êxtase encher:"
+  },
+  {
+    "id": 19,
+    "original": "Special Attack",
+    "translation": "Golpe Especial"
+  },
+  {
+    "id": 20,
+    "original": "*W :Control Camera",
+    "translation": "*W :Controlar Câmera"
+  },
+  {
+    "id": 21,
+    "original": "*|-GL :First Person Camera",
+    "translation": "*|-GL :Câmera em Primeira Pessoa"
+  },
+  {
+    "id": 22,
+    "original": "Press  *|-S2  while locking on :",
+    "translation": "Pressione  *|-S2  na mira:"
+  },
+  {
+    "id": 23,
+    "original": "Change targets",
+    "translation": "Mudar de Alvo"
+  },
+  {
+    "id": 24,
+    "original": "*W :Emergency Evade",
+    "translation": "*W :Esquiva de Emergência"
+  },
+  {
+    "id": 25,
+    "original": "(during lock-on)",
+    "translation": "(durante a mira travada)"
+  },
+  {
+    "id": 26,
+    "original": "*|-X1  *|-Y1   :Attack",
+    "translation": "*|-X1  *|-Y1   :Ataque"
+  },
+  {
+    "id": 27,
+    "original": "*|-A1  *|-B1  :Jump",
+    "translation": "*|-A1  *|-B1  :Pulo"
+  },
+  {
+    "id": 28,
+    "original": "Hold  *|-X1  *|-Y1   Then Release:",
+    "translation": "Segure  *|-X1  *|-Y1   depois solte:"
+  },
+  {
+    "id": 29,
+    "original": "Press  *|-X1  *|-Y1   While Jumping:",
+    "translation": "Pressione  *|-X1  *|-Y1   no ar:"
+  },
+  {
+    "id": 30,
+    "original": "Press  *|-A1  *|-B1   While Jumping:",
+    "translation": "Pressione  *|-A1  *|-B1   no ar:"
+  },
+  {
+    "id": 31,
+    "original": "*|-X1  *|-Y1  :Attack",
+    "translation": "*|-X1  *|-Y1  :Ataque"
+  },
+  {
+    "id": 32,
+    "original": "*|-A1  *|-B1  :Dash",
+    "translation": "*|-A1  *|-B1  :Investida"
+  },
+  {
+    "id": 33,
+    "original": "Press  *|-A1 or *|-B1 ",
+    "translation": "Pressione  *|-A1 ou *|-B1 "
+  },
+  {
+    "id": 34,
+    "original": "while jumping :Jump Attack",
+    "translation": "no ar: Ataque Aéreo"
+  },
+  {
+    "id": 35,
+    "original": "Press  *|-S2  while locking on:",
+    "translation": "Pressione  *|-S2  na mira:"
+  }
+]

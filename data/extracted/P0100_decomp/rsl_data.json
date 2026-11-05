@@ -1,0 +1,1459 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "MOTION",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 2,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "1",
+            "No file": true
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 2,
+      "Resource Name": "MODEL",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 3,
+            "Resource Name": "STG0101",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 4,
+                  "Resource Name": "STG0101.GM2"
+                },
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 5,
+                  "Resource Name": "PARAMSTG0101A.txt"
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 6,
+            "Resource Name": "SKE10",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 7,
+                  "Resource Name": "SKE10.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 10,
+            "Resource Name": "SKE00M",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 11,
+                  "Resource Name": "SKE00.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 13,
+            "Resource Name": "TRV",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 14,
+            "Resource Name": "OBJ1201",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 15,
+                  "Resource Name": "OBJ1201.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 16,
+            "Resource Name": "OBJ4000",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 18,
+            "Resource Name": "OBJ4005",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 19,
+            "Resource Name": "OBJ4006",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 20,
+            "Resource Name": "OBJ4007",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 21,
+            "Resource Name": "OBJ4008",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 22,
+            "Resource Name": "OBJ4009",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 23,
+            "Resource Name": "OBJ4010",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 24,
+            "Resource Name": "OBJ4011",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 25,
+            "Resource Name": "OBJ4012",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 26,
+            "Resource Name": "OBJ4013",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 27,
+            "Resource Name": "OBJ4014",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 28,
+            "Resource Name": "OBJ4015",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 29,
+            "Resource Name": "OBJ4016",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 30,
+            "Resource Name": "OBJ4017",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 31,
+            "Resource Name": "OBJ4018",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 32,
+            "Resource Name": "OBJ4019",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 33,
+            "Resource Name": "OBJ4020",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 17,
+                  "Resource Name": "OBJ4000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 34,
+            "Resource Name": "OBJ4002",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 35,
+                  "Resource Name": "OBJ4002.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 36,
+            "Resource Name": "OBJ4003",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 37,
+                  "Resource Name": "OBJ4003.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 38,
+            "Resource Name": "OBJ1100",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 39,
+                  "Resource Name": "OBJ1100.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 40,
+            "Resource Name": "OBJ1233",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 41,
+                  "Resource Name": "OBJ1233.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 8,
+                  "Resource Name": "TEXSHADOW",
+                  "No file": true
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 9,
+                  "Resource Name": "NAVEL",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 1,
+            "Version": 1069,
+            "Resource ID": 42,
+            "Resource Name": "WAT01000",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "Data": [
+                {
+                  "Flags": 0,
+                  "Version": 1069,
+                  "Resource ID": 43,
+                  "Resource Name": "WAT01000.GM2"
+                },
+                {
+                  "Flags": 2,
+                  "Version": 1069,
+                  "Resource ID": 12,
+                  "Resource Name": "NSHADOW",
+                  "No file": true
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 2,
+            "Version": 1069,
+            "Resource ID": 44,
+            "Resource Name": "SHADOWTYPE2",
+            "No file": true
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 45,
+      "Resource Name": "MESSAGE_JP",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 46,
+            "Resource Name": "D0100J.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 47,
+            "Resource Name": "D0100J_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 48,
+      "Resource Name": "MESSAGE_US",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 49,
+            "Resource Name": "D0100EE.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 50,
+            "Resource Name": "D0100EE_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 51,
+      "Resource Name": "MESSAGE_FR",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 52,
+            "Resource Name": "D0100EF.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 53,
+            "Resource Name": "D0100EF_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 54,
+      "Resource Name": "MESSAGE_SP",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 55,
+            "Resource Name": "D0100ES.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 56,
+            "Resource Name": "D0100ES_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 57,
+      "Resource Name": "MESSAGE_GR",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 58,
+            "Resource Name": "D0100EG.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 59,
+            "Resource Name": "D0100EG_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 60,
+      "Resource Name": "MESSAGE_IT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 61,
+            "Resource Name": "D0100EI.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 62,
+            "Resource Name": "D0100EI_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 63,
+      "Resource Name": "MESSAGE_CS",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 64,
+            "Resource Name": "D0100EC.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 65,
+            "Resource Name": "D0100EC_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 66,
+      "Resource Name": "MESSAGE_CT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 67,
+            "Resource Name": "D0100ET.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 68,
+            "Resource Name": "D0100ET_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 69,
+      "Resource Name": "EFFECT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 70,
+            "Resource Name": "SNW00000.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": -1,
+                  "Resource Name": "",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 0,
+                        "Version": 1069,
+                        "Resource ID": 0,
+                        "Resource Name": "snow01.BIN"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 71,
+            "Resource Name": "SKE01000.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "EFFECTGP",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 1,
+                              "Resource Name": "SKE01000.HEF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 2,
+                              "Resource Name": "muzzle01.BIN"
+                            },
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 3,
+                              "Resource Name": "muzzle02.BIN"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 72,
+            "Resource Name": "SMO01000.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "EFFECTGP",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 1,
+                              "Resource Name": "SMO01000.HEF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 2,
+                              "Resource Name": "kemu00.BIN"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 73,
+            "Resource Name": "SPA01000.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "EFFECTGP",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 1,
+                              "Resource Name": "SPA01000.HEF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 2,
+                              "Resource Name": "per00.BIN"
+                            },
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 3,
+                              "Resource Name": "helmetbeam-s-tame01.BIN"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 74,
+            "Resource Name": "SPA01001.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "EFFECTGP",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 1,
+                              "Resource Name": "SPA01001.HEF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 2,
+                              "Resource Name": "per00.BIN"
+                            },
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 3,
+                              "Resource Name": "helmetbeam-s-tame01.BIN"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 75,
+            "Resource Name": "SPA01002.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "EFFECTGP",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 1,
+                              "Resource Name": "SPA01002.HEF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 2,
+                              "Resource Name": "per00.BIN"
+                            },
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 3,
+                              "Resource Name": "helmetbeam-s-tame01.BIN"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 76,
+            "Resource Name": "SPA01003.RSL",
+            "Resource": {
+              "Type": "RMHG",
+              "Version": 1069,
+              "String flag": 1,
+              "Data": [
+                {
+                  "Flags": 1,
+                  "Version": 1069,
+                  "Resource ID": 0,
+                  "Resource Name": "EFFECTGP",
+                  "Resource": {
+                    "Type": "RMHG",
+                    "Version": 1069,
+                    "Data": [
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 1,
+                              "Resource Name": "SPA01003.HEF"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": [
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 2,
+                              "Resource Name": "per00.BIN"
+                            },
+                            {
+                              "Flags": 0,
+                              "Version": 1069,
+                              "Resource ID": 3,
+                              "Resource Name": "helmetbeam-s-tame01.BIN"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "Flags": 1,
+                        "Version": 1069,
+                        "Resource ID": -1,
+                        "Resource Name": "",
+                        "Resource": {
+                          "Type": "RMHG",
+                          "Version": 1069,
+                          "Data": []
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

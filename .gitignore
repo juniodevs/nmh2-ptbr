@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backups and temporary files
+backups/
+.backup/
+*.bak
+*.tmp
+*.log
+*.zip
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Project internal planning and agent docs
+AGENT.md
+PLAN.md
+CHANGELOG.md

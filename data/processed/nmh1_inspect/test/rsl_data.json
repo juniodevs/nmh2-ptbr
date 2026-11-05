@@ -1,0 +1,31 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "MESSAGE",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "EVEMAIN_MISSON_INFO_MES_0000E.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 2,
+            "Resource Name": "EVEMAIN_MISSON_INFO_MES_0000E_GC.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}

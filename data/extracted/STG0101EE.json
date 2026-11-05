@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "text": "*u  Joy-Con (R) + *a  :High Slash Attack"
+  },
+  {
+    "id": 1,
+    "text": "*d  Joy-Con (R) + *a  :Low Slash Attack "
+  },
+  {
+    "id": 2,
+    "text": "*u  Joy-Con (R) + *b  :High Strike Attack"
+  },
+  {
+    "id": 3,
+    "text": "*d  Joy-Con (R) + *b  :Low Strike Attack "
+  },
+  {
+    "id": 4,
+    "text": "*|-GL :Lock On & Guard"
+  },
+  {
+    "id": 5,
+    "text": "*|-LR  :Emergency Evade"
+  },
+  {
+    "id": 6,
+    "text": "(enemy must be locked on)"
+  },
+  {
+    "id": 7,
+    "text": "Hold down  *|-A1  and then"
+  },
+  {
+    "id": 8,
+    "text": "release it :Charged slash"
+  },
+  {
+    "id": 9,
+    "text": "Swing the Joy-Con (R)"
+  },
+  {
+    "id": 10,
+    "text": "while running:"
+  },
+  {
+    "id": 11,
+    "text": "Running Slash"
+  },
+  {
+    "id": 12,
+    "text": "Button mashing:"
+  },
+  {
+    "id": 13,
+    "text": "Recover from knockdown"
+  },
+  {
+    "id": 14,
+    "text": "Recover from dizziness"
+  },
+  {
+    "id": 15,
+    "text": "Press  *|-B1  when near "
+  },
+  {
+    "id": 16,
+    "text": "a downed enemy to perform "
+  },
+  {
+    "id": 17,
+    "text": "a wrestling move."
+  },
+  {
+    "id": 18,
+    "text": "*|-L1  :Beam Katana Recharge"
+  },
+  {
+    "id": 19,
+    "text": "*|-X1  :High Slash Attack"
+  },
+  {
+    "id": 20,
+    "text": "*|-Y1  :Low Slash Attack"
+  },
+  {
+    "id": 21,
+    "text": "*|-A1  :High Strike Attack"
+  },
+  {
+    "id": 22,
+    "text": "*|-B1  :Low Strike Attack"
+  },
+  {
+    "id": 23,
+    "text": "Hold down  *|-Y1 or  *|-X1 "
+  },
+  {
+    "id": 24,
+    "text": "and then release it:"
+  },
+  {
+    "id": 25,
+    "text": "Charged slash"
+  },
+  {
+    "id": 26,
+    "text": "*|-X1  + *|-A1   while running:"
+  },
+  {
+    "id": 27,
+    "text": "Press  *|-A1 or *|-B1 "
+  },
+  {
+    "id": 28,
+    "text": "when near a stunned enemy to "
+  },
+  {
+    "id": 29,
+    "text": "perform a wrestling move."
+  }
+]

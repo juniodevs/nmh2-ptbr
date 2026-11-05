@@ -1,0 +1,227 @@
+[
+  {
+    "id": 0,
+    "original": "Got some health",
+    "translation": "Recuperou vida"
+  },
+  {
+    "id": 1,
+    "original": "Battery juiced",
+    "translation": "Bateria recarregada"
+  },
+  {
+    "id": 2,
+    "original": "Max Health-- Feeling Pretty!",
+    "translation": "Vida Máxima-- Sextou, caralho!"
+  },
+  {
+    "id": 3,
+    "original": "Max Battery-- Extra Cranked!",
+    "translation": "Bateria Máxima-- No Talo!"
+  },
+  {
+    "id": 4,
+    "original": "Ecstasy Gauge increased",
+    "translation": "Barra de Êxtase aumentada"
+  },
+  {
+    "id": 5,
+    "original": "Poisoned",
+    "translation": "Envenenado"
+  },
+  {
+    "id": 6,
+    "original": "Poison healed",
+    "translation": "Veneno curado"
+  },
+  {
+    "id": 7,
+    "original": "Hustled some cash",
+    "translation": "Caiu o Pix!"
+  },
+  {
+    "id": 8,
+    "original": "Kill Everybody!",
+    "translation": "Mate Todo Mundo!"
+  },
+  {
+    "id": 9,
+    "original": "Locked",
+    "translation": "Trancado"
+  },
+  {
+    "id": 10,
+    "original": "Unlocked",
+    "translation": "Destrancado"
+  },
+  {
+    "id": 11,
+    "original": "Smash the Door",
+    "translation": "Arrombe a Porta"
+  },
+  {
+    "id": 12,
+    "original": "Press  *R  during battle ",
+    "translation": "Aperte  *R  na batalha "
+  },
+  {
+    "id": 13,
+    "original": "to switch to a different weapon.",
+    "translation": "para trocar de arma."
+  },
+  {
+    "id": 14,
+    "original": "Location will be displayed as a - - on the map.",
+    "translation": "O local será exibido como um - - no mapa."
+  },
+  {
+    "id": 15,
+    "original": "Eradicate all enemies wielding Japanese swords",
+    "translation": "Elimine todos os inimigos com espadas japonesas"
+  },
+  {
+    "id": 16,
+    "original": "Obtained Sandbag",
+    "translation": "Obteve Saco de Pancadas"
+  },
+  {
+    "id": 17,
+    "original": "Obtained Glastonbury",
+    "translation": "Obteve Glastonbury"
+  },
+  {
+    "id": 18,
+    "original": "Obtained Santa Death Parade",
+    "translation": "Obteve Santa Death Parade"
+  },
+  {
+    "id": 19,
+    "original": "Obtained Doorway Curtain",
+    "translation": "Obteve Cortina de Entrada"
+  },
+  {
+    "id": 20,
+    "original": "Obtained Strawberry Goods",
+    "translation": "Obteve Colecionável Strawberry"
+  },
+  {
+    "id": 21,
+    "original": "Obtained Nut & Berry Goods",
+    "translation": "Obteve Colecionável Nut & Berry"
+  },
+  {
+    "id": 22,
+    "original": "Obtained Blueberry Goods",
+    "translation": "Obteve Colecionável Blueberry"
+  },
+  {
+    "id": 23,
+    "original": "Obtained Gooseberry Goods",
+    "translation": "Obteve Colecionável Gooseberry"
+  },
+  {
+    "id": 24,
+    "original": "Obtained Cranberry Goods",
+    "translation": "Obteve Colecionável Cranberry"
+  },
+  {
+    "id": 25,
+    "original": "Obtained Pure White Lover Bizarre Jelly Five poster",
+    "translation": "Obteve Pôster Pure White Lover Bizarre Jelly 5"
+  },
+  {
+    "id": 26,
+    "original": "Obtained Surfboard",
+    "translation": "Obteve Prancha de Surfe"
+  },
+  {
+    "id": 27,
+    "original": "Obtained Schpeltiger Plastic Model",
+    "translation": "Obteve Miniatura da Schpeltiger"
+  },
+  {
+    "id": 28,
+    "original": "Obtained Ass Washer",
+    "translation": "Obteve Duchinha Higiênica"
+  },
+  {
+    "id": 29,
+    "original": "Obtained Motel Carpet",
+    "translation": "Obteve Carpete do Motel"
+  },
+  {
+    "id": 30,
+    "original": "Obtained UAA KILLER COLLECTION NO.51",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 51"
+  },
+  {
+    "id": 31,
+    "original": "Obtained UAA KILLER COLLECTION NO.50",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 50"
+  },
+  {
+    "id": 32,
+    "original": "Obtained UAA KILLER COLLECTION NO.25-49",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 25-49"
+  },
+  {
+    "id": 33,
+    "original": "Obtained UAA KILLER COLLECTION  The Challenger",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA  O Desafiante"
+  },
+  {
+    "id": 34,
+    "original": "Obtained UAA KILLER COLLECTION NO.24",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 24"
+  },
+  {
+    "id": 35,
+    "original": "Obtained UAA KILLER COLLECTION NO.23",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 23"
+  },
+  {
+    "id": 36,
+    "original": "Obtained UAA KILLER COLLECTION NO.10",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 10"
+  },
+  {
+    "id": 37,
+    "original": "Obtained UAA KILLER COLLECTION NO.9",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 9"
+  },
+  {
+    "id": 38,
+    "original": "Obtained UAA KILLER COLLECTION NO.8",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 8"
+  },
+  {
+    "id": 39,
+    "original": "Obtained UAA KILLER COLLECTION NO.7",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 7"
+  },
+  {
+    "id": 40,
+    "original": "Obtained UAA KILLER COLLECTION Dream Assassin",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA  Assassino dos Sonhos"
+  },
+  {
+    "id": 41,
+    "original": "Obtained UAA KILLER COLLECTION NO.4",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 4"
+  },
+  {
+    "id": 42,
+    "original": "Obtained UAA KILLER COLLECTION NO.3",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 3"
+  },
+  {
+    "id": 43,
+    "original": "Obtained UAA KILLER COLLECTION NO.2",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 2"
+  },
+  {
+    "id": 44,
+    "original": "Obtained UAA KILLER COLLECTION NO.1",
+    "translation": "Obteve COLEÇÃO ASSASSINOS UAA Nº 1"
+  }
+]

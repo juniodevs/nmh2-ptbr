@@ -1,0 +1,55 @@
+{
+  "Type": "RMHG",
+  "Version": 1069,
+  "String flag": 1,
+  "Data": [
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 0,
+      "Resource Name": "MESSAGE",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 1,
+            "Resource Name": "EVEITEM_MES_1002.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 2,
+            "Resource Name": "EVEITEM_MES_1002_GC.BIN"
+          }
+        ]
+      }
+    },
+    {
+      "Flags": 1,
+      "Version": 1069,
+      "Resource ID": 3,
+      "Resource Name": "TXT",
+      "Resource": {
+        "Type": "RMHG",
+        "Version": 1069,
+        "Data": [
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 4,
+            "Resource Name": "EVEITEM_TXTE1002.GDL"
+          },
+          {
+            "Flags": 0,
+            "Version": 1069,
+            "Resource ID": 5,
+            "Resource Name": "EVEITEM_TXTE1002_GC.BIN"
+          }
+        ]
+      }
+    }
+  ]
+}
