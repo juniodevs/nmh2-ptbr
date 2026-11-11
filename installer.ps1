@@ -107,7 +107,21 @@ function Install-Translation {
             $env:GAME_EXE_OVERRIDE = $exePath
             & python $patchScript
         }
+        Copy-Item -Path $patchScript -Destination (Join-Path $gameDir "patch_exe.py") -Force
     }
+
+    # Copiar o auto-atualizador para a pasta do jogo
+    foreach ($toolName in @("Atualizar_Traducao.bat", "updater.ps1")) {
+        $toolSrc = Join-Path $PSScriptRoot $toolName
+        if (Test-Path $toolSrc) {
+            Copy-Item -Path $toolSrc -Destination (Join-Path $gameDir $toolName) -Force
+        }
+    }
+
+    # Gravar versao instalada
+    $versionSrc = Join-Path $PSScriptRoot "version.txt"
+    $versionVal = if (Test-Path $versionSrc) { (Get-Content $versionSrc -Raw).Trim() } else { "v1.0.1-beta" }
+    Set-Content -Path (Join-Path $gameDir "version.txt") -Value $versionVal -Force
 
     Write-Host ""
     Write-Host "Traducao instalada com sucesso ($total arquivos copiados)." -ForegroundColor Green

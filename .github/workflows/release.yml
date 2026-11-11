@@ -40,7 +40,7 @@ jobs:
         run: |
           python tools/release/build_release_package.py
 
-      - name: Compactar pacote em ZIP
+      - name: Compactar pacotes em ZIP
         id: package
         shell: pwsh
         run: |
@@ -50,7 +50,13 @@ jobs:
           $hash = (Get-FileHash $zipName -Algorithm SHA256).Hash
           Write-Host "Arquivo criado: $zipName"
           Write-Host "SHA256: $hash"
-          echo "zip_path=$zipName" >> $env:GITHUB_OUTPUT
+
+          $updateDir = "release/No_More_Heroes_2_Traducao_PTBR_Update"
+          $zipUpdate = "No_More_Heroes_2_Traducao_PTBR_Update.zip"
+          Compress-Archive -Path "$updateDir\*" -DestinationPath $zipUpdate -Force
+          $hashUp = (Get-FileHash $zipUpdate -Algorithm SHA256).Hash
+          Write-Host "Arquivo criado: $zipUpdate"
+          Write-Host "SHA256: $hashUp"
 
       - name: Definir tag da release
         id: vars
@@ -72,5 +78,7 @@ jobs:
           body_path: release/No_More_Heroes_2_Traducao_PTBR_Beta/LEIA-ME.txt
           draft: false
           prerelease: ${{ steps.vars.outputs.prerelease == 'true' }}
-          files: ${{ steps.package.outputs.zip_path }}
+          files: |
+            No_More_Heroes_2_Traducao_PTBR_Beta.zip
+            No_More_Heroes_2_Traducao_PTBR_Update.zip
 

@@ -55,12 +55,21 @@ STRING_PATCHES = [
     (b'JOB MISSION 08\x00\x00', b'BICO CLT 08\x00\x00\x00\x00\x00'),
 
     (b'BUG OUT\x00', b'INSETOS\x00'),
-    (b'LAY THE PIPE\x00\x00\x00\x00', b'DESENTUP. BOSTA\x00'),
+    (b'LAY THE PIPE\x00\x00\x00\x00', b'LIMPA-BOSTA\x00\x00\x00\x00\x00'),
     (b'COCONUT GRABBER\x00', b'CATAR COCOS\x00\x00\x00\x00\x00'),
     (b'MAN THE MEAT\x00\x00\x00\x00', b'CHURRASQUEIRO\x00\x00\x00'),
     (b'TILE IN STYLE\x00\x00\x00', b'AZULEJISTA CLT\x00\x00'),
     (b'GETTING TRASHED\x00', b'CATADOR DE LIXO\x00'),
     (b'STINGS SO GOOD\x00\x00', b'ESCORPIOES CLT\x00\x00'),
+
+    (b':LIFT UP/DOWN\x00\x00\x00', b':SUBIR/DESCER\x00\x00\x00'),
+    (b':TURN\x00\x00\x00', b':GIRAR\x00\x00'),
+    (b':MOVE\x00\x00\x00', b':MOVER\x00\x00'),
+    (b':SUCK IN\x00\x00\x00\x00', b':ASPIRAR\x00\x00\x00\x00'),
+    (b':USE INSECTICIDE\x00\x00\x00\x00', b':USAR INSETICIDA\x00\x00\x00\x00'),
+    (b'INSECTICIDE\x00', b'INSETICIDA\x00\x00'),
+    (b'ANTIDOTE\x00\x00\x00\x00', b'ANTIDOTO\x00\x00\x00\x00'),
+    (b'BUGS\x00\x00\x00\x00', b'INSETOS\x00'),
 
     (b'STATUS\x00\x00', b'STATUS\x00\x00'),
     (b'DATA\x00\x00\x00\x00', b'DADOS\x00\x00\x00'),

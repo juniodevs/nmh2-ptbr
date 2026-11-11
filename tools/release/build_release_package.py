@@ -8,10 +8,11 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 DIST_DIR = PROJECT_ROOT / "release" / "No_More_Heroes_2_Traducao_PTBR_Beta"
 PAYLOAD_DIR = DIST_DIR / "traducao_arquivos"
+UPDATE_DIR = PROJECT_ROOT / "release" / "No_More_Heroes_2_Traducao_PTBR_Update"
 SRC_TRANS = PROJECT_ROOT / "data" / "translated"
 
 def copy_payload():
-    print(f"[+] Preparando pasta de destino: {DIST_DIR}...")
+    print(f"[+] Preparando pasta de destino completa: {DIST_DIR}...")
     if PAYLOAD_DIR.exists():
         shutil.rmtree(PAYLOAD_DIR)
     PAYLOAD_DIR.mkdir(parents=True, exist_ok=True)
@@ -45,11 +46,11 @@ def copy_payload():
                 copied_count += 1
                 total_bytes += p.stat().st_size
 
-    print(f"[+] {copied_count} arquivos copiados para o payload ({total_bytes / (1024*1024):.1f} MB).")
+    print(f"[+] {copied_count} arquivos copiados para o payload completo ({total_bytes / (1024*1024):.1f} MB).")
 
-def create_readme():
-    readme_path = DIST_DIR / "LEIA-ME.txt"
-    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.0)
+def create_readme(dest_dir: Path):
+    readme_path = dest_dir / "LEIA-ME.txt"
+    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.1)
 
 Versao Beta de testes da traducao em Portugues do Brasil para a versao de PC (Steam).
 
@@ -61,21 +62,31 @@ CREDITOS:
 - Vickz_Joga: testes e validacao em gameplay (https://www.youtube.com/@Vickz_Joga)
 - Timo654: ferramenta No-More-RSL
 
-DESTAQUES DA VERSAO BETA:
+NOVIDADES DA VERSAO BETA v1.0.1:
+- Ryan's Gym: Corrigido o travamento que deixava o Ryan sem HUD ao perder minigame de treino.
+- Correcao preventiva de integridade em Airport 51 (STG3000) e Laboratorio da Naomi (STG3003).
+- Minigame de canos ajustado para "LIMPA-BOSTA", sem corte de texto na tela.
+- Botoes e comandos dos minigames retro traduzidos (:GIRAR, :SUBIR/DESCER, :MOVER, :ASPIRAR, :USAR INSETICIDA, etc.).
+- Novo sistema de atualizacao automatica em 1 clique (Atualizar_Traducao.bat) e pacote leve de update.
+
+DESTAQUES DA VERSAO BETA GERAL:
 - Nova fonte retro VCR OSD Mono calibrada pixel a pixel, combinando com a estetica do jogo.
 - Alinhamento vertical fixo na linha de base, evitando que acentos empurrem a legenda para baixo.
 - Correcao dos caracteres corrompidos em letras maiusculas (como C e L).
 - Traducao completa do motel do Travis (armario, revistas de wrestling, minigame da Jeane, baloes e TV).
 - Traducao das lojas e instalacoes de Santa Destroy (Airport 51, Laboratorio da Naomi e Academia do Ryan).
 - Menus e prompts de interacao traduzidos diretamente no executavel nmh2.exe (Trocar, Comprar, Estante, Revistas, Brincar, Escolher, Girar).
-- Remocao completa de mencoes extras e creditos consolidados exclusivamente para juniodevs e Vickz_Joga.
 
-COMO INSTALAR:
+COMO INSTALAR (PRIMEIRA VEZ):
 1. Feche o jogo caso ele esteja aberto.
 2. De um duplo-clique no arquivo Instalar_Traducao.bat.
 3. O instalador tentara localizar a pasta do jogo na Steam automaticamente. Caso seu jogo esteja instalado em outro lugar, digite ou arraste o caminho da pasta onde fica o nmh2.exe.
 4. Escolha a opcao 1 para instalar.
-   O instalador copia os arquivos necessarios e cria automaticamente uma pasta chamada .backup dentro da pasta do jogo com os arquivos originais em ingles.
+   O instalador cria automaticamente uma pasta chamada .backup dentro da pasta do jogo com os arquivos originais em ingles.
+
+COMO ATUALIZAR CASO JA TENHA UMA VERSAO ANTERIOR:
+1. De um duplo-clique no arquivo Atualizar_Traducao.bat.
+2. O script consulta o GitHub e atualiza apenas os arquivos necessarios em poucos segundos.
 
 COMO DESINSTALAR OU RESTAURAR O JOGO ORIGINAL:
 1. Abra o arquivo Instalar_Traducao.bat novamente.
@@ -83,11 +94,11 @@ COMO DESINSTALAR OU RESTAURAR O JOGO ORIGINAL:
    Ele copia de volta todos os arquivos salvos na pasta .backup, voltando o jogo ao estado original sem precisar baixar nada novamente na Steam.
 """
     readme_path.write_text(content, encoding="utf-8")
-    print(f"[+] Criado {readme_path.name}")
+    print(f"[+] Criado {readme_path.name} em {dest_dir.name}")
 
-def create_installer_bat():
-    bat_path = DIST_DIR / "Instalar_Traducao.bat"
-    content = """@echo off
+def create_bats_and_scripts(dest_dir: Path):
+    bat_install = dest_dir / "Instalar_Traducao.bat"
+    bat_install.write_text("""@echo off
 chcp 65001 >nul
 title No More Heroes 2 - Traducao PT-BR [Instalador Beta]
 color 0B
@@ -98,34 +109,77 @@ if %errorlevel% neq 0 (
     echo Pressione qualquer tecla para fechar...
     pause >nul
 )
-"""
-    bat_path.write_text(content, encoding="utf-8")
-    print(f"[+] Criado {bat_path.name}")
+""", encoding="utf-8")
 
-def copy_installer_scripts():
-    ps1_src = PROJECT_ROOT / "installer.ps1"
-    ps1_dst = DIST_DIR / "installer.ps1"
-    shutil.copy2(ps1_src, ps1_dst)
-    print(f"[+] Copiado {ps1_dst.name} para a pasta da release")
+    bat_update = dest_dir / "Atualizar_Traducao.bat"
+    bat_update.write_text("""@echo off
+chcp 65001 >nul
+title No More Heroes 2 - Traducao PT-BR [Atualizador]
+color 0A
 
-    patch_exe_src = PROJECT_ROOT / "tools" / "reinsertion" / "patch_exe.py"
-    patch_exe_dst = DIST_DIR / "patch_exe.py"
-    if patch_exe_src.exists():
-        shutil.copy2(patch_exe_src, patch_exe_dst)
-        print(f"[+] Copiado {patch_exe_dst.name} para a pasta da release")
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0updater.ps1"
+if %errorlevel% neq 0 (
+    echo.
+    echo Pressione qualquer tecla para fechar...
+    pause >nul
+)
+""", encoding="utf-8")
+
+    for f_name in ["installer.ps1", "updater.ps1", "version.txt"]:
+        src = PROJECT_ROOT / f_name
+        if src.exists():
+            shutil.copy2(src, dest_dir / f_name)
+
+    patch_exe = PROJECT_ROOT / "tools" / "reinsertion" / "patch_exe.py"
+    if patch_exe.exists():
+        shutil.copy2(patch_exe, dest_dir / "patch_exe.py")
+
+def build_update_package():
+    print(f"\n[+] Preparando pacote leve de UPDATE em: {UPDATE_DIR}...")
+    if UPDATE_DIR.exists():
+        shutil.rmtree(UPDATE_DIR)
+    UPDATE_DIR.mkdir(parents=True, exist_ok=True)
+
+    up_payload = UPDATE_DIR / "traducao_arquivos"
+    up_payload.mkdir(parents=True, exist_ok=True)
+
+    # Arquivos atualizados nesta versao
+    updated_files = [
+        "STG/STG3000/STG3000.bin",
+        "STG/STG3003/STG3003.bin",
+        "STG/STG3004/STG3004.bin",
+        "STG/STG7000/STG7000.bin",
+    ]
+
+    total_bytes = 0
+    for rel in updated_files:
+        src = SRC_TRANS / rel
+        dst = up_payload / rel
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(src, dst)
+        total_bytes += src.stat().st_size
+
+    create_readme(UPDATE_DIR)
+    create_bats_and_scripts(UPDATE_DIR)
+
+    print(f"[+] Pacote de UPDATE montado: {len(updated_files)} fases modificadas ({total_bytes / (1024*1024):.1f} MB).")
 
 def main():
     print("=" * 65)
-    print("  CONSTRUINDO PACOTE BETA RELEASE (GITHUB)                       ")
+    print("  CONSTRUINDO PACOTES DE RELEASE E UPDATE (GITHUB)               ")
     print("=" * 65 + "\n")
 
+    # 1. Pacote completo
     copy_payload()
-    create_readme()
-    create_installer_bat()
-    copy_installer_scripts()
+    create_readme(DIST_DIR)
+    create_bats_and_scripts(DIST_DIR)
 
-    print("\n[OK] Estrutura da release beta preparada com sucesso em:")
-    print(f"     {DIST_DIR}\n")
+    # 2. Pacote leve de update
+    build_update_package()
+
+    print("\n[OK] Pacotes preparados com sucesso:")
+    print(f"     Completo: {DIST_DIR}")
+    print(f"     Update:   {UPDATE_DIR}\n")
 
 if __name__ == "__main__":
     main()

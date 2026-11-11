@@ -24,6 +24,12 @@ Se passar por algum erro, abra uma Issue aqui no repositório informando a fase,
 
 O instalador cria uma cópia dos arquivos originais em uma pasta `.backup` dentro do diretório do jogo antes de substituir qualquer dado.
 
+## Como atualizar a tradução
+
+Se você já possui a tradução instalada no seu jogo:
+1. Abra o arquivo `Atualizar_Traducao.bat` (disponível na pasta do jogo ou no pacote baixado).
+2. O atualizador verifica a versão instalada, consulta novas releases no GitHub e baixa apenas os arquivos atualizados automaticamente (~40 MB em vez de ~700 MB).
+
 ## Como restaurar o jogo original
 
 1. Abra o arquivo `Instalar_Traducao.bat`.

@@ -1,4 +1,4 @@
-NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.0)
+NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.1)
 
 Versao Beta de testes da traducao em Portugues do Brasil para a versao de PC (Steam).
 
@@ -10,21 +10,31 @@ CREDITOS:
 - Vickz_Joga: testes e validacao em gameplay (https://www.youtube.com/@Vickz_Joga)
 - Timo654: ferramenta No-More-RSL
 
-DESTAQUES DA VERSAO BETA:
+NOVIDADES DA VERSAO BETA v1.0.1:
+- Ryan's Gym: Corrigido o travamento que deixava o Ryan sem HUD ao perder minigame de treino.
+- Correcao preventiva de integridade em Airport 51 (STG3000) e Laboratorio da Naomi (STG3003).
+- Minigame de canos ajustado para "LIMPA-BOSTA", sem corte de texto na tela.
+- Botoes e comandos dos minigames retro traduzidos (:GIRAR, :SUBIR/DESCER, :MOVER, :ASPIRAR, :USAR INSETICIDA, etc.).
+- Novo sistema de atualizacao automatica em 1 clique (Atualizar_Traducao.bat) e pacote leve de update.
+
+DESTAQUES DA VERSAO BETA GERAL:
 - Nova fonte retro VCR OSD Mono calibrada pixel a pixel, combinando com a estetica do jogo.
 - Alinhamento vertical fixo na linha de base, evitando que acentos empurrem a legenda para baixo.
 - Correcao dos caracteres corrompidos em letras maiusculas (como C e L).
 - Traducao completa do motel do Travis (armario, revistas de wrestling, minigame da Jeane, baloes e TV).
 - Traducao das lojas e instalacoes de Santa Destroy (Airport 51, Laboratorio da Naomi e Academia do Ryan).
 - Menus e prompts de interacao traduzidos diretamente no executavel nmh2.exe (Trocar, Comprar, Estante, Revistas, Brincar, Escolher, Girar).
-- Remocao completa de mencoes extras e creditos consolidados exclusivamente para juniodevs e Vickz_Joga.
 
-COMO INSTALAR:
+COMO INSTALAR (PRIMEIRA VEZ):
 1. Feche o jogo caso ele esteja aberto.
 2. De um duplo-clique no arquivo Instalar_Traducao.bat.
 3. O instalador tentara localizar a pasta do jogo na Steam automaticamente. Caso seu jogo esteja instalado em outro lugar, digite ou arraste o caminho da pasta onde fica o nmh2.exe.
 4. Escolha a opcao 1 para instalar.
-   O instalador copia os arquivos necessarios e cria automaticamente uma pasta chamada .backup dentro da pasta do jogo com os arquivos originais em ingles.
+   O instalador cria automaticamente uma pasta chamada .backup dentro da pasta do jogo com os arquivos originais em ingles.
+
+COMO ATUALIZAR CASO JA TENHA UMA VERSAO ANTERIOR:
+1. De um duplo-clique no arquivo Atualizar_Traducao.bat.
+2. O script consulta o GitHub e atualiza apenas os arquivos necessarios em poucos segundos.
 
 COMO DESINSTALAR OU RESTAURAR O JOGO ORIGINAL:
 1. Abra o arquivo Instalar_Traducao.bat novamente.
