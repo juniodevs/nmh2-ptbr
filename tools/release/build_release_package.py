@@ -50,7 +50,7 @@ def copy_payload():
 
 def create_readme(dest_dir: Path):
     readme_path = dest_dir / "LEIA-ME.txt"
-    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.2)
+    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.3)
 
 Versao Beta de testes da traducao em Portugues do Brasil para a versao de PC (Steam).
 
@@ -62,14 +62,13 @@ CREDITOS:
 - Vickz_Joga: testes e validacao em gameplay (https://www.youtube.com/@Vickz_Joga)
 - Timo654: ferramenta No-More-RSL
 
-NOVIDADES DA VERSAO BETA v1.0.2:
-- Boss 2 (Nathan Copeland): Corrigido o crash ao derrotar o chefe (restaurado ponteiro do golpe de finalizacao/grapple Jacob's Ladder no executavel nmh2.exe).
-- Ranking Results Screen: Corrigidos cabecalhos DDS das telas de resultado e banners (ResultEE.RSL, FaildEE.RSL, sm_startEE.RSL) com conformidade total a engine grafica.
-- Ryan's Gym: Corrigido o travamento que deixava o Ryan sem HUD ao perder minigame de treino.
-- Correcao preventiva de integridade em Airport 51 (STG3000) e Laboratorio da Naomi (STG3003).
-- Minigame de canos ajustado para "LIMPA-BOSTA", sem corte de texto na tela.
-- Botoes e comandos dos minigames retro traduzidos (:GIRAR, :SUBIR/DESCER, :MOVER, :ASPIRAR, :USAR INSETICIDA, etc.).
-- Sistema de atualizacao automatica em 1 clique (Atualizar_Traducao.bat) e pacote leve de update.
+NOVIDADES DA VERSAO BETA v1.0.3:
+- Baloes de interacao do Motel traduzidos em pixel-art autentico: TELEVISAO, ESTANTE, ARMARIO, BANHEIRO e SAIR (texturas DDS nativas em BALLOON_TEXTURE/US dentro de STG3001.bin).
+- Interface completa da tela de salvamento (Privada / Banheiro) e carregamento traduzida diretamente no nmh2.exe: SALVAR, CARREGAR, SALVANDO..., VAZIO, SLOT.01, SLOT.02..., SALVAR?, CARREGAR?.
+- Academia do Ryan (STG3004): corrigido em definitivo o travamento/softlock que deixava o Ryan sem HUD apos perder o minigame, restaurando a fonte nativa Ninepin Bold e alinhando os dados a 16 bytes.
+- Minigame de canos ajustado para "LIMPA-BOSTA", sem estouro visual de texto na tela.
+- Boss 2 (Nathan Copeland): crash ao derrotar o chefe resolvido atraves da restauracao do grapple Jacob's Ladder.
+- Pacote leve de update otimizado (~75 MB) com atualizacao automatica via Atualizar_Traducao.bat.
 
 DESTAQUES DA VERSAO BETA GERAL:
 - Nova fonte retro VCR OSD Mono calibrada pixel a pixel, combinando com a estetica do jogo.
@@ -148,6 +147,7 @@ def build_update_package():
     # Arquivos atualizados nesta versao
     updated_files = [
         "STG/STG3000/STG3000.bin",
+        "STG/STG3001/STG3001.bin",
         "STG/STG3003/STG3003.bin",
         "STG/STG3004/STG3004.bin",
         "STG/STG7000/STG7000.bin",

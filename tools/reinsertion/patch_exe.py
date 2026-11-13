@@ -105,6 +105,14 @@ STRING_PATCHES = [
     (b'THANK YOU!\x00\x00', b'VALEU MESMO\x00'),
     (b'CHECK POINT\x00', b'CHECKPOINT\x00\x00'),
 
+    (b'SAVE\x00\x00\x00\x00', b'SALVAR\x00\x00'),
+    (b'LOAD\x00\x00\x00\x00', b'CARREGA\x00'),
+    (b'SAVE?\x00\x00\x00', b'SALVAR?\x00'),
+    (b'LOAD?\x00\x00\x00', b'ABRIR?\x00\x00'),
+    (b'NO DATA\x00', b'VAZIO\x00\x00\x00'),
+    (b'SAVING\x00\x00', b'SALVA..\x00'),
+    (b'FILE\x00\x00\x00\x00', b'SLOT\x00\x00\x00\x00'),
+
     (b'CREATE NEW FILE?\x00\x00\x00\x00', b'CRIAR NOVO ARQUIVO?\x00'),
     (b'OVERWRITE?\x00\x00', b'SUBSTITUIR?\x00'),
     (b'SAVE OK\x00', b'SALVO!\x00\x00'),
@@ -209,6 +217,28 @@ def apply_patch():
             struct.pack_into('<I', data, p_off, 0xA33CA8)
             if verbose:
                 print(f"  [+] Restaurado ponteiro critico em 0x{p_off:X} para original 0xA33CA8")
+
+    # Repontar strings de Save/Load para zero-padding em .rdata (0x67EF20 / VA 0x00A7FB20)
+    off_carregar = 0x67EF20
+    va_carregar = 0x00A7FB20
+    data[off_carregar : off_carregar + 16] = b'CARREGAR\x00\x00\x00\x00\x00\x00\x00\x00'
+
+    off_carregar_q = 0x67EF30
+    va_carregar_q = 0x00A7FB30
+    data[off_carregar_q : off_carregar_q + 16] = b'CARREGAR?\x00\x00\x00\x00\x00\x00\x00'
+
+    off_salvando = 0x67EF40
+    va_salvando = 0x00A7FB40
+    data[off_salvando : off_salvando + 16] = b'SALVANDO...\x00\x00\x00\x00\x00'
+
+    for off in [0x3CE62A, 0x60D540, 0x60E1E0]:
+        struct.pack_into('<I', data, off, va_carregar)
+
+    for off in [0x60D548, 0x60E1E8]:
+        struct.pack_into('<I', data, off, va_carregar_q)
+
+    for off in [0x60D5C0, 0x60D898, 0x60E260, 0x60E538]:
+        struct.pack_into('<I', data, off, va_salvando)
 
     orig_len = BACKUP_EXE.stat().st_size
     assert len(data) == orig_len, f"ERRO CRITICO: Tamanho do executavel foi alterado! {len(data)} != {orig_len}"

@@ -120,7 +120,7 @@ function Install-Translation {
 
     # Gravar versao instalada
     $versionSrc = Join-Path $PSScriptRoot "version.txt"
-    $versionVal = if (Test-Path $versionSrc) { (Get-Content $versionSrc -Raw).Trim() } else { "v1.0.1-beta" }
+    $versionVal = if (Test-Path $versionSrc) { (Get-Content $versionSrc -Raw).Trim() } else { "v1.0.3-beta" }
     Set-Content -Path (Join-Path $gameDir "version.txt") -Value $versionVal -Force
 
     Write-Host ""
