@@ -50,7 +50,7 @@ def copy_payload():
 
 def create_readme(dest_dir: Path):
     readme_path = dest_dir / "LEIA-ME.txt"
-    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.1)
+    content = """NO MORE HEROES 2: DESPERATE STRUGGLE - TRADUCAO PT-BR (BETA v1.0.2)
 
 Versao Beta de testes da traducao em Portugues do Brasil para a versao de PC (Steam).
 
@@ -62,12 +62,14 @@ CREDITOS:
 - Vickz_Joga: testes e validacao em gameplay (https://www.youtube.com/@Vickz_Joga)
 - Timo654: ferramenta No-More-RSL
 
-NOVIDADES DA VERSAO BETA v1.0.1:
+NOVIDADES DA VERSAO BETA v1.0.2:
+- Boss 2 (Nathan Copeland): Corrigido o crash ao derrotar o chefe (restaurado ponteiro do golpe de finalizacao/grapple Jacob's Ladder no executavel nmh2.exe).
+- Ranking Results Screen: Corrigidos cabecalhos DDS das telas de resultado e banners (ResultEE.RSL, FaildEE.RSL, sm_startEE.RSL) com conformidade total a engine grafica.
 - Ryan's Gym: Corrigido o travamento que deixava o Ryan sem HUD ao perder minigame de treino.
 - Correcao preventiva de integridade em Airport 51 (STG3000) e Laboratorio da Naomi (STG3003).
 - Minigame de canos ajustado para "LIMPA-BOSTA", sem corte de texto na tela.
 - Botoes e comandos dos minigames retro traduzidos (:GIRAR, :SUBIR/DESCER, :MOVER, :ASPIRAR, :USAR INSETICIDA, etc.).
-- Novo sistema de atualizacao automatica em 1 clique (Atualizar_Traducao.bat) e pacote leve de update.
+- Sistema de atualizacao automatica em 1 clique (Atualizar_Traducao.bat) e pacote leve de update.
 
 DESTAQUES DA VERSAO BETA GERAL:
 - Nova fonte retro VCR OSD Mono calibrada pixel a pixel, combinando com a estetica do jogo.
@@ -149,6 +151,9 @@ def build_update_package():
         "STG/STG3003/STG3003.bin",
         "STG/STG3004/STG3004.bin",
         "STG/STG7000/STG7000.bin",
+        "Hide/RankingUp/ResultEE.RSL",
+        "Hide/RankingUp/FaildEE.RSL",
+        "Hide/RankingUp/sm_startEE.RSL",
     ]
 
     total_bytes = 0

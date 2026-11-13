@@ -201,13 +201,14 @@ def apply_patch():
             pos += len(s_orig)
 
     import struct
-    map_pointers = [0x60D6A8, 0x60E348, 0x14CD79]
-    for p_off in map_pointers:
-        old_val = struct.unpack('<I', data[p_off : p_off + 4])[0]
-        if old_val == 0xA33CA8:
-            struct.pack_into('<I', data, p_off, 0xA36684)
+    # Garantir que ponteiros criticos de combate / finalizacao impecam crash ao derrotar chefes
+    restore_pointers = [0x60D6A8, 0x60E348, 0x14CD79]
+    for p_off in restore_pointers:
+        cur_val = struct.unpack('<I', data[p_off : p_off + 4])[0]
+        if cur_val != 0xA33CA8:
+            struct.pack_into('<I', data, p_off, 0xA33CA8)
             if verbose:
-                print(f"  [+] Redirecionado ponteiro MAP -> MAPA em 0x{p_off:X}")
+                print(f"  [+] Restaurado ponteiro critico em 0x{p_off:X} para original 0xA33CA8")
 
     orig_len = BACKUP_EXE.stat().st_size
     assert len(data) == orig_len, f"ERRO CRITICO: Tamanho do executavel foi alterado! {len(data)} != {orig_len}"

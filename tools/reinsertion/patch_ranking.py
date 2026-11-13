@@ -28,7 +28,7 @@ def create_dds_from_image(img: Image.Image) -> bytes:
     struct.pack_into('<I', dds_hdr, 8, 0x1007)
     struct.pack_into('<I', dds_hdr, 12, height)
     struct.pack_into('<I', dds_hdr, 16, width)
-    struct.pack_into('<I', dds_hdr, 20, width*4)
+    struct.pack_into('<I', dds_hdr, 20, 0)
     struct.pack_into('<I', dds_hdr, 28, 0)
 
     struct.pack_into('<I', dds_hdr, 76, 32)
@@ -39,7 +39,7 @@ def create_dds_from_image(img: Image.Image) -> bytes:
     struct.pack_into('<I', dds_hdr, 100, 0x000000FF)
     struct.pack_into('<I', dds_hdr, 104, 0xFF000000)
 
-    struct.pack_into('<I', dds_hdr, 108, 0x1000)
+    struct.pack_into('<I', dds_hdr, 108, 0x1002)
 
     return bytes(dds_hdr) + bgra.tobytes()
 
